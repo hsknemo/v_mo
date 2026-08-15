@@ -1,1 +1,96 @@
-[]
+[
+  {
+    "id": 1,
+    "title": "重器",
+    "originalTitle": "重器",
+    "year": 2026,
+    "rating": 0.0,
+    "genre": [
+      "政政题材",
+      "年代",
+      "内地剧"
+    ],
+    "episodes": "14 / 33集",
+    "director": "",
+    "cast": [
+      "黄景瑜",
+      "蒋奇明",
+      "于和伟",
+      "闫佩伦"
+    ],
+    "summary": "故事始于改革开放初期，一直延续到 1997 年《刑诉法》《刑法》修订。主要人物包括陈一众、余高远、张丽慧、夏英杰等法学院毕业生。讲述了他们毕业后进入了司法领域不同的部门，在如火如荼的司法实践中见证历史、参与历史、与时俱进、不断成长的故事。五人出身不同、个性迥异，在十几年的工作和生活中历经浮沉，走上不同的道路。本剧从整体司法进程的独特视角出发，同时聚集公检法律行业人物，呈现了波澜壮阔的法治历史和大时代中交织交错的人物命运。  ",
+    "poster": "https://hongniuzyimage.com/cover/91c55493154703e8a19e47355b4837db.jpg",
+    "episodeList": [
+      {
+        "id": 1,
+        "title": "第1集",
+        "source": "https://hn.bfvvs.com/play/erk9Zwpa/index.m3u8"
+      },
+      {
+        "id": 2,
+        "title": "第2集",
+        "source": "https://hn.bfvvs.com/play/elY7QnMa/index.m3u8"
+      },
+      {
+        "id": 3,
+        "title": "第3集",
+        "source": "https://hn.bfvvs.com/play/aAD1q5le/index.m3u8"
+      },
+      {
+        "id": 4,
+        "title": "第4集",
+        "source": "https://hn.bfvvs.com/play/b82E853e/index.m3u8"
+      },
+      {
+        "id": 5,
+        "title": "第5集",
+        "source": "https://hn.bfvvs.com/play/bmZywDnd/index.m3u8"
+      },
+      {
+        "id": 6,
+        "title": "第6集",
+        "source": "https://hn.bfvvs.com/play/av2ZgPLa/index.m3u8"
+      },
+      {
+        "id": 7,
+        "title": "第7集",
+        "source": "https://hn.bfvvs.com/play/bo2yVlAa/index.m3u8"
+      },
+      {
+        "id": 8,
+        "title": "第8集",
+        "source": "https://hn.bfvvs.com/play/axk1nxze/index.m3u8"
+      },
+      {
+        "id": 9,
+        "title": "第9集",
+        "source": "https://hn.bfvvs.com/play/azpX76rd/index.m3u8"
+      },
+      {
+        "id": 10,
+        "title": "第10集",
+        "source": "https://hn.bfvvs.com/play/bqxZlQ3a/index.m3u8"
+      },
+      {
+        "id": 11,
+        "title": "第11集",
+        "source": "https://hn.bfvvs.com/play/bo2yymAa/index.m3u8"
+      },
+      {
+        "id": 12,
+        "title": "第12集",
+        "source": "https://hn.bfvvs.com/play/egJ22yDd/index.m3u8"
+      },
+      {
+        "id": 13,
+        "title": "第13集",
+        "source": "https://hn.bfvvs.com/play/bkR7oLKa/index.m3u8"
+      },
+      {
+        "id": 14,
+        "title": "第14集",
+        "source": "https://hn.bfvvs.com/play/bqxZ2nka/index.m3u8"
+      }
+    ]
+  }
+]
