@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "title": "绝命毒师",
+        "originalTitle": "Breaking Bad",
+        "year": 2008,
+        "rating": 9.6,
+        "genre": [
+            "犯罪",
+            "剧情",
+            "惊悚"
+        ],
+        "episodes": "5季 / 62集",
+        "director": "文斯·吉里根",
+        "cast": [
+            "布莱恩·科兰斯顿",
+            "亚伦·保尔"
+        ],
+        "summary": "高中化学老师沃尔特被诊断出肺癌后，为给家人留下财产，与昔日学生杰西联手制毒，一步步堕落为毒枭。",
+        "poster": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=tv%20poster%20breaking%20bad%20desert%20rv%20orange%20tone&image_size=portrait_4_3",
+        "episodeList": [
+            {
+                "id": 1,
+                "title": "第1集 开始",
+                "source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+            },
+            {
+                "id": 2,
+                "title": "第2集 猫在袋中",
+                "source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+            },
+            {
+                "id": 3,
+                "title": "第3集 头痛",
+                "source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+            },
+            {
+                "id": 4,
+                "title": "第4集 癌症蔓延",
+                "source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+            },
+            {
+                "id": 5,
+                "title": "第5集 灰色物质",
+                "source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
+            },
+            {
+                "id": 6,
+                "title": "第6集 狂犬狗",
+                "source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+            }
+        ]
+    }
+]
