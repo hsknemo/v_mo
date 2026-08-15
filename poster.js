@@ -4,19 +4,19 @@ let data_struct = function (item) {
     // 排序id
     id: 1,
     // 剧名
-    title: "重器",
+    title: item.title,
     // 剧别名
-    originalTitle: "重器",
+    originalTitle: item.alias,
     // 上映年份
-    year: 2026,
+    year: item.year,
     // 剧评分
-    rating: 0.0,
+    rating: item.rating,
     // 剧类型
     genre: item.genre,
     // 总共多少集数
     episodes: "14 / 33集",
     // 导演
-    director: "",
+    director: item.director,
     // 主演
     cast: item.cast,
     // 剧介绍
@@ -56,7 +56,7 @@ let item = new data_struct({
   id: 2,
   title,
   rating: rate,
-  genre,
+  genre: genre.split(","),
   director,
   cast: cast.split(","),
   poster,
