@@ -1,0 +1,42 @@
+// 明暗双主题 CSS 变量
+:root {
+  --bg-page: #f5f6f8;
+  --bg-card: #ffffff;
+  --bg-elevated: #ffffff;
+  --bg-header: rgba(255, 255, 255, 0.85);
+  --bg-overlay: rgba(0, 0, 0, 0.45);
+
+  --text-primary: #1d2129;
+  --text-regular: #4e5969;
+  --text-secondary: #86909c;
+  --text-inverse: #ffffff;
+
+  --border-color: #e5e6eb;
+  --border-color-light: #f0f1f3;
+
+  --shadow-card: 0 2px 12px rgba(0, 0, 0, 0.06);
+  --shadow-hover: 0 8px 24px rgba(255, 122, 0, 0.18);
+
+  --gradient-brand: linear-gradient(135deg, #ff7a00 0%, #ffa64d 100%);
+}
+
+html.dark {
+  --bg-page: #141416;
+  --bg-card: #1f1f23;
+  --bg-elevated: #26262b;
+  --bg-header: rgba(31, 31, 35, 0.85);
+  --bg-overlay: rgba(0, 0, 0, 0.65);
+
+  --text-primary: #f0f0f2;
+  --text-regular: #c9cdd4;
+  --text-secondary: #8b8f96;
+  --text-inverse: #141416;
+
+  --border-color: #33333a;
+  --border-color-light: #2a2a30;
+
+  --shadow-card: 0 2px 12px rgba(0, 0, 0, 0.4);
+  --shadow-hover: 0 8px 24px rgba(255, 122, 0, 0.3);
+
+  --gradient-brand: linear-gradient(135deg, #ff7a00 0%, #ff9a3d 100%);
+}

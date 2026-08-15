@@ -1,0 +1,22 @@
+@use './themes.scss';
+
+// Element Plus 主色覆盖为橙色
+:root {
+  --el-color-primary: #ff7a00;
+  --el-color-primary-light-3: #ff9540;
+  --el-color-primary-light-5: #ffb274;
+  --el-color-primary-light-7: #ffd0a8;
+  --el-color-primary-light-8: #ffdec2;
+  --el-color-primary-light-9: #ffebdd;
+  --el-color-primary-dark-2: #cc6200;
+}
+
+html.dark {
+  --el-color-primary: #ff7a00;
+  --el-color-primary-light-3: #ff9540;
+  --el-color-primary-light-5: #ffb274;
+  --el-color-primary-light-7: #ffd0a8;
+  --el-color-primary-light-8: #ffdec2;
+  --el-color-primary-light-9: #2a1d10;
+  --el-color-primary-dark-2: #cc6200;
+}
