@@ -11,41 +11,38 @@
       class="error-alert"
     />
 
+    <!-- 筛选栏暂未开放
     <MediaFilter
       v-show="!error"
       v-model:keyword="keyword"
       v-model:genre="genre"
       :genres="genres"
     />
+    -->
 
     <MediaGrid
       v-show="!error"
       :items="filtered"
       :loading="loading"
-      @select="openDetail"
+      @select="goPlay"
     />
-
-    <MediaDialog v-model="dialogVisible" :item="current" />
   </div>
 </template>
 
 <script setup>
-import { ref, onMounted } from 'vue'
+import { onMounted } from 'vue'
+import { useRouter } from 'vue-router'
 import { useMediaData } from '@/composables/useMediaData'
 import { useMediaFilter } from '@/composables/useMediaFilter'
 import MediaFilter from '@/components/media/MediaFilter.vue'
 import MediaGrid from '@/components/common/MediaGrid.vue'
-import MediaDialog from '@/components/media/MediaDialog.vue'
 
+const router = useRouter()
 const { list, loading, error, load } = useMediaData('tv')
 const { keyword, genre, genres, filtered } = useMediaFilter(list)
 
-const dialogVisible = ref(false)
-const current = ref(null)
-
-function openDetail(item) {
-  current.value = item
-  dialogVisible.value = true
+function goPlay(item) {
+  router.push(`/play/tv/${item.id}`)
 }
 
 onMounted(load)

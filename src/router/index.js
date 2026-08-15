@@ -9,6 +9,13 @@ const routes = site.menus.map((m) => ({
 }))
 
 routes.push({
+  path: '/play/:type/:id',
+  name: 'play',
+  component: () => import('@/views/PlayView.vue'),
+  meta: { title: '播放' }
+})
+
+routes.push({
   path: '/',
   redirect: site.menus[0].path
 })

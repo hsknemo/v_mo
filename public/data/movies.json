@@ -5,12 +5,21 @@
     "originalTitle": "Interstellar",
     "year": 2014,
     "rating": 9.4,
-    "genre": ["科幻", "冒险", "剧情"],
+    "genre": [
+      "科幻",
+      "冒险",
+      "剧情"
+    ],
     "duration": "169分钟",
     "director": "克里斯托弗·诺兰",
-    "cast": ["马修·麦康纳", "安妮·海瑟薇", "杰西卡·查斯坦"],
+    "cast": [
+      "马修·麦康纳",
+      "安妮·海瑟薇",
+      "杰西卡·查斯坦"
+    ],
     "summary": "一队探险家利用最新发现的虫洞超越人类极限，从而展开探索星际的旅程，寻找人类新的家园。",
-    "poster": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=movie%20poster%20interstellar%20space%20cinematic%20orange%20tone&image_size=portrait_4_3"
+    "poster": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=movie%20poster%20interstellar%20space%20cinematic%20orange%20tone&image_size=portrait_4_3",
+    "source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
   },
   {
     "id": 2,
@@ -18,12 +27,20 @@
     "originalTitle": "Inception",
     "year": 2010,
     "rating": 9.3,
-    "genre": ["科幻", "动作", "悬疑"],
+    "genre": [
+      "科幻",
+      "动作",
+      "悬疑"
+    ],
     "duration": "148分钟",
     "director": "克里斯托弗·诺兰",
-    "cast": ["莱昂纳多·迪卡普里奥", "约瑟夫·高登-莱维特"],
+    "cast": [
+      "莱昂纳多·迪卡普里奥",
+      "约瑟夫·高登-莱维特"
+    ],
     "summary": "造梦师带领团队进入他人梦境，从潜意识中盗取秘密，并执行一项几乎不可能的任务：植入想法。",
-    "poster": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=movie%20poster%20inception%20dream%20folded%20city%20orange&image_size=portrait_4_3"
+    "poster": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=movie%20poster%20inception%20dream%20folded%20city%20orange&image_size=portrait_4_3",
+    "source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
   },
   {
     "id": 3,
@@ -31,12 +48,19 @@
     "originalTitle": "The Legend of 1900",
     "year": 1998,
     "rating": 9.3,
-    "genre": ["剧情", "音乐"],
+    "genre": [
+      "剧情",
+      "音乐"
+    ],
     "duration": "125分钟",
     "director": "朱塞佩·托纳多雷",
-    "cast": ["蒂姆·罗斯", "比尔·努恩"],
+    "cast": [
+      "蒂姆·罗斯",
+      "比尔·努恩"
+    ],
     "summary": "1900年元旦，弃婴在弗吉尼亚号邮轮上被船工收养，取名1900，他展现出惊人的钢琴天赋，一生未曾下船。",
-    "poster": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=movie%20poster%20pianist%20on%20ship%20vintage%20warm%20tone&image_size=portrait_4_3"
+    "poster": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=movie%20poster%20pianist%20on%20ship%20vintage%20warm%20tone&image_size=portrait_4_3",
+    "source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
   },
   {
     "id": 4,
@@ -44,12 +68,19 @@
     "originalTitle": "The Shawshank Redemption",
     "year": 1994,
     "rating": 9.7,
-    "genre": ["剧情", "犯罪"],
+    "genre": [
+      "剧情",
+      "犯罪"
+    ],
     "duration": "142分钟",
     "director": "弗兰克·德拉邦特",
-    "cast": ["蒂姆·罗宾斯", "摩根·弗里曼"],
+    "cast": [
+      "蒂姆·罗宾斯",
+      "摩根·弗里曼"
+    ],
     "summary": "银行家安迪被冤入狱，在肖申克监狱中，他凭借智慧与坚持，用近二十年时间挖出通往自由的通道。",
-    "poster": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=movie%20poster%20shawshank%20prison%20rain%20freedom%20orange&image_size=portrait_4_3"
+    "poster": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=movie%20poster%20shawshank%20prison%20rain%20freedom%20orange&image_size=portrait_4_3",
+    "source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
   },
   {
     "id": 5,
@@ -57,12 +88,19 @@
     "originalTitle": "The Truman Show",
     "year": 1998,
     "rating": 9.4,
-    "genre": ["剧情", "科幻"],
+    "genre": [
+      "剧情",
+      "科幻"
+    ],
     "duration": "103分钟",
     "director": "彼得·威尔",
-    "cast": ["金·凯瑞", "劳拉·琳妮"],
+    "cast": [
+      "金·凯瑞",
+      "劳拉·琳妮"
+    ],
     "summary": "楚门是一档热门真人秀的主人公，他身边的一切都是被安排的，当他开始察觉真相，决定走出这虚假的世界。",
-    "poster": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=movie%20poster%20truman%20show%20door%20light%20orange&image_size=portrait_4_3"
+    "poster": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=movie%20poster%20truman%20show%20door%20light%20orange&image_size=portrait_4_3",
+    "source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
   },
   {
     "id": 6,
@@ -70,11 +108,19 @@
     "originalTitle": "Spirited Away",
     "year": 2001,
     "rating": 9.4,
-    "genre": ["动画", "奇幻", "冒险"],
+    "genre": [
+      "动画",
+      "奇幻",
+      "冒险"
+    ],
     "duration": "125分钟",
     "director": "宫崎骏",
-    "cast": ["柊瑠美", "入野自由"],
+    "cast": [
+      "柊瑠美",
+      "入野自由"
+    ],
     "summary": "少女千寻意外闯入神灵世界，父母被变成猪，她为救回父母在汤屋打工，经历奇幻冒险逐渐成长。",
-    "poster": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=movie%20poster%20spirited%20away%20anime%20train%20water%20orange&image_size=portrait_4_3"
+    "poster": "https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=movie%20poster%20spirited%20away%20anime%20train%20water%20orange&image_size=portrait_4_3",
+    "source": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4"
   }
 ]

@@ -25,34 +25,42 @@
         </button>
       </div>
     </div>
-
-    <el-drawer v-model="drawer" direction="rtl" size="70%" :show-close="false">
-      <template #header>
-        <span class="drawer-title">菜单</span>
-      </template>
-      <nav class="nav-mobile">
-        <router-link
-          v-for="m in menus"
-          :key="m.name"
-          :to="m.path"
-          class="mobile-link"
-          active-class="active"
-          @click="drawer = false"
-        >
-          {{ m.label }}
-        </router-link>
-      </nav>
-    </el-drawer>
   </header>
+
+  <transition name="overlay-fade">
+    <div v-if="drawer" class="sidebar-overlay" @click="drawer = false"></div>
+  </transition>
+  <aside class="sidebar" :class="{ open: drawer }">
+    <div class="sidebar-header">
+      <span class="sidebar-title">菜单</span>
+      <button class="sidebar-close" aria-label="关闭" @click="drawer = false">✕</button>
+    </div>
+    <nav class="nav-mobile">
+      <router-link
+        v-for="m in menus"
+        :key="m.name"
+        :to="m.path"
+        class="mobile-link"
+        active-class="active"
+        @click="drawer = false"
+      >
+        {{ m.label }}
+      </router-link>
+    </nav>
+  </aside>
 </template>
 
 <script setup>
-import { ref } from 'vue'
+import { ref, watch } from 'vue'
 import site from '@/config/site'
 import ThemeToggle from '@/components/common/ThemeToggle.vue'
 
 const menus = site.menus
 const drawer = ref(false)
+
+watch(drawer, (open) => {
+  document.body.style.overflow = open ? 'hidden' : ''
+})
 </script>
 
 <style scoped lang="scss">
@@ -145,9 +153,74 @@ const drawer = ref(false)
   }
 }
 
-.drawer-title {
+.sidebar-overlay {
+  position: fixed;
+  inset: 0;
+  background: var(--bg-overlay);
+  z-index: 9998;
+}
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 70%;
+  max-width: 320px;
+  background: var(--bg-card);
+  border-right: 1px solid var(--border-color);
+  box-shadow: 2px 0 16px rgba(0, 0, 0, 0.15);
+  z-index: 9999;
+  transform: translateX(-100%);
+  transition: transform 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  padding: $space-md;
+
+  &.open {
+    transform: translateX(0);
+  }
+}
+
+.sidebar-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: $space-sm $space-sm $space-md;
+  border-bottom: 1px solid var(--border-color-light);
+  margin-bottom: $space-md;
+}
+
+.sidebar-title {
   font-weight: 700;
   font-size: 16px;
+  color: var(--text-primary);
+}
+
+.sidebar-close {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+  line-height: 1;
+  padding: 4px 8px;
+  border-radius: $radius-sm;
+  color: var(--text-secondary);
+  transition: all 0.2s ease;
+
+  &:hover {
+    color: var(--text-primary);
+    background: var(--bg-elevated);
+  }
+}
+
+.overlay-fade-enter-active,
+.overlay-fade-leave-active {
+  transition: opacity 0.3s ease;
+}
+.overlay-fade-enter-from,
+.overlay-fade-leave-to {
+  opacity: 0;
 }
 
 .nav-mobile {

@@ -41,13 +41,13 @@ const qrs = reactive([
   {
     name: '微信赞赏',
     icon: '💚',
-    src: 'https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=wechat%20donation%20QR%20code%20placeholder%20green%20clean&image_size=square_hd',
+    src: '/heart/wechat.png',
     fallback: false
   },
   {
     name: '支付宝赞赏',
     icon: '💙',
-    src: 'https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=alipay%20donation%20QR%20code%20placeholder%20blue%20clean&image_size=square_hd',
+    src: '/heart/alipay.png',
     fallback: false
   }
 ])
