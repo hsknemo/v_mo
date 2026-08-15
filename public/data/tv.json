@@ -427,5 +427,207 @@
         "source": "https://hn.bfvvs.com/play/aKr1Drxe/index.m3u8"
       }
     ]
+  },
+  {
+    "id": 4,
+    "title": "南部档案",
+    "rating": "0.0",
+    "genre": [
+      "剧情",
+      "奇幻",
+      "冒险",
+      "内地剧"
+    ],
+    "episodes": "33集已完结",
+    "director": "周靖韬",
+    "cast": [
+      "张新成",
+      "丁禹兮",
+      "姜珮瑶",
+      "富大龙",
+      "刘令姿",
+      "张宸逍",
+      "李欢",
+      "姜卓君",
+      "徐正溪",
+      "韩栋",
+      "季肖冰",
+      "徐振轩",
+      "程相",
+      "应灏铭",
+      "曲高位",
+      "寇振海",
+      "佟晨洁",
+      "屠显智"
+    ],
+    "summary": "民国初年南洋地区发生的一系列诡异事件。故事以张海盐和张海虾两位南部档案馆的秘密探员为主角，他们调查一起神秘案件，发现案件背后隐藏着军阀利用剧毒植物“黄昏草”散播的阴谋。在调查过程中，张海盐和张海虾经历了生死考验，张海虾甚至因此瘫痪。随着线索逐渐清晰，张海盐发现所有的线索都指向一艘大船——南安号…… 　　该剧改编自南派三叔同名小说。",
+    "poster": "https://hongniuzyimage.com/cover/11dfe2d3b7074d09049400659a2599ff.jpg",
+    "episodeList": [
+      {
+        "id": 1,
+        "title": "第1集",
+        "source": "https://hn.bfvvs.com/play/aQWkKp0d/index.m3u8"
+      },
+      {
+        "id": 2,
+        "title": "第2集",
+        "source": "https://hn.bfvvs.com/play/ejRYgmPe/index.m3u8"
+      },
+      {
+        "id": 3,
+        "title": "第3集",
+        "source": "https://hn.bfvvs.com/play/aKr87NMe/index.m3u8"
+      },
+      {
+        "id": 4,
+        "title": "第4集",
+        "source": "https://hn.bfvvs.com/play/aAD6Xz3e/index.m3u8"
+      },
+      {
+        "id": 5,
+        "title": "第5集",
+        "source": "https://hn.bfvvs.com/play/erk2qr4a/index.m3u8"
+      },
+      {
+        "id": 6,
+        "title": "第6集",
+        "source": "https://hn.bfvvs.com/play/b68WxqVe/index.m3u8"
+      },
+      {
+        "id": 7,
+        "title": "第7集",
+        "source": "https://hn.bfvvs.com/play/elYRLQJa/index.m3u8"
+      },
+      {
+        "id": 8,
+        "title": "第8集",
+        "source": "https://hn.bfvvs.com/play/erk25Zwa/index.m3u8"
+      },
+      {
+        "id": 9,
+        "title": "第9集",
+        "source": "https://hn.bfvvs.com/play/eXDQA78e/index.m3u8"
+      },
+      {
+        "id": 10,
+        "title": "第10集",
+        "source": "https://hn.bfvvs.com/play/dG6R7Yrb/index.m3u8"
+      },
+      {
+        "id": 11,
+        "title": "第11集",
+        "source": "https://hn.bfvvs.com/play/erk2vPka/index.m3u8"
+      },
+      {
+        "id": 12,
+        "title": "第12集",
+        "source": "https://hn.bfvvs.com/play/aAD62B1e/index.m3u8"
+      },
+      {
+        "id": 13,
+        "title": "第13集",
+        "source": "https://hn.bfvvs.com/play/epYZPxNa/index.m3u8"
+      },
+      {
+        "id": 14,
+        "title": "第14集",
+        "source": "https://hn.bfvvs.com/play/ejRYPole/index.m3u8"
+      },
+      {
+        "id": 15,
+        "title": "第15集",
+        "source": "https://hn.bfvvs.com/play/dG6Rom3b/index.m3u8"
+      },
+      {
+        "id": 16,
+        "title": "第16集",
+        "source": "https://hn.bfvvs.com/play/dyPwxNgb/index.m3u8"
+      },
+      {
+        "id": 17,
+        "title": "第17集",
+        "source": "https://hn.bfvvs.com/play/b4x63AJb/index.m3u8"
+      },
+      {
+        "id": 18,
+        "title": "第18集",
+        "source": "https://hn.bfvvs.com/play/e0R87wNb/index.m3u8"
+      },
+      {
+        "id": 19,
+        "title": "第19集",
+        "source": "https://hn.bfvvs.com/play/aAD6YZOe/index.m3u8"
+      },
+      {
+        "id": 20,
+        "title": "第20集",
+        "source": "https://hn.bfvvs.com/play/erk2lDEa/index.m3u8"
+      },
+      {
+        "id": 21,
+        "title": "第21集",
+        "source": "https://hn.bfvvs.com/play/ejRYW94e/index.m3u8"
+      },
+      {
+        "id": 22,
+        "title": "第22集",
+        "source": "https://hn.bfvvs.com/play/epYZWjya/index.m3u8"
+      },
+      {
+        "id": 23,
+        "title": "第23集",
+        "source": "https://hn.bfvvs.com/play/b823yxoe/index.m3u8"
+      },
+      {
+        "id": 24,
+        "title": "第24集",
+        "source": "https://hn.bfvvs.com/play/b2k8povd/index.m3u8"
+      },
+      {
+        "id": 25,
+        "title": "第25集",
+        "source": "https://hn.bfvvs.com/play/b823nxge/index.m3u8"
+      },
+      {
+        "id": 26,
+        "title": "第26集",
+        "source": "https://hn.bfvvs.com/play/b2k8Po1d/index.m3u8"
+      },
+      {
+        "id": 27,
+        "title": "第27集",
+        "source": "https://hn.bfvvs.com/play/erk2xl4a/index.m3u8"
+      },
+      {
+        "id": 28,
+        "title": "第28集",
+        "source": "https://hn.bfvvs.com/play/aAD6GY3e/index.m3u8"
+      },
+      {
+        "id": 29,
+        "title": "第29集",
+        "source": "https://hn.bfvvs.com/play/aM8Zz7Ae/index.m3u8"
+      },
+      {
+        "id": 30,
+        "title": "第30集",
+        "source": "https://hn.bfvvs.com/play/aM8ZzN3e/index.m3u8"
+      },
+      {
+        "id": 31,
+        "title": "第31集",
+        "source": "https://hn.bfvvs.com/play/b2k8BDvd/index.m3u8"
+      },
+      {
+        "id": 32,
+        "title": "第32集",
+        "source": "https://hn.bfvvs.com/play/b823LKoe/index.m3u8"
+      },
+      {
+        "id": 33,
+        "title": "第33集已完结",
+        "source": "https://hn.bfvvs.com/play/eVOvMo1a/index.m3u8"
+      }
+    ]
   }
 ]
