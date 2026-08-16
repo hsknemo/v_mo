@@ -14,7 +14,7 @@ let data_struct = function (item) {
     // 剧类型
     genre: item.genre,
     // 总共多少集数
-    episodes: "14 / 33集",
+    episodes: "更新至",
     // 导演
     director: item.director,
     // 主演
