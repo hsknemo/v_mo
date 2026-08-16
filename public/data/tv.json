@@ -2890,5 +2890,61 @@
         "source": "https://hn.bfvvs.com/play/penZED5e/index.m3u8"
       }
     ]
+  },
+  {
+    "id": 16,
+    "title": "我的少年时代2",
+    "year": "2026",
+    "rating": "0.0",
+    "genre": [
+      "中国大陆",
+      "青春校园剧"
+    ],
+    "episodes": "更新至第六集",
+    "director": "李南",
+    "cast": [
+      "张桂源",
+      "张函瑞",
+      "王船杰",
+      "左奇函",
+      "陈奕恒",
+      "杨博文",
+      "陈思罕",
+      "陈浚铭"
+    ],
+    "summary": "《我们的少年时代2》高清完整版是一部由大陆李南导演,张桂源,张函瑞,王橹杰,左奇函,陈奕恒,杨博文,陈思罕,陈浚铭主演的一部国产剧电视剧,《我们的少年时代2》国语版上映于2026年.",
+    "poster": "https://img.tu-na-gu.net/upload/vod/20260319-1/4fe8414eb77e9947067db50acf948af8.jpg",
+    "episodeList": [
+      {
+        "id": 1,
+        "title": "第1集",
+        "source": "https://cn1.jimxtc.com/20260816/32931_ccb946fa/index.m3u8"
+      },
+      {
+        "id": 2,
+        "title": "第2集",
+        "source": "https://cn1.jimxtc.com/20260816/32932_95c14ff9/index.m3u8"
+      },
+      {
+        "id": 3,
+        "title": "第3集",
+        "source": "https://cn1.jimxtc.com/20260816/32933_d82cc168/index.m3u8"
+      },
+      {
+        "id": 4,
+        "title": "第4集",
+        "source": "https://cn1.jimxtc.com/20260816/32934_71f0603a/index.m3u8"
+      },
+      {
+        "id": 5,
+        "title": "第5集",
+        "source": "https://cn1.jimxtc.com/20260816/32935_de6f3928/index.m3u8"
+      },
+      {
+        "id": 6,
+        "title": "第6集",
+        "source": "https://cn1.jimxtc.com/20260816/32930_392005a0/index.m3u8"
+      }
+    ]
   }
 ]
