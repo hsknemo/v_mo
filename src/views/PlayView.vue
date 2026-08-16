@@ -57,7 +57,7 @@
           </div>
         </div>
 
-        <div v-if="isTv && episodeList.length" class="play-episodes">
+        <div v-if="isSeries && episodeList.length" class="play-episodes">
           <EpisodeList
             :episodes="episodeList"
             :current-id="currentEpisodeId"
@@ -81,7 +81,7 @@ const router = useRouter()
 
 const type = computed(() => route.params.type)
 const id = computed(() => Number(route.params.id))
-const isTv = computed(() => type.value === 'tv')
+const isSeries = computed(() => ['tv', 'variety'].includes(type.value))
 
 const { list, loading, load } = useMediaData(type.value)
 
@@ -94,7 +94,7 @@ const currentEpisodeId = ref(null)
 const movieSource = ref('')
 
 const currentSource = computed(() => {
-  if (isTv.value) {
+  if (isSeries.value) {
     const ep = episodeList.value.find((e) => e.id === currentEpisodeId.value)
     return ep ? ep.source : ''
   }
@@ -107,9 +107,8 @@ function selectEpisode(ep) {
 
 function initSource() {
   if (!item.value) return
-  if (isTv.value) {
-    currentEpisodeId.value =
-      episodeList.value[0]?.id ?? null
+  if (isSeries.value) {
+    currentEpisodeId.value = episodeList.value[0]?.id ?? null
   } else {
     movieSource.value = item.value.source || ''
   }

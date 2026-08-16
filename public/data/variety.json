@@ -1,0 +1,380 @@
+[
+  {
+    "id": 1,
+    "title": "奔跑吧第十季",
+    "rating": "0.0",
+    "genre": [
+      "真人秀",
+      "游戏娱乐",
+      "大陆综艺"
+    ],
+    "episodes": "更新至12期",
+    "director": "姚译添",
+    "cast": [
+      "李晨",
+      "郑恺",
+      "沙溢",
+      "白鹿",
+      "范丞丞",
+      "张真源",
+      "孟子义",
+      "李昀锐"
+    ],
+    "summary": "奔跑吧14首轮录制将于3月25-29日开启",
+    "poster": "https://hongniuzyimage.com/cover/bf55b90ea69ad9321b62b92cae27bc9b.jpg",
+    "episodeList": [
+      {
+        "id": 1,
+        "title": "范丞丞反差萌刷新",
+        "source": "https://hn.bfvvs.com/play/bmZO2DEd/index.m3u8"
+      },
+      {
+        "id": 2,
+        "title": "跑男团可爱花式比心",
+        "source": "https://hn.bfvvs.com/play/av2lYPLa/index.m3u8"
+      },
+      {
+        "id": 3,
+        "title": "第1期",
+        "source": "https://hn.bfvvs.com/play/bmZO2Dnd/index.m3u8"
+      },
+      {
+        "id": 4,
+        "title": "发布会",
+        "source": "https://hn.bfvvs.com/play/dL97ARve/index.m3u8"
+      },
+      {
+        "id": 5,
+        "title": "衍生彩蛋",
+        "source": "https://hn.bfvvs.com/play/av2l9PXa/index.m3u8"
+      },
+      {
+        "id": 6,
+        "title": "第1期会员版",
+        "source": "https://hn.bfvvs.com/play/e5yQ3OYe/index.m3u8"
+      },
+      {
+        "id": 7,
+        "title": "时代少年团测评",
+        "source": "https://hn.bfvvs.com/play/dNkLXJLe/index.m3u8"
+      },
+      {
+        "id": 8,
+        "title": "时代少年团游戏纯享",
+        "source": "https://hn.bfvvs.com/play/eER8QxYa/index.m3u8"
+      },
+      {
+        "id": 9,
+        "title": "李晨郑恺谈彼此初印象",
+        "source": "https://hn.bfvvs.com/play/e1wWpYZb/index.m3u8"
+      },
+      {
+        "id": 10,
+        "title": "游戏纯享",
+        "source": "https://hn.bfvvs.com/play/bqx7pA7a/index.m3u8"
+      },
+      {
+        "id": 11,
+        "title": "第2期",
+        "source": "https://hn.bfvvs.com/play/dBBN7wXd/index.m3u8"
+      },
+      {
+        "id": 12,
+        "title": "陈哲远黄子弘凡复盘撕名牌",
+        "source": "https://hn.bfvvs.com/play/bqx793Da/index.m3u8"
+      },
+      {
+        "id": 13,
+        "title": "第2期彩蛋",
+        "source": "https://hn.bfvvs.com/play/bW6LXJJa/index.m3u8"
+      },
+      {
+        "id": 14,
+        "title": "会员版之范丞丞黄子弘",
+        "source": "https://hn.bfvvs.com/play/e31QP8Mb/index.m3u8"
+      },
+      {
+        "id": 15,
+        "title": "陈哲远游戏纯享",
+        "source": "https://hn.bfvvs.com/play/dPN7VKwa/index.m3u8"
+      },
+      {
+        "id": 16,
+        "title": "撕名牌游戏纯享",
+        "source": "https://hn.bfvvs.com/play/bo2VWQza/index.m3u8"
+      },
+      {
+        "id": 17,
+        "title": "第3期",
+        "source": "https://hn.bfvvs.com/play/axkn0mBe/index.m3u8"
+      },
+      {
+        "id": 18,
+        "title": "第3期彩蛋",
+        "source": "https://hn.bfvvs.com/play/dyPoGWzb/index.m3u8"
+      },
+      {
+        "id": 19,
+        "title": "第3期会员版",
+        "source": "https://hn.bfvvs.com/play/dG6vONrb/index.m3u8"
+      },
+      {
+        "id": 20,
+        "title": "孟子义徐志胜爆笑互动",
+        "source": "https://hn.bfvvs.com/play/dwpVLOze/index.m3u8"
+      },
+      {
+        "id": 21,
+        "title": "第4期",
+        "source": "https://hn.bfvvs.com/play/en5xp1Pd/index.m3u8"
+      },
+      {
+        "id": 22,
+        "title": "第3期彩蛋",
+        "source": "https://hn.bfvvs.com/play/b4xQNA1b/index.m3u8"
+      },
+      {
+        "id": 23,
+        "title": "会员版",
+        "source": "https://hn.bfvvs.com/play/e0RYJwvb/index.m3u8"
+      },
+      {
+        "id": 24,
+        "title": "告两人纯享",
+        "source": "https://hn.bfvvs.com/play/dwpVX0Me/index.m3u8"
+      },
+      {
+        "id": 25,
+        "title": "泥潭游戏纯享",
+        "source": "https://hn.bfvvs.com/play/b821pm2e/index.m3u8"
+      },
+      {
+        "id": 26,
+        "title": "第5期",
+        "source": "https://hn.bfvvs.com/play/eXDL1NAe/index.m3u8"
+      },
+      {
+        "id": 27,
+        "title": "第5期彩蛋",
+        "source": "https://hn.bfvvs.com/play/aQWnZq5d/index.m3u8"
+      },
+      {
+        "id": 28,
+        "title": "会员版",
+        "source": "https://hn.bfvvs.com/play/eZ6YqDge/index.m3u8"
+      },
+      {
+        "id": 29,
+        "title": "范丞丞测视力萌混过关",
+        "source": "https://hn.bfvvs.com/play/eXDQDYge/index.m3u8"
+      },
+      {
+        "id": 30,
+        "title": "第6期",
+        "source": "https://hn.bfvvs.com/play/epYZQQNa/index.m3u8"
+      },
+      {
+        "id": 31,
+        "title": "第6期彩蛋",
+        "source": "https://hn.bfvvs.com/play/b4x6zkkb/index.m3u8"
+      },
+      {
+        "id": 32,
+        "title": "会员版之陈立农范丞丞争辩老鸟",
+        "source": "https://hn.bfvvs.com/play/e0R8023b/index.m3u8"
+      },
+      {
+        "id": 33,
+        "title": "播了就跑",
+        "source": "https://hn.bfvvs.com/play/aKr8Q5ze/index.m3u8"
+      },
+      {
+        "id": 34,
+        "title": "范丞丞刘雨昕默契十足 ",
+        "source": "https://hn.bfvvs.com/play/ejRYnJze/index.m3u8"
+      },
+      {
+        "id": 35,
+        "title": "第7期",
+        "source": "https://hn.bfvvs.com/play/eXDQY1ge/index.m3u8"
+      },
+      {
+        "id": 36,
+        "title": "第7期彩蛋",
+        "source": "https://hn.bfvvs.com/play/dG6Rzv5b/index.m3u8"
+      },
+      {
+        "id": 37,
+        "title": "第7期会员版",
+        "source": "https://hn.bfvvs.com/play/aOYgLMEd/index.m3u8"
+      },
+      {
+        "id": 38,
+        "title": "第8期",
+        "source": "https://hn.bfvvs.com/play/epYZKzya/index.m3u8"
+      },
+      {
+        "id": 39,
+        "title": "第8期彩蛋",
+        "source": "https://hn.bfvvs.com/play/dwp0lzXe/index.m3u8"
+      },
+      {
+        "id": 40,
+        "title": "第8期会员版",
+        "source": "https://hn.bfvvs.com/play/en5RPq5d/index.m3u8"
+      },
+      {
+        "id": 41,
+        "title": "丞磊纯享",
+        "source": "https://hn.bfvvs.com/play/elYR9Oga/index.m3u8"
+      },
+      {
+        "id": 42,
+        "title": "第9期",
+        "source": "https://hn.bfvvs.com/play/aOYgpnRd/index.m3u8"
+      },
+      {
+        "id": 43,
+        "title": "第9期彩蛋",
+        "source": "https://hn.bfvvs.com/play/eZ68BW6e/index.m3u8"
+      },
+      {
+        "id": 44,
+        "title": "第9期会员版",
+        "source": "https://hn.bfvvs.com/play/epYZvz1a/index.m3u8"
+      },
+      {
+        "id": 45,
+        "title": "第10期",
+        "source": "https://hn.bfvvs.com/play/dG6Rlzrb/index.m3u8"
+      },
+      {
+        "id": 46,
+        "title": "白鹿丞磊配BGM被绿光洗脑",
+        "source": "https://hn.bfvvs.com/play/epYZ0E1a/index.m3u8"
+      },
+      {
+        "id": 47,
+        "title": "第10期彩蛋",
+        "source": "https://hn.bfvvs.com/play/aAD64Lpe/index.m3u8"
+      },
+      {
+        "id": 48,
+        "title": "第10期会员版",
+        "source": "https://hn.bfvvs.com/play/ejRYDjBe/index.m3u8"
+      },
+      {
+        "id": 49,
+        "title": "第11期",
+        "source": "https://hn.bfvvs.com/play/ejRYEpye/index.m3u8"
+      },
+      {
+        "id": 50,
+        "title": "孟子义盛赞赖伟明帅",
+        "source": "https://hn.bfvvs.com/play/epYZO6ra/index.m3u8"
+      },
+      {
+        "id": 51,
+        "title": "第11期彩蛋",
+        "source": "https://hn.bfvvs.com/play/eZ68qz8e/index.m3u8"
+      },
+      {
+        "id": 52,
+        "title": "第11期会员版",
+        "source": "https://hn.bfvvs.com/play/ejRY70Be/index.m3u8"
+      },
+      {
+        "id": 53,
+        "title": "第12期",
+        "source": "https://hn.bfvvs.com/play/aQW66pGd/index.m3u8"
+      },
+      {
+        "id": 54,
+        "title": "第12期彩蛋",
+        "source": "https://hn.bfvvs.com/play/en5gzD7d/index.m3u8"
+      },
+      {
+        "id": 55,
+        "title": "第12期会员版",
+        "source": "https://hn.bfvvs.com/play/dwpKkP8e/index.m3u8"
+      },
+      {
+        "id": 56,
+        "title": "全员callback早期采访",
+        "source": "https://hn.bfvvs.com/play/bDkQwXna/index.m3u8"
+      },
+      {
+        "id": 57,
+        "title": "爱撩专访 x 奔跑吧",
+        "source": "https://hn.bfvvs.com/play/aQW6BKMd/index.m3u8"
+      },
+      {
+        "id": 58,
+        "title": "爱撩专访 x 奔跑吧答案之书",
+        "source": "https://hn.bfvvs.com/play/elY2Nq6a/index.m3u8"
+      },
+      {
+        "id": 59,
+        "title": "王弘毅不停夸赞孟子义",
+        "source": "https://hn.bfvvs.com/play/aKrLoR8e/index.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "披荆斩棘2026",
+    "rating": "0.0",
+    "genre": [
+      "明星",
+      "竞技",
+      "真人秀",
+      "大陆综艺"
+    ],
+    "episodes": "14 / 33集",
+    "director": "",
+    "cast": [
+      "邵兵",
+      "孙楠",
+      "刘畊宏"
+    ],
+    "summary": "《披荆斩棘2026》本季集结28位嘉宾，以「点燃」为核心主题，诠释新时代披荆斩棘内核，结合户外试炼与舞台公演，从“一个人的点燃到一群人的共燃”，记录嘉宾点燃自我、彼此照亮、群体共燃的成长历程，向外传递破局勇气与正向暖意的积极价值观。",
+    "poster": "https://hongniuzyimage.com/cover/2eea2ab420e3cde52f34fd7cc5d341ee.jpg",
+    "episodeList": [
+      {
+        "id": 1,
+        "title": "超前企划第1期",
+        "source": "https://hn.bfvvs.com/play/dwpKY1we/index.m3u8"
+      },
+      {
+        "id": 2,
+        "title": "超前企划第2期",
+        "source": "https://hn.bfvvs.com/play/eVO78E5a/index.m3u8"
+      },
+      {
+        "id": 3,
+        "title": "先导片",
+        "source": "https://hn.bfvvs.com/play/e73XX7Oe/index.m3u8"
+      },
+      {
+        "id": 4,
+        "title": "直拍机位",
+        "source": "https://hn.bfvvs.com/play/bqxZZwka/index.m3u8"
+      },
+      {
+        "id": 5,
+        "title": "预热直播",
+        "source": "https://hn.bfvvs.com/play/e73XAxBe/index.m3u8"
+      },
+      {
+        "id": 6,
+        "title": "初舞台观演区",
+        "source": "https://hn.bfvvs.com/play/bkR7oxva/index.m3u8"
+      },
+      {
+        "id": 7,
+        "title": "第1期：初舞台（上）",
+        "source": "https://hn.bfvvs.com/play/bqxZ2Eya/index.m3u8"
+      }
+    ]
+  }
+]
