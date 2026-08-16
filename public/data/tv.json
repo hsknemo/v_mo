@@ -2175,5 +2175,131 @@
         "source": "https://hn.bfvvs.com/play/dwp0gjRe/index.m3u8"
       }
     ]
+  },
+  {
+    "id": 13,
+    "title": "深情为饵",
+    "year": "2026",
+    "rating": "0.0",
+    "genre": [
+      "剧情",
+      "爱情",
+      "短片",
+      "内地剧"
+    ],
+    "episodes": "更新至20集",
+    "director": "",
+    "cast": [
+      "邢昭林",
+      "方瑾",
+      "常喆宽",
+      "尹蕊",
+      "王沛然",
+      "赵悠图"
+    ],
+    "summary": "陆早早突遭意外，竟穿越成民国少夫人苏沐晚，醒来，却是丈夫枪口相对、父母冤案、连环下毒……她于绝境中步步破局，与“醋精”少爷凌慎行从生死对立到情根深重，可就在浓情蜜意时，她骤然梦醒归现代，转角竟撞见那个熟悉的“他”！",
+    "poster": "https://hongniuzyimage.com/cover/a42388ce895501ca049b1a346effa81b.jpg",
+    "episodeList": [
+      {
+        "id": 1,
+        "title": "第1集",
+        "source": "https://hn.bfvvs.com/play/erkmQWKa/index.m3u8"
+      },
+      {
+        "id": 2,
+        "title": "第2集",
+        "source": "https://hn.bfvvs.com/play/aKrLWoYe/index.m3u8"
+      },
+      {
+        "id": 3,
+        "title": "第3集",
+        "source": "https://hn.bfvvs.com/play/elY2KWra/index.m3u8"
+      },
+      {
+        "id": 4,
+        "title": "第4集",
+        "source": "https://hn.bfvvs.com/play/aQW63xLd/index.m3u8"
+      },
+      {
+        "id": 5,
+        "title": "第5集",
+        "source": "https://hn.bfvvs.com/play/aADMJLPe/index.m3u8"
+      },
+      {
+        "id": 6,
+        "title": "第6集",
+        "source": "https://hn.bfvvs.com/play/eZ6zlKRe/index.m3u8"
+      },
+      {
+        "id": 7,
+        "title": "第7集",
+        "source": "https://hn.bfvvs.com/play/eVO7grBa/index.m3u8"
+      },
+      {
+        "id": 8,
+        "title": "第8集",
+        "source": "https://hn.bfvvs.com/play/aM8JOgPe/index.m3u8"
+      },
+      {
+        "id": 9,
+        "title": "第9集",
+        "source": "https://hn.bfvvs.com/play/aM818E1e/index.m3u8"
+      },
+      {
+        "id": 10,
+        "title": "第10集",
+        "source": "https://hn.bfvvs.com/play/eVOQO5oa/index.m3u8"
+      },
+      {
+        "id": 11,
+        "title": "第11集",
+        "source": "https://hn.bfvvs.com/play/egJ2LxYd/index.m3u8"
+      },
+      {
+        "id": 12,
+        "title": "第12集",
+        "source": "https://hn.bfvvs.com/play/e5yL9WBe/index.m3u8"
+      },
+      {
+        "id": 13,
+        "title": "第13集",
+        "source": "https://hn.bfvvs.com/play/bo2yVDKa/index.m3u8"
+      },
+      {
+        "id": 14,
+        "title": "第14集",
+        "source": "https://hn.bfvvs.com/play/axk1nPre/index.m3u8"
+      },
+      {
+        "id": 15,
+        "title": "第15集",
+        "source": "https://hn.bfvvs.com/play/e31wy3Ab/index.m3u8"
+      },
+      {
+        "id": 16,
+        "title": "第16集",
+        "source": "https://hn.bfvvs.com/play/e9rgDjJa/index.m3u8"
+      },
+      {
+        "id": 17,
+        "title": "第17集",
+        "source": "https://hn.bfvvs.com/play/bmZyyprd/index.m3u8"
+      },
+      {
+        "id": 18,
+        "title": "第18集",
+        "source": "https://hn.bfvvs.com/play/av2ZZB0a/index.m3u8"
+      },
+      {
+        "id": 19,
+        "title": "第19集",
+        "source": "https://hn.bfvvs.com/play/bqxZ2v0a/index.m3u8"
+      },
+      {
+        "id": 20,
+        "title": "第20集",
+        "source": "https://hn.bfvvs.com/play/bkR7omNa/index.m3u8"
+      }
+    ]
   }
 ]
