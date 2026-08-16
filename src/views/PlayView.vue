@@ -87,6 +87,10 @@
         align-center
       >
         <p class="lock-tip">该内容需要密码访问</p>
+        <p class="pwd-tip">
+          <router-link to="/reward" class="pwd-reward-link">任意打赏</router-link>
+          +Q群 1101193338 发截图获取密码
+        </p>
         <el-input
           v-model="pwdInput"
           type="password"
@@ -432,6 +436,23 @@ onMounted(async () => {
   margin: 0 0 12px;
   color: var(--text-secondary);
   font-size: 14px;
+}
+
+.pwd-tip {
+  margin: 0 0 16px;
+  padding: 10px 12px;
+  background: var(--bg-card);
+  border: 1px solid var(--border-color-light);
+  border-radius: $radius-sm;
+  color: var(--text-regular);
+  font-size: 13px;
+  line-height: 1.6;
+
+  .pwd-reward-link {
+    color: var(--el-color-primary);
+    font-weight: 600;
+    text-decoration: underline;
+  }
 }
 
 .pwd-error {

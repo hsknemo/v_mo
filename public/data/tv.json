@@ -2894,57 +2894,52 @@
   },
   {
     "id": 16,
-    "title": "我的少年时代2",
+    "title": "我们的少年时代2",
     "year": "2026",
     "rating": "0.0",
     "genre": [
-      "中国大陆",
-      "青春校园剧"
+      "剧情",
+      "内地剧"
     ],
-    "episodes": "更新至第六集",
+    "episodes": "更新至第6集",
     "director": "李南",
     "cast": [
       "张桂源",
       "张函瑞",
-      "王船杰",
-      "左奇函",
-      "陈奕恒",
-      "杨博文",
-      "陈思罕",
-      "陈浚铭"
+      "王橹杰"
     ],
-    "summary": "《我们的少年时代2》高清完整版是一部由大陆李南导演,张桂源,张函瑞,王橹杰,左奇函,陈奕恒,杨博文,陈思罕,陈浚铭主演的一部国产剧电视剧,《我们的少年时代2》国语版上映于2026年.",
-    "poster": "https://img.tu-na-gu.net/upload/vod/20260319-1/4fe8414eb77e9947067db50acf948af8.jpg",
+    "summary": "《我们的少年时代2》讲述了开学季，宜北篮球社濒临解散，付彬言、李浩宇、徐安博、陈颂，谢逸舟、顾晨阳、周扬、林清源等人因不同原因陆续加入，保住了这支不被看好的队伍。伙伴们在球赛中应对挑战，在磨合中爆发出潜力，又在音乐秘密基地拉近距离。大家逐渐从队友变成挚友，生出团魂，陪伴彼此完成与家庭的和解，收获了青春的成长。",
+    "poster": "https://hongniuzyimage.com/cover/c282d0a8da328a3a3bb52ab33684dbb2.jpg",
     "episodeList": [
       {
         "id": 1,
         "title": "第1集",
-        "source": "https://cn1.jimxtc.com/20260816/32931_ccb946fa/index.m3u8"
+        "source": "https://hn.bfvvs.com/play/av2ZYD5a/index.m3u8"
       },
       {
         "id": 2,
         "title": "第2集",
-        "source": "https://cn1.jimxtc.com/20260816/32932_95c14ff9/index.m3u8"
+        "source": "https://hn.bfvvs.com/play/bmZy2GGd/index.m3u8"
       },
       {
         "id": 3,
         "title": "第3集",
-        "source": "https://cn1.jimxtc.com/20260816/32933_d82cc168/index.m3u8"
+        "source": "https://hn.bfvvs.com/play/dBB68QYd/index.m3u8"
       },
       {
         "id": 4,
         "title": "第4集",
-        "source": "https://cn1.jimxtc.com/20260816/32934_71f0603a/index.m3u8"
+        "source": "https://hn.bfvvs.com/play/e9rgpODa/index.m3u8"
       },
       {
         "id": 5,
         "title": "第5集",
-        "source": "https://cn1.jimxtc.com/20260816/32935_de6f3928/index.m3u8"
+        "source": "https://hn.bfvvs.com/play/dL9JYnre/index.m3u8"
       },
       {
         "id": 6,
         "title": "第6集",
-        "source": "https://cn1.jimxtc.com/20260816/32930_392005a0/index.m3u8"
+        "source": "https://hn.bfvvs.com/play/e31wjORb/index.m3u8"
       }
     ]
   }
