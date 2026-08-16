@@ -81,7 +81,13 @@ const router = useRouter()
 
 const type = computed(() => route.params.type)
 const id = computed(() => Number(route.params.id))
-const isSeries = computed(() => ['tv', 'variety'].includes(type.value))
+const isSeries = computed(() => {
+  if (type.value === 'movie') return false
+  if (['tv', 'variety'].includes(type.value)) return true
+  if (type.value === 'food') return item.value?.category === 'tv'
+  if (type.value === 'anime') return item.value?.category === 'tv'
+  return false
+})
 
 const { list, loading, load } = useMediaData(type.value)
 
@@ -96,9 +102,10 @@ const movieSource = ref('')
 const currentSource = computed(() => {
   if (isSeries.value) {
     const ep = episodeList.value.find((e) => e.id === currentEpisodeId.value)
-    return ep ? ep.source : ''
+    if (ep?.source) return ep.source
+    return item.value?.source || ''
   }
-  return movieSource.value
+  return movieSource.value || (item.value?.source ?? '')
 })
 
 function selectEpisode(ep) {

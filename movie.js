@@ -24,7 +24,7 @@ let data_struct = function (item) {
     // 剧图片
     poster: item.poster,
     // 分集
-    episodeList: [],
+    source: "",
   };
 };
 

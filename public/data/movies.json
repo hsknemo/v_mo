@@ -12,7 +12,7 @@
       "冒险",
       "动画"
     ],
-    "duration": "Unknown",
+    "duration": "",
     "director": "牟正洋",
     "cast": [
       "陈浩",
@@ -37,7 +37,7 @@
       "冒险",
       "动作"
     ],
-    "duration": "Unknown",
+    "duration": "",
     "director": "德斯汀·丹尼尔·克雷顿",
     "cast": [
       "汤姆·霍兰德",
@@ -58,7 +58,7 @@
       "喜剧",
       "喜剧片"
     ],
-    "duration": "Unknown",
+    "duration": "",
     "director": "董润年",
     "cast": [
       "张若昀",
@@ -87,7 +87,7 @@
       "战争",
       "剧情片"
     ],
-    "duration": "Unknown",
+    "duration": "",
     "director": "文牧野",
     "cast": [
       "沈腾",
@@ -97,5 +97,26 @@
     "summary": "徐福（沈腾 饰）为养家还债远赴中东中餐馆当厨师，在当地结识了大堂经理马俊生（蒋奇明 饰）。他们以地道中国风味广招八方来客，龙餐馆声名鹊起。然而随着战争爆发，当地形势急转直下，没有人能够独善其身，徐福和马俊生也不例外，他们的命运将何去何从？战火中的龙餐馆又将如何维系？",
     "poster": "https://hongniuzyimage.com/cover/12c1ec2f762e0fd6ab5ccffd27ba8465.jpg",
     "source": "https://hn.bfvvs.com/play/bkR7ojxa/index.m3u8"
+  },
+  {
+    "id": 5,
+    "title": "抓特务",
+    "rating": "7.4",
+    "year": 2026,
+    "genre": [
+      "剧情",
+      "剧情片"
+    ],
+    "episodes": "",
+    "director": "冯小刚",
+    "cast": [
+      "雷佳音",
+      "胡歌",
+      "啜妮",
+      "张瑶"
+    ],
+    "summary": "一场警察与特务的较量，却展开满是烟火与温情的百姓人生。 　　新中国成立之初，派出所所长肖大力（雷佳音 饰）凭直觉锁定潜伏在土唐刀胡同15号院的特务“5182”冯静波（胡歌 饰）。为追查真相，肖大力索性搬进院落，昔日追查者与目标成了朝夕相处的邻居。 ",
+    "poster": "https://hongniuzyimage.com/cover/9e9bc4f459db1125f84fc2d5c82f3947.jpg",
+    "source": "https://hn.bfvvs.com/play/dL9JPpve/index.m3u8"
   }
 ]
