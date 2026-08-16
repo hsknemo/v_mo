@@ -10,7 +10,7 @@
       "年代",
       "内地剧"
     ],
-    "episodes": "14 / 33集",
+    "episodes": "更新至16集 / 33集",
     "director": "",
     "cast": [
       "黄景瑜",
@@ -90,6 +90,16 @@
         "id": 14,
         "title": "第14集",
         "source": "https://hn.bfvvs.com/play/bqxZ2nka/index.m3u8"
+      },
+      {
+        "id": 15,
+        "title": "第15集",
+        "source": "https://hn.bfvvs.com/play/bqxZVrra/index.m3u8"
+      },
+      {
+        "id": 16,
+        "title": "第16集",
+        "source": "https://hn.bfvvs.com/play/azpXBE8d/index.m3u8"
       }
     ]
   },
