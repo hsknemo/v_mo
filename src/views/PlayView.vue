@@ -17,62 +17,104 @@
     <el-empty v-else-if="!item" description="未找到该内容" />
 
     <template v-else>
-      <h1 class="play-title">{{ item.title }}</h1>
-      <p v-if="item.originalTitle" class="play-subtitle">{{ item.originalTitle }}</p>
-
-      <div class="player-wrap">
-        <video
-          :key="currentSource"
-          class="player"
-          :src="currentSource"
-          :poster="item.poster"
-          controls
-          autoplay
-          playsinline
-        >
-          您的浏览器不支持视频播放
-        </video>
+      <!-- 密码锁定占位 -->
+      <div v-if="locked" class="lock-placeholder">
+        <el-icon class="lock-icon"><Lock /></el-icon>
+        <p>该内容需要密码访问</p>
       </div>
 
-      <div class="play-body">
-        <div class="play-info">
-          <div class="meta-row">
-            <span v-if="item.year" class="meta-item">{{ item.year }}</span>
-            <span v-if="item.duration" class="meta-item">{{ item.duration }}</span>
-            <span v-if="item.episodes" class="meta-item">{{ item.episodes }}</span>
-            <span class="rating">
-              <el-icon><Star /></el-icon>
-              {{ Number(item.rating).toFixed(1) }}
-            </span>
-          </div>
-          <div v-if="item.genre?.length" class="meta-row">
-            <span v-for="g in item.genre" :key="g" class="genre-tag">{{ g }}</span>
-          </div>
-          <p v-if="item.summary" class="summary">{{ item.summary }}</p>
-          <div v-if="item.director" class="field">
-            <span class="label">导演</span><span>{{ item.director }}</span>
-          </div>
-          <div v-if="item.cast?.length" class="field">
-            <span class="label">主演</span><span>{{ item.cast.join(' / ') }}</span>
-          </div>
+      <!-- 解锁后内容 -->
+      <template v-else>
+        <h1 class="play-title">{{ item.title }}</h1>
+        <p v-if="item.originalTitle" class="play-subtitle">{{ item.originalTitle }}</p>
+
+        <div class="player-wrap">
+          <video
+            :key="currentSource"
+            class="player"
+            :src="currentSource"
+            :poster="item.poster"
+            controls
+            autoplay
+            playsinline
+          >
+            您的浏览器不支持视频播放
+          </video>
         </div>
 
-        <div v-if="isSeries && episodeList.length" class="play-episodes">
-          <EpisodeList
-            :episodes="episodeList"
-            :current-id="currentEpisodeId"
-            @select="selectEpisode"
-          />
+        <div class="play-body">
+          <div class="play-info">
+            <div class="meta-row">
+              <span v-if="item.year" class="meta-item">{{ item.year }}</span>
+              <span v-if="item.duration" class="meta-item">{{ item.duration }}</span>
+              <span v-if="item.episodes" class="meta-item">{{ item.episodes }}</span>
+              <span class="rating">
+                <el-icon><Star /></el-icon>
+                {{ Number(item.rating).toFixed(1) }}
+              </span>
+            </div>
+            <div v-if="item.genre?.length" class="meta-row">
+              <span v-for="g in item.genre" :key="g" class="genre-tag">{{ g }}</span>
+            </div>
+            <p v-if="item.summary" class="summary">{{ item.summary }}</p>
+            <div v-if="item.director" class="field">
+              <span class="label">导演</span><span>{{ item.director }}</span>
+            </div>
+            <div v-if="item.cast?.length" class="field">
+              <span class="label">主演</span><span>{{ item.cast.join(' / ') }}</span>
+            </div>
+          </div>
+
+          <div v-if="isSeries && episodeList.length" class="play-episodes">
+            <EpisodeList
+              :episodes="episodeList"
+              :current-id="currentEpisodeId"
+              @select="selectEpisode"
+            />
+          </div>
         </div>
-      </div>
+      </template>
+
+      <!-- 密码输入弹窗 -->
+      <el-dialog
+        v-model="showPwdDialog"
+        title="请输入密码"
+        width="90%"
+        style="max-width: 400px"
+        :close-on-click-modal="false"
+        :close-on-press-escape="false"
+        :show-close="false"
+        align-center
+      >
+        <p class="lock-tip">该内容需要密码访问</p>
+        <el-input
+          v-model="pwdInput"
+          type="password"
+          placeholder="请输入密码"
+          show-password
+          :disabled="lockCountdown > 0"
+          @keyup.enter="submitPwd"
+        />
+        <div v-if="lockCountdown > 0" class="pwd-error">
+          密码错误次数过多，请 {{ lockCountdown }} 秒后重试
+        </div>
+        <div v-else-if="pwdError" class="pwd-error">{{ pwdError }}</div>
+        <template #footer>
+          <el-button
+            type="primary"
+            :disabled="lockCountdown > 0"
+            @click="submitPwd"
+          >确认</el-button>
+        </template>
+      </el-dialog>
     </template>
   </div>
 </template>
 
 <script setup>
-import { ref, computed, watch, onMounted } from 'vue'
+import { ref, computed, watch, onMounted, onBeforeUnmount } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
-import { ArrowLeft, Star } from '@element-plus/icons-vue'
+import { ArrowLeft, Star, Lock } from '@element-plus/icons-vue'
 import { useMediaData } from '@/composables/useMediaData'
 import EpisodeList from '@/components/media/EpisodeList.vue'
 
@@ -122,6 +164,113 @@ function initSource() {
 }
 
 watch(item, initSource, { immediate: true })
+
+// 密码锁定逻辑：item 带 password 字段则需输入密码，正确后缓存到 localStorage
+// 错误 5 次后短期锁定（30s 起步，每再错叠加 30s，上限 5 分钟），状态持久化防刷新绕过
+const locked = ref(true)
+const showPwdDialog = ref(false)
+const pwdInput = ref('')
+const pwdError = ref('')
+const lockCountdown = ref(0)
+let lockTimer = null
+
+const FAIL_THRESHOLD = 5
+const LOCK_STEP = 30
+const LOCK_MAX = 300
+
+function pwdKey() {
+  return `v_movie_pwd_${type.value}_${id.value}`
+}
+function failKey() {
+  return `v_movie_pwd_fail_${type.value}_${id.value}`
+}
+function lockKey() {
+  return `v_movie_pwd_lock_${type.value}_${id.value}`
+}
+
+function getFailCount() {
+  return Number(localStorage.getItem(failKey()) || 0)
+}
+
+function clearLock() {
+  localStorage.removeItem(lockKey())
+  if (lockTimer) {
+    clearInterval(lockTimer)
+    lockTimer = null
+  }
+  lockCountdown.value = 0
+}
+
+function startCountdown() {
+  const until = Number(localStorage.getItem(lockKey()) || 0)
+  if (!until || until <= Date.now()) {
+    clearLock()
+    return
+  }
+  const tick = () => {
+    const remain = Math.ceil((until - Date.now()) / 1000)
+    if (remain <= 0) {
+      clearLock()
+    } else {
+      lockCountdown.value = remain
+    }
+  }
+  tick()
+  if (lockTimer) clearInterval(lockTimer)
+  lockTimer = setInterval(tick, 1000)
+}
+
+function checkLock() {
+  if (!item.value) return
+  const pwd = item.value.password
+  if (!pwd) {
+    locked.value = false
+    showPwdDialog.value = false
+    return
+  }
+  const cached = localStorage.getItem(pwdKey())
+  if (cached === pwd) {
+    locked.value = false
+    showPwdDialog.value = false
+    return
+  }
+  locked.value = true
+  showPwdDialog.value = true
+  pwdInput.value = ''
+  pwdError.value = ''
+  startCountdown()
+}
+
+function submitPwd() {
+  const pwd = item.value?.password
+  if (!pwd || lockCountdown.value > 0) return
+  if (pwdInput.value === pwd) {
+    localStorage.setItem(pwdKey(), pwdInput.value)
+    localStorage.removeItem(failKey())
+    clearLock()
+    locked.value = false
+    showPwdDialog.value = false
+    pwdInput.value = ''
+    pwdError.value = ''
+  } else {
+    const failCount = getFailCount() + 1
+    localStorage.setItem(failKey(), String(failCount))
+    pwdInput.value = ''
+    if (failCount >= FAIL_THRESHOLD) {
+      const seconds = Math.min(LOCK_STEP * (failCount - FAIL_THRESHOLD + 1), LOCK_MAX)
+      localStorage.setItem(lockKey(), String(Date.now() + seconds * 1000))
+      startCountdown()
+    } else {
+      pwdError.value = `密码错误，剩余 ${FAIL_THRESHOLD - failCount} 次尝试机会`
+    }
+  }
+}
+
+watch(item, checkLock, { immediate: true })
+
+onBeforeUnmount(() => {
+  if (lockTimer) clearInterval(lockTimer)
+})
 
 function goBack() {
   router.push(`/${type.value}`)
@@ -260,5 +409,34 @@ onMounted(async () => {
   padding: $space-md;
   box-shadow: var(--shadow-card);
   align-self: start;
+}
+
+.lock-placeholder {
+  text-align: center;
+  padding: 100px 0;
+  color: var(--text-secondary);
+
+  .lock-icon {
+    font-size: 48px;
+    color: var(--el-color-primary);
+    margin-bottom: $space-md;
+  }
+
+  p {
+    margin: 0;
+    font-size: 15px;
+  }
+}
+
+.lock-tip {
+  margin: 0 0 12px;
+  color: var(--text-secondary);
+  font-size: 14px;
+}
+
+.pwd-error {
+  color: var(--el-color-danger);
+  margin-top: 8px;
+  font-size: 13px;
 }
 </style>
