@@ -4039,5 +4039,151 @@
         "source": "https://hn.bfvvs.com/play/en5RNP7d/index.m3u8"
       }
     ]
+  },
+  {
+    "id": 1,
+    "title": "人鱼(2026)",
+    "year": "2026",
+    "rating": "0.0",
+    "genre": [
+      "剧情",
+      "悬疑",
+      "内地剧"
+    ],
+    "episodes": "更新至22集",
+    "director": "杨磊",
+    "cast": [
+      "刘孜",
+      "张开泰",
+      "黄杨钿甜",
+      "董勇",
+      "张帆",
+      "陈创",
+      "何思甜",
+      "张棪琰",
+      "罗海琼",
+      "是安",
+      "赵健",
+      "段钰",
+      "董向荣",
+      "薛佳凝",
+      "方晓东",
+      "李庆誉",
+      "张译文"
+    ],
+    "summary": "就读于职业中学培训部的花季女生苏琳（黄杨钿甜 饰），虽自小被父母忽视，在艰苦环境中长大，但她始终刻苦学习，憧憬未来。为此，苏琳苦练口语并争取到了英文朗诵剧中小美人鱼的角色，却不想遭到同学马娜（段钰 饰）的嫉妒。一次激烈冲突中，她意外掉入地下管道，生死不明。 　　而此时，与地下管道有关的卫红渠案也曝露在公众视野中，霎时，案件的侦查与苏琳的命运紧紧交织在一起。 ",
+    "poster": "https://hongniuzyimage.com/cover/d3b9a2ba19e12dc6c1fdcc3501f05e77.jpg",
+    "episodeList": [
+      {
+        "id": 1,
+        "title": "第01集",
+        "source": "https://hn.bfvvs.com/play/eXDrZnVe/index.m3u8"
+      },
+      {
+        "id": 2,
+        "title": "第02集",
+        "source": "https://hn.bfvvs.com/play/b4xz14Jb/index.m3u8"
+      },
+      {
+        "id": 3,
+        "title": "第03集",
+        "source": "https://hn.bfvvs.com/play/aOYPNqEd/index.m3u8"
+      },
+      {
+        "id": 4,
+        "title": "第04集",
+        "source": "https://hn.bfvvs.com/play/ejR0zJve/index.m3u8"
+      },
+      {
+        "id": 5,
+        "title": "第05集",
+        "source": "https://hn.bfvvs.com/play/aADMRrje/index.m3u8"
+      },
+      {
+        "id": 6,
+        "title": "第06集",
+        "source": "https://hn.bfvvs.com/play/elY2ZPMa/index.m3u8"
+      },
+      {
+        "id": 7,
+        "title": "第07集",
+        "source": "https://hn.bfvvs.com/play/bDkQGxYa/index.m3u8"
+      },
+      {
+        "id": 8,
+        "title": "第08集",
+        "source": "https://hn.bfvvs.com/play/eVO749Oa/index.m3u8"
+      },
+      {
+        "id": 9,
+        "title": "第09集",
+        "source": "https://hn.bfvvs.com/play/aM8JMVPe/index.m3u8"
+      },
+      {
+        "id": 10,
+        "title": "第10集",
+        "source": "https://hn.bfvvs.com/play/eVO7YRza/index.m3u8"
+      },
+      {
+        "id": 11,
+        "title": "第11集",
+        "source": "https://hn.bfvvs.com/play/erkmQ0Ea/index.m3u8"
+      },
+      {
+        "id": 12,
+        "title": "第12集",
+        "source": "https://hn.bfvvs.com/play/b2k7n8vd/index.m3u8"
+      },
+      {
+        "id": 13,
+        "title": "第13集",
+        "source": "https://hn.bfvvs.com/play/aADMjQOe/index.m3u8"
+      },
+      {
+        "id": 14,
+        "title": "第14集",
+        "source": "https://hn.bfvvs.com/play/aQW7JPLd/index.m3u8"
+      },
+      {
+        "id": 15,
+        "title": "第15集",
+        "source": "https://hn.bfvvs.com/play/bo2yYMka/index.m3u8"
+      },
+      {
+        "id": 16,
+        "title": "第16集",
+        "source": "https://hn.bfvvs.com/play/axk1nMle/index.m3u8"
+      },
+      {
+        "id": 17,
+        "title": "第17集",
+        "source": "https://hn.bfvvs.com/play/e9rgDYza/index.m3u8"
+      },
+      {
+        "id": 18,
+        "title": "第18集",
+        "source": "https://hn.bfvvs.com/play/bmZyyLnd/index.m3u8"
+      },
+      {
+        "id": 19,
+        "title": "第19集",
+        "source": "https://hn.bfvvs.com/play/dBB66KWd/index.m3u8"
+      },
+      {
+        "id": 20,
+        "title": "第20集",
+        "source": "https://hn.bfvvs.com/play/e1w44xGb/index.m3u8"
+      },
+      {
+        "id": 21,
+        "title": "第21集",
+        "source": "https://hn.bfvvs.com/play/av2ZZXMa/index.m3u8"
+      },
+      {
+        "id": 22,
+        "title": "第22集已完结",
+        "source": "https://hn.bfvvs.com/play/dR6112Yd/index.m3u8"
+      }
+    ]
   }
 ]
