@@ -3573,5 +3573,114 @@
         "source": "https://hn.bfvvs.com/play/e9rgD13a/index.m3u8"
       }
     ]
+  },
+  {
+    "id": 1,
+    "title": "悬案",
+    "year": "2026",
+    "rating": "0.0",
+    "genre": [
+      "剧情",
+      "悬疑",
+      "犯罪",
+      "内地剧"
+    ],
+    "episodes": "更新至",
+    "director": "算",
+    "cast": [
+      "王传君",
+      "江奇霖",
+      "杨烁",
+      "郎月婷"
+    ],
+    "summary": "该剧以2016年3月公安部刑侦局主抓的“疑难命案积案攻坚行动”所侦破的多起案件为基础，改编创作两起90年代悬案作为系列剧的第一季。围绕《珠宝行连环劫案》《卞记旅馆抢劫案》两个案件展开。前者聚焦岳龙刚（岳云鹏 饰）饰演的报社记者白朗与刑警施占军（杨烁 饰），二人因抓嫖结识，开启警媒合作之路，跨越22年联手追踪连环持枪劫匪徐亮（江奇霖 饰）；后者讲述由黄珏（黄觉 饰）饰演的鲁志丰和李感（姜冠南 饰）两代刑警耗费半生，凭借 DNA 技术锁定真凶刘永坤（王传君 饰）及其同伙。两案均写实还原90年代刑侦风貌，深挖罪",
+    "poster": "https://hongniuzyimage.com/cover/a121f8252c92069e780c966a2c023ddf.jpg",
+    "episodeList": [
+      {
+        "id": 1,
+        "title": "第1集",
+        "source": "https://hn.bfvvs.com/play/b2k8jVAd/index.m3u8"
+      },
+      {
+        "id": 2,
+        "title": "第2集",
+        "source": "https://hn.bfvvs.com/play/b68WnnRe/index.m3u8"
+      },
+      {
+        "id": 3,
+        "title": "第3集",
+        "source": "https://hn.bfvvs.com/play/ejRYEEve/index.m3u8"
+      },
+      {
+        "id": 4,
+        "title": "第4集",
+        "source": "https://hn.bfvvs.com/play/b823mK5e/index.m3u8"
+      },
+      {
+        "id": 5,
+        "title": "第5集",
+        "source": "https://hn.bfvvs.com/play/aAD6JOze/index.m3u8"
+      },
+      {
+        "id": 6,
+        "title": "第6集",
+        "source": "https://hn.bfvvs.com/play/dwpK97Xe/index.m3u8"
+      },
+      {
+        "id": 7,
+        "title": "第7集",
+        "source": "https://hn.bfvvs.com/play/b82M6MWe/index.m3u8"
+      },
+      {
+        "id": 8,
+        "title": "第8集",
+        "source": "https://hn.bfvvs.com/play/dwpKVKme/index.m3u8"
+      },
+      {
+        "id": 9,
+        "title": "第9集",
+        "source": "https://hn.bfvvs.com/play/aQW6kW0d/index.m3u8"
+      },
+      {
+        "id": 10,
+        "title": "第10集",
+        "source": "https://hn.bfvvs.com/play/aADMl53e/index.m3u8"
+      },
+      {
+        "id": 11,
+        "title": "第11集",
+        "source": "https://hn.bfvvs.com/play/erkmow4a/index.m3u8"
+      },
+      {
+        "id": 12,
+        "title": "第12集",
+        "source": "https://hn.bfvvs.com/play/aKrLynMe/index.m3u8"
+      },
+      {
+        "id": 13,
+        "title": "第13集",
+        "source": "https://hn.bfvvs.com/play/dG6MVvrb/index.m3u8"
+      },
+      {
+        "id": 14,
+        "title": "第14集",
+        "source": "https://hn.bfvvs.com/play/en5gAA7d/index.m3u8"
+      },
+      {
+        "id": 15,
+        "title": "第15集",
+        "source": "https://hn.bfvvs.com/play/dwpKNN8e/index.m3u8"
+      },
+      {
+        "id": 16,
+        "title": "第16集",
+        "source": "https://hn.bfvvs.com/play/eXDrGBge/index.m3u8"
+      },
+      {
+        "id": 17,
+        "title": "第17集已完结",
+        "source": "https://hn.bfvvs.com/play/ejR0wWve/index.m3u8"
+      }
+    ]
   }
 ]
