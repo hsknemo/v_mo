@@ -5,6 +5,7 @@
     "originalTitle": "All Wishes Come True!",
     "year": 2026,
     "rating": 8.3,
+    "episodes": "完结",
     "genre": [
       "喜剧",
       "动画",
@@ -30,6 +31,7 @@
     "originalTitle": "Spider-Man: Brand New Day",
     "year": 2026,
     "rating": 7.8,
+    "episodes": "完结",
     "genre": [
       "动作",
       "科幻",
@@ -54,6 +56,7 @@
     "originalTitle": "Make Zhonghe",
     "year": 2026,
     "rating": 6.6,
+    "episodes": "完结",
     "genre": [
       "喜剧",
       "喜剧片"
@@ -82,6 +85,7 @@
     "originalTitle": "欢迎来龙餐馆",
     "year": 2026,
     "rating": 8.5,
+    "episodes": "完结",
     "genre": [
       "剧情",
       "战争",
@@ -102,12 +106,12 @@
     "id": 5,
     "title": "抓特务",
     "rating": "7.4",
+    "episodes": "完结",
     "year": 2026,
     "genre": [
       "剧情",
       "剧情片"
     ],
-    "episodes": "",
     "director": "冯小刚",
     "cast": [
       "雷佳音",
