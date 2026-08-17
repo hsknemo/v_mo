@@ -11,20 +11,35 @@
       class="error-alert"
     />
 
-    <div v-show="!error" class="food-tabs">
-      <button
-        v-for="t in tabs"
-        :key="t.value"
-        class="food-tab"
-        :class="{ active: activeTab === t.value }"
-        @click="activeTab = t.value"
-      >
-        {{ t.label }}
-      </button>
+    <div v-show="!error" class="food-toolbar">
+      <el-input
+        v-model="keywordRaw"
+        placeholder="搜索片名"
+        clearable
+        class="search-input"
+        :prefix-icon="Search"
+      />
+      <div class="food-tabs">
+        <button
+          v-for="t in tabs"
+          :key="t.value"
+          class="food-tab"
+          :class="{ active: activeTab === t.value }"
+          @click="activeTab = t.value"
+        >
+          {{ t.label }}
+        </button>
+      </div>
     </div>
 
+    <el-empty
+      v-if="!loading && !error && filtered.length === 0"
+      :description="keyword ? `没有找到与「${keyword}」匹配的下饭内容` : '暂无数据'"
+      class="empty-state"
+    />
+
     <MediaGrid
-      v-show="!error"
+      v-show="!error && (loading || filtered.length > 0)"
       :items="filtered"
       :loading="loading"
       @select="goPlay"
@@ -33,8 +48,9 @@
 </template>
 
 <script setup>
-import { ref, computed, onMounted } from 'vue'
+import { ref, computed, onMounted, watch, onBeforeUnmount } from 'vue'
 import { useRouter } from 'vue-router'
+import { Search } from '@element-plus/icons-vue'
 import { useMediaData } from '@/composables/useMediaData'
 import MediaGrid from '@/components/common/MediaGrid.vue'
 
@@ -48,9 +64,28 @@ const tabs = [
 ]
 const activeTab = ref('all')
 
+const keywordRaw = ref('')
+const keyword = ref('')
+let dbTimer = null
+watch(keywordRaw, (v) => {
+  if (dbTimer) clearTimeout(dbTimer)
+  dbTimer = setTimeout(() => { keyword.value = v }, 200)
+})
+onBeforeUnmount(() => { if (dbTimer) clearTimeout(dbTimer) })
+
+function matchKeyword(item, kw) {
+  if (!kw) return true
+  const hay = [item.title, item.originalTitle].filter(Boolean).join(' ').toLowerCase()
+  return hay.includes(kw)
+}
+
 const filtered = computed(() => {
-  if (activeTab.value === 'all') return list.value
-  return list.value.filter((it) => it.category === activeTab.value)
+  const kw = keyword.value.trim().toLowerCase()
+  const arr = list.value || []
+  return arr.filter((it) => {
+    const matchTab = activeTab.value === 'all' || it.category === activeTab.value
+    return matchTab && matchKeyword(it, kw)
+  })
 })
 
 function goPlay(item) {
@@ -65,10 +100,27 @@ onMounted(load)
   margin-bottom: $space-lg;
 }
 
+.food-toolbar {
+  display: flex;
+  gap: $space-md;
+  margin-bottom: $space-lg;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.search-input {
+  flex: 1;
+  min-width: 220px;
+  max-width: 360px;
+
+  @media (max-width: $bp-mobile) {
+    max-width: none;
+  }
+}
+
 .food-tabs {
   display: flex;
   gap: $space-sm;
-  margin-bottom: $space-lg;
   flex-wrap: wrap;
 }
 
@@ -93,5 +145,9 @@ onMounted(load)
     background: var(--gradient-brand);
     border-color: transparent;
   }
+}
+
+.empty-state {
+  padding: 80px 0;
 }
 </style>

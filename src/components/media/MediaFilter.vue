@@ -1,15 +1,13 @@
 <template>
   <div class="media-filter">
-    <!-- 搜索功能暂未开放
     <el-input
       :model-value="keyword"
-      placeholder="搜索标题 / 演员 / 导演"
+      placeholder="搜索片名"
       clearable
       class="search-input"
       :prefix-icon="Search"
       @update:model-value="onKeyword"
     />
-    -->
     <el-select
       :model-value="genre"
       placeholder="全部类型"

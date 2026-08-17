@@ -11,17 +11,21 @@
       class="error-alert"
     />
 
-    <!-- 筛选栏暂未开放
     <MediaFilter
       v-show="!error"
       v-model:keyword="keyword"
       v-model:genre="genre"
       :genres="genres"
     />
-    -->
+
+    <el-empty
+      v-if="!loading && !error && filtered.length === 0"
+      :description="debouncedKeyword ? `没有找到与「${debouncedKeyword}」匹配的影片` : '暂无数据'"
+      class="empty-state"
+    />
 
     <MediaGrid
-      v-show="!error"
+      v-show="!error && (loading || filtered.length > 0)"
       :items="filtered"
       :loading="loading"
       @select="goPlay"
@@ -39,7 +43,7 @@ import MediaGrid from '@/components/common/MediaGrid.vue'
 
 const router = useRouter()
 const { list, loading, error, load } = useMediaData('movie')
-const { keyword, genre, genres, filtered } = useMediaFilter(list)
+const { keyword, debouncedKeyword, genre, genres, filtered } = useMediaFilter(list)
 
 function goPlay(item) {
   router.push(`/play/movie/${item.id}`)
@@ -51,5 +55,9 @@ onMounted(load)
 <style scoped lang="scss">
 .error-alert {
   margin-bottom: $space-lg;
+}
+
+.empty-state {
+  padding: 80px 0;
 }
 </style>
