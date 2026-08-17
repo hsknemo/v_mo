@@ -2026,7 +2026,7 @@
       "短片",
       "内地剧"
     ],
-    "episodes": "更新至20集",
+    "episodes": "更新至22集",
     "director": "",
     "cast": [
       "邢昭林",
@@ -2138,6 +2138,16 @@
         "id": 20,
         "title": "第20集",
         "source": "https://hn.bfvvs.com/play/bkR7omNa/index.m3u8"
+      },
+      {
+        "id": 21,
+        "title": "第21集",
+        "source": "https://hn.bfvvs.com/play/bmZy233d/index.m3u8"
+      },
+      {
+        "id": 22,
+        "title": "第22集",
+        "source": "https://hn.bfvvs.com/play/e9rgpKza/index.m3u8"
       }
     ]
   },
