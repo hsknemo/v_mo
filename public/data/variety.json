@@ -330,7 +330,7 @@
       "真人秀",
       "大陆综艺"
     ],
-    "episodes": "更新一期",
+    "episodes": "更新一期下",
     "director": "",
     "cast": [
       "邵兵",
@@ -342,38 +342,13 @@
     "episodeList": [
       {
         "id": 1,
-        "title": "超前企划第1期",
-        "source": "https://hn.bfvvs.com/play/dwpKY1we/index.m3u8"
+        "title": "第1期：初舞台（上）",
+        "source": "https://hn.bfvvs.com/play/bqxZ2Eya/index.m3u8"
       },
       {
         "id": 2,
-        "title": "超前企划第2期",
-        "source": "https://hn.bfvvs.com/play/eVO78E5a/index.m3u8"
-      },
-      {
-        "id": 3,
-        "title": "先导片",
-        "source": "https://hn.bfvvs.com/play/e73XX7Oe/index.m3u8"
-      },
-      {
-        "id": 4,
-        "title": "直拍机位",
-        "source": "https://hn.bfvvs.com/play/bqxZZwka/index.m3u8"
-      },
-      {
-        "id": 5,
-        "title": "预热直播",
-        "source": "https://hn.bfvvs.com/play/e73XAxBe/index.m3u8"
-      },
-      {
-        "id": 6,
-        "title": "初舞台观演区",
-        "source": "https://hn.bfvvs.com/play/bkR7oxva/index.m3u8"
-      },
-      {
-        "id": 7,
-        "title": "第1期：初舞台（上）",
-        "source": "https://hn.bfvvs.com/play/bqxZ2Eya/index.m3u8"
+        "title": "第1期：初舞台（下）",
+        "source": "https://hn.bfvvs.com/play/bqxZAk2a/index.m3u8"
       }
     ]
   },
