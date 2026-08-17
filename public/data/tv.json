@@ -813,177 +813,6 @@
     ]
   },
   {
-    "id": 6,
-    "title": "灵魂摆渡·十年",
-    "year": "2026",
-    "rating": "0.0",
-    "genre": [
-      "悬疑",
-      "惊悚",
-      "短片",
-      "奇幻",
-      "冒险",
-      "内地剧"
-    ],
-    "episodes": "完结",
-    "director": "巨兴茂",
-    "cast": [
-      "于毅",
-      "刘智扬",
-      "肖茵",
-      "许佳琪",
-      "姜馥颐",
-      "顾振翔",
-      "马凡丁",
-      "边程",
-      "简宇熙",
-      "美懿",
-      "朱超艺",
-      "李羽桐",
-      "田广宇",
-      "杨子睿",
-      "郭信如",
-      "涂冰",
-      "闫可欣",
-      "明子煜",
-      "邹敦明",
-      "芮佩怡",
-      "戴向宇",
-      "王艺禅",
-      "韩潇珧",
-      "贝勒",
-      "杨志刚",
-      "孙雪宁",
-      "陈冠英",
-      "黑子",
-      "李洛伊"
-    ],
-    "summary": "幻海市，夏冬青（刘智扬 饰）与娅（肖茵 饰）共同经营着昼夜转换的444号便利店，并与酷似失踪赵吏（于毅 饰）的“守夜人”结成新搭档，守护人界与灵界的平衡。三人组在平凡日子里化解了多起异事，然而，一场意外打破了平静……红月当空之际，众人诛灭其阴谋回归现实。幻海市恢复宁静，444号便利店继续营业，但新的异闻已在青石板路上悄然滋生。",
-    "poster": "https://hongniuzyimage.com/cover/b9e3838697233778ccae1bbca00ae4de.jpg",
-    "episodeList": [
-      {
-        "id": 1,
-        "title": "第1集",
-        "source": "https://hn.bfvvs.com/play/erk29l4a/index.m3u8"
-      },
-      {
-        "id": 2,
-        "title": "第2集",
-        "source": "https://hn.bfvvs.com/play/b823EDge/index.m3u8"
-      },
-      {
-        "id": 3,
-        "title": "第3集",
-        "source": "https://hn.bfvvs.com/play/elYR79ga/index.m3u8"
-      },
-      {
-        "id": 4,
-        "title": "第4集",
-        "source": "https://hn.bfvvs.com/play/b2k8Ww1d/index.m3u8"
-      },
-      {
-        "id": 5,
-        "title": "第5集",
-        "source": "https://hn.bfvvs.com/play/aAD61Y3e/index.m3u8"
-      },
-      {
-        "id": 6,
-        "title": "第6集",
-        "source": "https://hn.bfvvs.com/play/eVOvQVva/index.m3u8"
-      },
-      {
-        "id": 7,
-        "title": "第7集",
-        "source": "https://hn.bfvvs.com/play/b2k89DJd/index.m3u8"
-      },
-      {
-        "id": 8,
-        "title": "第8集",
-        "source": "https://hn.bfvvs.com/play/b8239Kle/index.m3u8"
-      },
-      {
-        "id": 9,
-        "title": "第9集",
-        "source": "https://hn.bfvvs.com/play/elYRpEla/index.m3u8"
-      },
-      {
-        "id": 10,
-        "title": "第10集",
-        "source": "https://hn.bfvvs.com/play/dyPw66nb/index.m3u8"
-      },
-      {
-        "id": 11,
-        "title": "第11集",
-        "source": "https://hn.bfvvs.com/play/epYZRRVa/index.m3u8"
-      },
-      {
-        "id": 12,
-        "title": "第12集",
-        "source": "https://hn.bfvvs.com/play/aAD68J3e/index.m3u8"
-      },
-      {
-        "id": 13,
-        "title": "第13集",
-        "source": "https://hn.bfvvs.com/play/elYR86Ma/index.m3u8"
-      },
-      {
-        "id": 14,
-        "title": "第14集",
-        "source": "https://hn.bfvvs.com/play/erk2g7pa/index.m3u8"
-      },
-      {
-        "id": 15,
-        "title": "第15集",
-        "source": "https://hn.bfvvs.com/play/b2k8GDzd/index.m3u8"
-      },
-      {
-        "id": 16,
-        "title": "第16集",
-        "source": "https://hn.bfvvs.com/play/b823XY3e/index.m3u8"
-      },
-      {
-        "id": 17,
-        "title": "第17集",
-        "source": "https://hn.bfvvs.com/play/epYZXqVa/index.m3u8"
-      },
-      {
-        "id": 18,
-        "title": "第18集",
-        "source": "https://hn.bfvvs.com/play/eXDQk0ge/index.m3u8"
-      },
-      {
-        "id": 19,
-        "title": "第19集",
-        "source": "https://hn.bfvvs.com/play/dG6RQ2Jb/index.m3u8"
-      },
-      {
-        "id": 20,
-        "title": "第20集",
-        "source": "https://hn.bfvvs.com/play/b4x6YJxb/index.m3u8"
-      },
-      {
-        "id": 21,
-        "title": "第21集",
-        "source": "https://hn.bfvvs.com/play/aOYg52rd/index.m3u8"
-      },
-      {
-        "id": 22,
-        "title": "第22集",
-        "source": "https://hn.bfvvs.com/play/e0R8XBLb/index.m3u8"
-      },
-      {
-        "id": 23,
-        "title": "第23集",
-        "source": "https://hn.bfvvs.com/play/dyPwJDnb/index.m3u8"
-      },
-      {
-        "id": 24,
-        "title": "第24集已完结",
-        "source": "https://hn.bfvvs.com/play/en5RNP7d/index.m3u8"
-      }
-    ]
-  },
-  {
     "id": 7,
     "title": "兵自风中来",
     "year": "2026",
@@ -3680,6 +3509,524 @@
         "id": 17,
         "title": "第17集已完结",
         "source": "https://hn.bfvvs.com/play/ejR0wWve/index.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "灵魂摆渡",
+    "year": "2014",
+    "rating": "8.6",
+    "genre": [
+      "内地"
+    ],
+    "episodes": "完结",
+    "director": "巨兴茂,郭世民",
+    "cast": [
+      "于毅",
+      "肖茵",
+      "刘智扬",
+      "梁椰雯",
+      "王靖云",
+      "陈洁"
+    ],
+    "summary": "　　肉身之眼晦暗不明，见近不见远，见前不见后，见明不见暗，看到的并非确凿无误存在。外表看起来丝毫没有任何存在感的夏冬青（刘智扬 饰），有一个不为人知的秘密，他可以看到另一个世界的众生。自幼在孤儿院长大的他大学刚刚毕业，正准备考研，此时他正四处求职打工。在此期间，冬青被444号便利店录取。据说这家便利店半夜12点后会闹鬼，原来这里正是两个不同纬度空间上的连接点。 　　在冥界担任公务员的赵吏（于毅 饰）直接管理着便利店，他自称“灵魂摆渡人”，每天迎来送往，指引鬼魂们去往应该去的世界。冬青和性格直爽的女孩王小亚（肖茵 饰）则成为一个个灵异事件的见证者。",
+    "poster": "https://hongniuzyimage.com/upload/vod/2021-08-30/202108301630290013.jpg",
+    "episodeList": [
+      {
+        "id": 1,
+        "title": "第1集",
+        "source": "https://hn.bfvvs.com/play/1aKrD7Ge/index.m3u8"
+      },
+      {
+        "id": 2,
+        "title": "第2集",
+        "source": "https://hn.bfvvs.com/play/YaOYKXRd/index.m3u8"
+      },
+      {
+        "id": 3,
+        "title": "第3集",
+        "source": "https://hn.bfvvs.com/play/5eVOR2za/index.m3u8"
+      },
+      {
+        "id": 4,
+        "title": "第4集",
+        "source": "https://hn.bfvvs.com/play/QeZ61GQe/index.m3u8"
+      },
+      {
+        "id": 5,
+        "title": "第5集",
+        "source": "https://hn.bfvvs.com/play/Rb4xOv7b/index.m3u8"
+      },
+      {
+        "id": 6,
+        "title": "第6集",
+        "source": "https://hn.bfvvs.com/play/yb82Vzje/index.m3u8"
+      },
+      {
+        "id": 7,
+        "title": "第7集",
+        "source": "https://hn.bfvvs.com/play/lejR1gye/index.m3u8"
+      },
+      {
+        "id": 8,
+        "title": "第8集",
+        "source": "https://hn.bfvvs.com/play/pen51l5d/index.m3u8"
+      },
+      {
+        "id": 9,
+        "title": "第9集",
+        "source": "https://hn.bfvvs.com/play/Yerk1p2a/index.m3u8"
+      },
+      {
+        "id": 10,
+        "title": "第10集",
+        "source": "https://hn.bfvvs.com/play/PdyPjz6b/index.m3u8"
+      },
+      {
+        "id": 11,
+        "title": "第11集",
+        "source": "https://hn.bfvvs.com/play/DbDkvx6a/index.m3u8"
+      },
+      {
+        "id": 12,
+        "title": "第12集",
+        "source": "https://hn.bfvvs.com/play/1aKrDGGe/index.m3u8"
+      },
+      {
+        "id": 13,
+        "title": "第13集",
+        "source": "https://hn.bfvvs.com/play/YaOYKGRd/index.m3u8"
+      },
+      {
+        "id": 14,
+        "title": "第14集",
+        "source": "https://hn.bfvvs.com/play/5eVORWza/index.m3u8"
+      },
+      {
+        "id": 15,
+        "title": "第15集",
+        "source": "https://hn.bfvvs.com/play/QeZ61gQe/index.m3u8"
+      },
+      {
+        "id": 16,
+        "title": "第16集",
+        "source": "https://hn.bfvvs.com/play/Rb4xO27b/index.m3u8"
+      },
+      {
+        "id": 17,
+        "title": "第17集",
+        "source": "https://hn.bfvvs.com/play/yb82Vgje/index.m3u8"
+      },
+      {
+        "id": 18,
+        "title": "第18集",
+        "source": "https://hn.bfvvs.com/play/lejR1Bye/index.m3u8"
+      },
+      {
+        "id": 19,
+        "title": "第19集",
+        "source": "https://hn.bfvvs.com/play/pen51X5d/index.m3u8"
+      },
+      {
+        "id": 20,
+        "title": "第20集",
+        "source": "https://hn.bfvvs.com/play/Yerk152a/index.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "灵魂摆渡2",
+    "year": "2015",
+    "rating": "8.2",
+    "genre": [
+      "内地"
+    ],
+    "episodes": "完结",
+    "director": "巨兴茂",
+    "cast": [
+      "于毅",
+      "刘智扬",
+      "肖茵",
+      "杨紫",
+      "马可",
+      "梁椰雯",
+      "宣璐",
+      "王梦婷",
+      "王千赫",
+      "信鹏",
+      "赵晓苏",
+      "蔡子伦",
+      "杨志刚",
+      "黑子",
+      "乔杉",
+      "陈炳强",
+      "姜广涛",
+      "陈洁"
+    ],
+    "summary": "　　《灵魂摆渡2》是一部网络剧，于2014年11月底正在拍摄中，《灵魂摆渡2》是继灵魂摆渡后的第二季，《灵魂摆渡2》中，女一号肖茵扮演正能量爆棚的王小亚，俏皮可爱，在保持原有人物性格同时加入新的情节，令角色更加饱满，《灵魂摆渡2》中的王小亚与之前观众所熟知的王小亚一样，依然是那个有些疯癫，敢爱敢恨，直言不讳的女生，但形象上会有所改变，与之前相比会更稳重一些，《灵魂摆渡2》虽然以惊悚为题材，肖茵表示拍摄的时候自己并不害怕，反而认为这是一部很感人的作品，每个故事是以情动人，把生活中的邪恶的一面直观展现出。",
+    "poster": "https://hongniuzyimage.com/upload/vod/2021-08-30/202108301630290884.jpg",
+    "episodeList": [
+      {
+        "id": 1,
+        "title": "第01集",
+        "source": "https://hn.bfvvs.com/play/lejR1Mve/index.m3u8"
+      },
+      {
+        "id": 2,
+        "title": "第02集",
+        "source": "https://hn.bfvvs.com/play/pen51X7d/index.m3u8"
+      },
+      {
+        "id": 3,
+        "title": "第03集",
+        "source": "https://hn.bfvvs.com/play/Yerk15pa/index.m3u8"
+      },
+      {
+        "id": 4,
+        "title": "第04集",
+        "source": "https://hn.bfvvs.com/play/PdyPj5nb/index.m3u8"
+      },
+      {
+        "id": 5,
+        "title": "第05集",
+        "source": "https://hn.bfvvs.com/play/DbDkvrKa/index.m3u8"
+      },
+      {
+        "id": 6,
+        "title": "第06集",
+        "source": "https://hn.bfvvs.com/play/1aKrDBxe/index.m3u8"
+      },
+      {
+        "id": 7,
+        "title": "第07集",
+        "source": "https://hn.bfvvs.com/play/YaOYKkrd/index.m3u8"
+      },
+      {
+        "id": 8,
+        "title": "第08集",
+        "source": "https://hn.bfvvs.com/play/5eVORrXa/index.m3u8"
+      },
+      {
+        "id": 9,
+        "title": "第09集",
+        "source": "https://hn.bfvvs.com/play/QeZ61y5e/index.m3u8"
+      },
+      {
+        "id": 10,
+        "title": "第10集",
+        "source": "https://hn.bfvvs.com/play/Rb4xODxb/index.m3u8"
+      },
+      {
+        "id": 11,
+        "title": "第11集",
+        "source": "https://hn.bfvvs.com/play/yb82V73e/index.m3u8"
+      },
+      {
+        "id": 12,
+        "title": "第12集",
+        "source": "https://hn.bfvvs.com/play/lejR1Vve/index.m3u8"
+      },
+      {
+        "id": 13,
+        "title": "第13集",
+        "source": "https://hn.bfvvs.com/play/pen51V7d/index.m3u8"
+      },
+      {
+        "id": 14,
+        "title": "第14集",
+        "source": "https://hn.bfvvs.com/play/Yerk1Npa/index.m3u8"
+      },
+      {
+        "id": 15,
+        "title": "第15集",
+        "source": "https://hn.bfvvs.com/play/PdyPjOnb/index.m3u8"
+      },
+      {
+        "id": 16,
+        "title": "第16集",
+        "source": "https://hn.bfvvs.com/play/DbDkv7Ka/index.m3u8"
+      },
+      {
+        "id": 17,
+        "title": "第17集",
+        "source": "https://hn.bfvvs.com/play/1aKrDkxe/index.m3u8"
+      },
+      {
+        "id": 18,
+        "title": "第18集",
+        "source": "https://hn.bfvvs.com/play/YaOYKord/index.m3u8"
+      },
+      {
+        "id": 19,
+        "title": "第19集",
+        "source": "https://hn.bfvvs.com/play/5eVORyXa/index.m3u8"
+      },
+      {
+        "id": 20,
+        "title": "第20集",
+        "source": "https://hn.bfvvs.com/play/QeZ61D5e/index.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "灵魂摆渡3",
+    "year": "2016",
+    "rating": "7.7",
+    "genre": [
+      "内地"
+    ],
+    "episodes": "完结",
+    "director": "巨兴茂",
+    "cast": [
+      "于毅",
+      "刘智扬",
+      "肖茵",
+      "岳丽娜",
+      "杨昆",
+      "倪虹洁",
+      "王纯"
+    ],
+    "summary": "　　那是很久以前的事了。那个时候，还没有冥界，天柱连接着天和大地，天空不像现在的天空，那时候的天，悬在云端里。在后世的记载中，它还有一个名字，叫做“昆仑”。人类，是神创造的，世间一切，都是神的子民。昆仑山的天女来到了人间。天女，是神的使者。然而在人类中，出现了一种疾病，那是一种令人丧失心智的疾病，那就是，爱。因为爱，人类与天神之间，发动了第一场战争。能够与灵魂相通的夏冬青，与灵魂摆渡人赵吏和九天天女娅相识于444号便利店，一年后，他们又在海边重逢。阴差阳错下，夏冬青成为了赵吏的契人，注定要帮他送走九九八十一个灵魂。娅染上了人类古老的疾病，爱上了夏冬青，而这却与天界交给她的使命背道而驰。作为摆渡灵魂的鬼差，赵吏仿佛无所不能，但他最大的痛苦便是没有一个属于自己的灵魂，无法像夏冬青那样感受喜怒哀乐。新年前夕，他们遇到了古老的神兽，年和夕；荒山野村里，却矗立着一...",
+    "poster": "https://hongniuzyimage.com/upload/vod/2021-08-30/202108301630296746.jpg",
+    "episodeList": [
+      {
+        "id": 1,
+        "title": "第01集",
+        "source": "https://hn.bfvvs.com/play/PdyPRqWb/index.m3u8"
+      },
+      {
+        "id": 2,
+        "title": "第02集",
+        "source": "https://hn.bfvvs.com/play/DbDkBXna/index.m3u8"
+      },
+      {
+        "id": 3,
+        "title": "第03集",
+        "source": "https://hn.bfvvs.com/play/1aKrMgne/index.m3u8"
+      },
+      {
+        "id": 4,
+        "title": "第04集",
+        "source": "https://hn.bfvvs.com/play/YaOYQmNd/index.m3u8"
+      },
+      {
+        "id": 5,
+        "title": "第05集",
+        "source": "https://hn.bfvvs.com/play/5eVO1w1a/index.m3u8"
+      },
+      {
+        "id": 6,
+        "title": "第06集",
+        "source": "https://hn.bfvvs.com/play/QeZ65k6e/index.m3u8"
+      },
+      {
+        "id": 7,
+        "title": "第07集",
+        "source": "https://hn.bfvvs.com/play/Rb4xgl6b/index.m3u8"
+      },
+      {
+        "id": 8,
+        "title": "第08集",
+        "source": "https://hn.bfvvs.com/play/yb82mpoe/index.m3u8"
+      },
+      {
+        "id": 9,
+        "title": "第09集",
+        "source": "https://hn.bfvvs.com/play/lejRyE5e/index.m3u8"
+      },
+      {
+        "id": 10,
+        "title": "第10集",
+        "source": "https://hn.bfvvs.com/play/pen5DLld/index.m3u8"
+      },
+      {
+        "id": 11,
+        "title": "第11集",
+        "source": "https://hn.bfvvs.com/play/YerkKP6a/index.m3u8"
+      },
+      {
+        "id": 12,
+        "title": "第12集",
+        "source": "https://hn.bfvvs.com/play/lejRyEWe/index.m3u8"
+      },
+      {
+        "id": 13,
+        "title": "第13集",
+        "source": "https://hn.bfvvs.com/play/pen5DL4d/index.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "灵魂摆渡·十年",
+    "year": "2026",
+    "rating": "0.0",
+    "genre": [
+      "悬疑",
+      "惊悚",
+      "短片",
+      "奇幻",
+      "冒险",
+      "内地剧"
+    ],
+    "episodes": "完结",
+    "director": "巨兴茂",
+    "cast": [
+      "于毅",
+      "刘智扬",
+      "肖茵",
+      "许佳琪",
+      "姜馥颐",
+      "顾振翔",
+      "马凡丁",
+      "边程",
+      "简宇熙",
+      "美懿",
+      "朱超艺",
+      "李羽桐",
+      "田广宇",
+      "杨子睿",
+      "郭信如",
+      "涂冰",
+      "闫可欣",
+      "明子煜",
+      "邹敦明",
+      "芮佩怡",
+      "戴向宇",
+      "王艺禅",
+      "韩潇珧",
+      "贝勒",
+      "杨志刚",
+      "孙雪宁",
+      "陈冠英",
+      "黑子",
+      "李洛伊"
+    ],
+    "summary": "幻海市，夏冬青（刘智扬 饰）与娅（肖茵 饰）共同经营着昼夜转换的444号便利店，并与酷似失踪赵吏（于毅 饰）的“守夜人”结成新搭档，守护人界与灵界的平衡。三人组在平凡日子里化解了多起异事，然而，一场意外打破了平静……红月当空之际，众人诛灭其阴谋回归现实。幻海市恢复宁静，444号便利店继续营业，但新的异闻已在青石板路上悄然滋生。",
+    "poster": "https://hongniuzyimage.com/cover/b9e3838697233778ccae1bbca00ae4de.jpg",
+    "episodeList": [
+      {
+        "id": 1,
+        "title": "第1集",
+        "source": "https://hn.bfvvs.com/play/erk29l4a/index.m3u8"
+      },
+      {
+        "id": 2,
+        "title": "第2集",
+        "source": "https://hn.bfvvs.com/play/b823EDge/index.m3u8"
+      },
+      {
+        "id": 3,
+        "title": "第3集",
+        "source": "https://hn.bfvvs.com/play/elYR79ga/index.m3u8"
+      },
+      {
+        "id": 4,
+        "title": "第4集",
+        "source": "https://hn.bfvvs.com/play/b2k8Ww1d/index.m3u8"
+      },
+      {
+        "id": 5,
+        "title": "第5集",
+        "source": "https://hn.bfvvs.com/play/aAD61Y3e/index.m3u8"
+      },
+      {
+        "id": 6,
+        "title": "第6集",
+        "source": "https://hn.bfvvs.com/play/eVOvQVva/index.m3u8"
+      },
+      {
+        "id": 7,
+        "title": "第7集",
+        "source": "https://hn.bfvvs.com/play/b2k89DJd/index.m3u8"
+      },
+      {
+        "id": 8,
+        "title": "第8集",
+        "source": "https://hn.bfvvs.com/play/b8239Kle/index.m3u8"
+      },
+      {
+        "id": 9,
+        "title": "第9集",
+        "source": "https://hn.bfvvs.com/play/elYRpEla/index.m3u8"
+      },
+      {
+        "id": 10,
+        "title": "第10集",
+        "source": "https://hn.bfvvs.com/play/dyPw66nb/index.m3u8"
+      },
+      {
+        "id": 11,
+        "title": "第11集",
+        "source": "https://hn.bfvvs.com/play/epYZRRVa/index.m3u8"
+      },
+      {
+        "id": 12,
+        "title": "第12集",
+        "source": "https://hn.bfvvs.com/play/aAD68J3e/index.m3u8"
+      },
+      {
+        "id": 13,
+        "title": "第13集",
+        "source": "https://hn.bfvvs.com/play/elYR86Ma/index.m3u8"
+      },
+      {
+        "id": 14,
+        "title": "第14集",
+        "source": "https://hn.bfvvs.com/play/erk2g7pa/index.m3u8"
+      },
+      {
+        "id": 15,
+        "title": "第15集",
+        "source": "https://hn.bfvvs.com/play/b2k8GDzd/index.m3u8"
+      },
+      {
+        "id": 16,
+        "title": "第16集",
+        "source": "https://hn.bfvvs.com/play/b823XY3e/index.m3u8"
+      },
+      {
+        "id": 17,
+        "title": "第17集",
+        "source": "https://hn.bfvvs.com/play/epYZXqVa/index.m3u8"
+      },
+      {
+        "id": 18,
+        "title": "第18集",
+        "source": "https://hn.bfvvs.com/play/eXDQk0ge/index.m3u8"
+      },
+      {
+        "id": 19,
+        "title": "第19集",
+        "source": "https://hn.bfvvs.com/play/dG6RQ2Jb/index.m3u8"
+      },
+      {
+        "id": 20,
+        "title": "第20集",
+        "source": "https://hn.bfvvs.com/play/b4x6YJxb/index.m3u8"
+      },
+      {
+        "id": 21,
+        "title": "第21集",
+        "source": "https://hn.bfvvs.com/play/aOYg52rd/index.m3u8"
+      },
+      {
+        "id": 22,
+        "title": "第22集",
+        "source": "https://hn.bfvvs.com/play/e0R8XBLb/index.m3u8"
+      },
+      {
+        "id": 23,
+        "title": "第23集",
+        "source": "https://hn.bfvvs.com/play/dyPwJDnb/index.m3u8"
+      },
+      {
+        "id": 24,
+        "title": "第24集已完结",
+        "source": "https://hn.bfvvs.com/play/en5RNP7d/index.m3u8"
       }
     ]
   }
