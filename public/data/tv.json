@@ -4185,5 +4185,44 @@
         "source": "https://hn.bfvvs.com/play/dR6112Yd/index.m3u8"
       }
     ]
+  },
+  {
+    "id": 1,
+    "title": "藏锋",
+    "year": "2026",
+    "rating": "0.0",
+    "genre": [
+      "剧情",
+      "喜剧",
+      "犯罪",
+      "内地剧"
+    ],
+    "episodes": "更新至",
+    "director": "邢键钧",
+    "cast": [
+      "段奕宏",
+      "余男",
+      "阿如那",
+      "李纯"
+    ],
+    "summary": "故事以红叶市公安局宣传处副处长谭彦的“职场危机”为切入点，从宣传民警转战特警支队担任政委，一直拿笔杆子的谭彦从宣传岗位投身实战前线，一时间陷入秀才遇到兵有理说不清的处境，与深扎一线浑身荷尔蒙爆棚的特警支队长廖不凡从矛盾、磨合到融合，在协助专案组破获大案的过程里重拾职业理想。",
+    "poster": "https://hongniuzyimage.com/cover/2259c3048252d22c715c0b0f5f41d3df.jpg",
+    "episodeList": [
+      {
+        "id": 1,
+        "title": "第01集",
+        "source": "https://hn.bfvvs.com/play/bW6qWNWa/index.m3u8"
+      },
+      {
+        "id": 2,
+        "title": "第02集",
+        "source": "https://hn.bfvvs.com/play/dNk07ALe/index.m3u8"
+      },
+      {
+        "id": 3,
+        "title": "第03集",
+        "source": "https://hn.bfvvs.com/play/eERxKMNa/index.m3u8"
+      }
+    ]
   }
 ]
