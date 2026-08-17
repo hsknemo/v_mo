@@ -10,7 +10,7 @@
       "年代",
       "内地剧"
     ],
-    "episodes": "更新至16集 / 33集",
+    "episodes": "更新至18集 / 33集",
     "director": "",
     "cast": [
       "黄景瑜",
@@ -100,6 +100,16 @@
         "id": 16,
         "title": "第16集",
         "source": "https://hn.bfvvs.com/play/azpXBE8d/index.m3u8"
+      },
+      {
+        "id": 17,
+        "title": "第17集",
+        "source": "https://hn.bfvvs.com/play/egJ27j9d/index.m3u8"
+      },
+      {
+        "id": 18,
+        "title": "第18集",
+        "source": "https://hn.bfvvs.com/play/bo2yArza/index.m3u8"
       }
     ]
   },
