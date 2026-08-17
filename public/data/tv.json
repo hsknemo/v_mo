@@ -3166,7 +3166,7 @@
       "古装",
       "内地剧"
     ],
-    "episodes": "更新至18集",
+    "episodes": "更新至19集",
     "director": "邓科",
     "cast": [
       "丁禹兮",
@@ -3267,6 +3267,11 @@
         "id": 18,
         "title": "第18集",
         "source": "https://hn.bfvvs.com/play/bo2yvgNa/index.m3u8"
+      },
+      {
+        "id": 19,
+        "title": "第19集",
+        "source": "https://hn.bfvvs.com/play/bmZy74pd/index.m3u8"
       }
     ]
   },
