@@ -12,6 +12,12 @@ export default {
     { name: "anime", path: "/anime", label: "动漫", component: "AnimeView" },
     { name: "food", path: "/food", label: "下饭", component: "FoodView" },
     { name: "reward", path: "/reward", label: "赞赏", component: "RewardView" },
+    {
+      name: "contact",
+      path: "/contact",
+      label: "联系我",
+      component: "ContactView",
+    },
   ],
   dataSources: {
     movie: "/data/movies.json",
