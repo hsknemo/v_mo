@@ -63,6 +63,20 @@
             <div v-if="item.cast?.length" class="field">
               <span class="label">主演</span><span>{{ item.cast.join(' / ') }}</span>
             </div>
+
+            <div class="reward-entry" @click="goReward">
+              <div class="reward-entry-icon">
+                <el-icon><CoffeeCup /></el-icon>
+              </div>
+              <div class="reward-entry-text">
+                <p class="reward-entry-title">觉得好看？赞助一下呗</p>
+                <p class="reward-entry-desc">你的支持是持续更新的动力 ❤️</p>
+              </div>
+              <div class="reward-entry-btn">
+                <el-icon><Present /></el-icon>
+                <span>打赏支持</span>
+              </div>
+            </div>
           </div>
 
           <div v-if="isSeries && episodeList.length" class="play-episodes">
@@ -118,7 +132,7 @@
 <script setup>
 import { ref, computed, watch, onMounted, onBeforeUnmount } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
-import { ArrowLeft, Star, Lock } from '@element-plus/icons-vue'
+import { ArrowLeft, Star, Lock, CoffeeCup, Present } from '@element-plus/icons-vue'
 import { useMediaData } from '@/composables/useMediaData'
 import EpisodeList from '@/components/media/EpisodeList.vue'
 
@@ -278,6 +292,10 @@ onBeforeUnmount(() => {
 
 function goBack() {
   router.push(`/${type.value}`)
+}
+
+function goReward() {
+  router.push('/reward')
 }
 
 onMounted(async () => {
@@ -459,5 +477,136 @@ onMounted(async () => {
   color: var(--el-color-danger);
   margin-top: 8px;
   font-size: 13px;
+}
+
+.reward-entry {
+  margin-top: $space-lg;
+  display: flex;
+  align-items: center;
+  gap: $space-md;
+  padding: $space-md $space-lg;
+  border-radius: $radius-md;
+  background: linear-gradient(135deg, #fff7ed 0%, #ffedd5 100%);
+  border: 1px solid #fdba74;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  position: relative;
+  overflow: hidden;
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    right: -10%;
+    width: 120px;
+    height: 120px;
+    background: radial-gradient(circle, rgba(249, 115, 22, 0.08) 0%, transparent 70%);
+    border-radius: 50%;
+  }
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(249, 115, 22, 0.18);
+    border-color: #f97316;
+  }
+
+  &:active {
+    transform: translateY(0);
+  }
+}
+
+.reward-entry-icon {
+  flex-shrink: 0;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #fb923c 0%, #f97316 100%);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 10px rgba(249, 115, 22, 0.3);
+
+  .el-icon {
+    font-size: 22px;
+  }
+}
+
+.reward-entry-text {
+  flex: 1;
+  min-width: 0;
+
+  .reward-entry-title {
+    margin: 0;
+    font-size: 15px;
+    font-weight: 700;
+    color: #9a3412;
+    line-height: 1.4;
+  }
+
+  .reward-entry-desc {
+    margin: 2px 0 0;
+    font-size: 12px;
+    color: #c2410c;
+    opacity: 0.85;
+  }
+}
+
+.reward-entry-btn {
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 8px 14px;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #f97316 0%, #ea580c 100%);
+  color: #fff;
+  font-size: 13px;
+  font-weight: 600;
+  box-shadow: 0 3px 8px rgba(234, 88, 12, 0.35);
+  transition: all 0.2s ease;
+
+  .el-icon {
+    font-size: 14px;
+  }
+
+  .reward-entry:hover & {
+    box-shadow: 0 4px 12px rgba(234, 88, 12, 0.45);
+  }
+}
+
+@media (max-width: $bp-mobile) {
+  .reward-entry {
+    padding: $space-sm $space-md;
+    gap: $space-sm;
+  }
+
+  .reward-entry-icon {
+    width: 38px;
+    height: 38px;
+
+    .el-icon {
+      font-size: 18px;
+    }
+  }
+
+  .reward-entry-text {
+    .reward-entry-title {
+      font-size: 14px;
+    }
+
+    .reward-entry-desc {
+      font-size: 11px;
+    }
+  }
+
+  .reward-entry-btn {
+    padding: 6px 12px;
+    font-size: 12px;
+
+    .el-icon {
+      font-size: 12px;
+    }
+  }
 }
 </style>
