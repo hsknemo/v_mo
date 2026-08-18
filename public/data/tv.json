@@ -4250,6 +4250,21 @@
                 "id": 3,
                 "title": "第03集",
                 "source": "https://hn.bfvvs.com/play/eERxKMNa/index.m3u8"
+            },
+            {
+                "id": 4,
+                "title": "第04集",
+                "source": "https://hn.bfvvs.com/play/axk173re/index.m3u8"
+            },
+            {
+                "id": 5,
+                "title": "第05集",
+                "source": "https://hn.bfvvs.com/play/eERx6jka/index.m3u8"
+            },
+            {
+                "id": 6,
+                "title": "第06集",
+                "source": "https://hn.bfvvs.com/play/bkR7OExa/index.m3u8"
             }
         ]
     }
