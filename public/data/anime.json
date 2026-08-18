@@ -1,6 +1,57 @@
 [
     {
         "id": 1,
+        "title": "三角洲：造物主玩家",
+        "year": "2026",
+        "rating": "0.0",
+        "category": "tv",
+        "genre": [
+            "冒险",
+            "竞技",
+            "中国动漫"
+        ],
+        "episodes": "更新至6集",
+        "director": "",
+        "cast": [
+            ""
+        ],
+        "summary": "游戏设计师昊宇穿越进自设游戏，凭造物主般实力折服林晓，联手主播富坤组成 “夜龙” 铁三角。为救重病母亲争夺呼吸机，闯险境横扫校际赛场，强忍穿越后遗症对抗暮鸦会，力克内鬼强敌，拿下世界赛资格踏上全新战场。",
+        "poster": "https://hongniuzyimage.com/cover/ff2c3bbadf1c388fd582423adddaf94a.jpg",
+        "episodeList": [
+            {
+                "id": 1,
+                "title": "第1集",
+                "source": "https://hn.bfvvs.com/play/aQW6Zx9d/index.m3u8"
+            },
+            {
+                "id": 2,
+                "title": "第2集",
+                "source": "https://hn.bfvvs.com/play/elY2jyMa/index.m3u8"
+            },
+            {
+                "id": 3,
+                "title": "第3集",
+                "source": "https://hn.bfvvs.com/play/aKrLKoxe/index.m3u8"
+            },
+            {
+                "id": 4,
+                "title": "第4集",
+                "source": "https://hn.bfvvs.com/play/e5yLlB8e/index.m3u8"
+            },
+            {
+                "id": 5,
+                "title": "第5集",
+                "source": "https://hn.bfvvs.com/play/dBB68kYd/index.m3u8"
+            },
+            {
+                "id": 6,
+                "title": "第6集",
+                "source": "https://hn.bfvvs.com/play/bkR7wA6a/index.m3u8"
+            }
+        ]
+    },
+    {
+        "id": 1,
         "title": "全职高手 第一季",
         "rating": "8.1",
         "year": 2017,
