@@ -2775,7 +2775,7 @@
             "剧情",
             "内地剧"
         ],
-        "episodes": "更新至第10集",
+        "episodes": "更新至第12集",
         "director": "李南",
         "cast": [
             "张桂源",
@@ -2833,6 +2833,16 @@
                 "id": 10,
                 "title": "第10集",
                 "source": "https://hn.bfvvs.com/play/bYE5lEMb/index.m3u8"
+            },
+            {
+                "id": 11,
+                "title": "第11集",
+                "source": "https://hn.bfvvs.com/play/bkR7D0va/index.m3u8"
+            },
+            {
+                "id": 12,
+                "title": "第12集",
+                "source": "https://hn.bfvvs.com/play/bqxZDkya/index.m3u8"
             }
         ]
     },
