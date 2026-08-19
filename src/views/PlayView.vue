@@ -143,7 +143,7 @@ const type = computed(() => route.params.type)
 const id = computed(() => Number(route.params.id))
 const isSeries = computed(() => {
   if (type.value === 'movie') return false
-  if (['tv', 'variety'].includes(type.value)) return true
+  if (['tv', 'ustv', 'krtv', 'variety'].includes(type.value)) return true
   if (type.value === 'food') return item.value?.category === 'tv'
   if (type.value === 'anime') return item.value?.category === 'tv'
   return false

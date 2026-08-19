@@ -3,6 +3,8 @@ export default {
   menus: [
     { name: "movie", path: "/movie", label: "电影", component: "MovieView" },
     { name: "tv", path: "/tv", label: "电视剧", component: "TvView" },
+    { name: "ustv", path: "/ustv", label: "美剧", component: "UsView" },
+    { name: "krtv", path: "/krtv", label: "韩剧", component: "KrView" },
     {
       name: "variety",
       path: "/variety",
@@ -22,6 +24,8 @@ export default {
   dataSources: {
     movie: "/data/movies.json",
     tv: "/data/tv.json",
+    ustv: "/data/ustv.json",
+    krtv: "/data/krtv.json",
     variety: "/data/variety.json",
     anime: "/data/anime.json",
     food: "/data/food.json",
