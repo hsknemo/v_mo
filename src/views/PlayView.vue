@@ -25,7 +25,12 @@
 
       <!-- 解锁后内容 -->
       <template v-else>
-        <h1 class="play-title">{{ item.title }}</h1>
+        <div class="play-title-row">
+          <h1 class="play-title">{{ item.title }}</h1>
+          <span v-if="isSeries && currentEpisode" class="play-episode-tag">
+            {{ currentEpisode.title }}
+          </span>
+        </div>
         <p v-if="item.originalTitle" class="play-subtitle">{{ item.originalTitle }}</p>
 
         <div class="player-wrap">
@@ -156,6 +161,10 @@ const item = computed(() => {
 })
 
 const episodeList = computed(() => item.value?.episodeList || [])
+const currentEpisode = computed(() => {
+  if (!episodeList.value.length) return null
+  return episodeList.value.find((e) => e.id === currentEpisodeId.value) || null
+})
 const currentEpisodeId = ref(null)
 const movieSource = ref('')
 
@@ -332,11 +341,32 @@ onMounted(async () => {
   margin-top: $space-md;
 }
 
+.play-title-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: $space-sm;
+  margin-bottom: $space-xs;
+}
+
 .play-title {
   font-size: 24px;
   font-weight: 700;
-  margin: 0 0 $space-xs;
+  margin: 0;
   color: var(--text-primary);
+}
+
+.play-episode-tag {
+  display: inline-flex;
+  align-items: center;
+  padding: 3px 10px;
+  border-radius: $radius-sm;
+  background: linear-gradient(135deg, var(--el-color-primary), #ff8a3d);
+  color: #fff;
+  font-size: 13px;
+  font-weight: 600;
+  white-space: nowrap;
+  box-shadow: 0 2px 6px rgba(255, 140, 60, 0.25);
 }
 
 .play-subtitle {
@@ -576,6 +606,19 @@ onMounted(async () => {
 }
 
 @media (max-width: $bp-mobile) {
+  .play-title-row {
+    gap: $space-xs;
+  }
+
+  .play-title {
+    font-size: 20px;
+  }
+
+  .play-episode-tag {
+    font-size: 12px;
+    padding: 3px 8px;
+  }
+
   .reward-entry {
     padding: $space-sm $space-md;
     gap: $space-sm;
