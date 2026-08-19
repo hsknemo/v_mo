@@ -21,6 +21,22 @@
         </button>
       </div>
 
+      <div class="qr-group">
+        <div class="qr-item">
+          <div class="qr-img">
+            <img src="/chat/qq.png" alt="QQ 群二维码" @error="onQrError($event, 'qq')" />
+          </div>
+          <span class="qr-name">QQ 群二维码</span>
+        </div>
+        <div class="qr-item">
+          <div class="qr-img">
+            <img src="/chat/weixin.png" alt="微信群二维码" @error="onQrError($event, 'wx')" />
+          </div>
+          <span class="qr-name">微信群二维码</span>
+        </div>
+      </div>
+
+
     </div>
   </div>
 </template>
@@ -46,6 +62,21 @@ async function copyQQ() {
     copied.value = true
     setTimeout(() => { copied.value = false }, 2000)
   }
+}
+
+function onQrError(e, type) {
+  const el = e.target
+  const wrap = el.parentElement
+  if (!wrap) return
+  el.style.display = 'none'
+  const fallback = document.createElement('div')
+  fallback.className = 'qr-fallback'
+  if (type === 'qq') {
+    fallback.innerHTML = '<span>💬</span><small>QQ群二维码</small>'
+  } else {
+    fallback.innerHTML = '<span>💚</span><small>微信群二维码</small>'
+  }
+  wrap.appendChild(fallback)
 }
 </script>
 
@@ -143,6 +174,76 @@ async function copyQQ() {
   }
 }
 
+.qr-group {
+  display: flex;
+  justify-content: center;
+  gap: $space-xl;
+  margin-bottom: $space-lg;
+  flex-wrap: wrap;
+}
+
+.qr-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: $space-sm;
+}
+
+.qr-img {
+  position: relative;
+  width: 160px;
+  height: 160px;
+  border-radius: $radius-md;
+  overflow: hidden;
+  border: 1px solid var(--border-color);
+  background: #fff;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+}
+
+.qr-fallback {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  background: var(--bg-elevated);
+  color: var(--text-secondary);
+
+  span {
+    font-size: 48px;
+  }
+
+  small {
+    font-size: 12px;
+    opacity: 0.8;
+  }
+}
+
+.qr-name {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-regular);
+}
+
+.contact-tip {
+  padding: $space-sm $space-lg;
+  border-radius: $radius-sm;
+  background: var(--bg-elevated);
+  color: var(--text-primary);
+  font-size: 16px;
+  font-weight: 700;
+  display: inline-block;
+}
+
 .tip {
   padding: $space-sm $space-lg;
   border-radius: $radius-sm;
@@ -165,6 +266,15 @@ async function copyQQ() {
 
   .qq-info {
     align-items: center;
+  }
+
+  .qr-group {
+    gap: $space-lg;
+  }
+
+  .qr-img {
+    width: 130px;
+    height: 130px;
   }
 }
 </style>
