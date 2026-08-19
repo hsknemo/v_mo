@@ -9,7 +9,7 @@
             "年代",
             "内地剧"
         ],
-        "episodes": "更新至20集 / 33集",
+        "episodes": "更新至24集 / 33集",
         "director": "",
         "cast": [
             "黄景瑜",
@@ -118,6 +118,16 @@
                 "id": 20,
                 "title": "第20集",
                 "source": "https://hn.bfvvs.com/play/dPNQ5Lwa/index.m3u8"
+            },
+            {
+                "id": 21,
+                "title": "第21集",
+                "source": "https://hn.bfvvs.com/play/dR61kY0d/index.m3u8"
+            },
+            {
+                "id": 22,
+                "title": "第22集",
+                "source": "https://hn.bfvvs.com/play/e1w4E1ob/index.m3u8"
             }
         ]
     },
