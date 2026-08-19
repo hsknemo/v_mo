@@ -24,28 +24,50 @@
       <div class="qr-group">
         <div class="qr-item">
           <div class="qr-img">
-            <img src="/chat/qq.png" alt="QQ 群二维码" @error="onQrError($event, 'qq')" />
+            <img
+              v-if="!qrFallback.qq"
+              src="/chat/qq.png"
+              alt="QQ 群二维码"
+              @error="qrFallback.qq = true"
+            />
+            <div v-else class="qr-fallback">
+              <span>💬</span>
+              <small>QQ群二维码</small>
+            </div>
           </div>
           <span class="qr-name">QQ 群二维码</span>
         </div>
         <div class="qr-item">
           <div class="qr-img">
-            <img src="/chat/weixin.png" alt="微信群二维码" @error="onQrError($event, 'wx')" />
+            <img
+              v-if="!qrFallback.wx"
+              src="/chat/weixin.png"
+              alt="微信群二维码"
+              @error="qrFallback.wx = true"
+            />
+            <div v-else class="qr-fallback">
+              <span>💚</span>
+              <small>微信群二维码</small>
+            </div>
           </div>
           <span class="qr-name">微信群二维码</span>
         </div>
       </div>
 
+      <div class="contact-tip">
+        + 群 1101193338
+      </div>
 
     </div>
   </div>
 </template>
 
 <script setup>
-import { ref } from 'vue'
+import { ref, reactive } from 'vue'
 import { ChatDotRound } from '@element-plus/icons-vue'
 
 const copied = ref(false)
+const qrFallback = reactive({ qq: false, wx: false })
 
 async function copyQQ() {
   try {
@@ -62,21 +84,6 @@ async function copyQQ() {
     copied.value = true
     setTimeout(() => { copied.value = false }, 2000)
   }
-}
-
-function onQrError(e, type) {
-  const el = e.target
-  const wrap = el.parentElement
-  if (!wrap) return
-  el.style.display = 'none'
-  const fallback = document.createElement('div')
-  fallback.className = 'qr-fallback'
-  if (type === 'qq') {
-    fallback.innerHTML = '<span>💬</span><small>QQ群二维码</small>'
-  } else {
-    fallback.innerHTML = '<span>💚</span><small>微信群二维码</small>'
-  }
-  wrap.appendChild(fallback)
 }
 </script>
 
