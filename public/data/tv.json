@@ -3198,7 +3198,7 @@
             "古装",
             "内地剧"
         ],
-        "episodes": "更新至20集",
+        "episodes": "更新至21集",
         "director": "邓科",
         "cast": [
             "丁禹兮",
@@ -3308,6 +3308,11 @@
                 "id": 20,
                 "title": "第20集",
                 "source": "https://hn.bfvvs.com/play/dNk05vze/index.m3u8"
+            },
+            {
+                "id": 21,
+                "title": "第21集",
+                "source": "https://hn.bfvvs.com/play/egJ285Zd/index.m3u8"
             }
         ]
     },
