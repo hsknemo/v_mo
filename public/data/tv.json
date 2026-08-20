@@ -10,7 +10,7 @@
             "年代",
             "内地剧"
         ],
-        "episodes": "更新至22集 / 33集",
+        "episodes": "更新至24集 / 33集",
         "director": "",
         "cast": [
             "黄景瑜",
@@ -130,6 +130,16 @@
                 "id": 22,
                 "title": "第22集",
                 "source": "https://hn.bfvvs.com/play/e1w4E1ob/index.m3u8"
+            },
+            {
+                "id": 23,
+                "title": "第23集",
+                "source": "https://hn.bfvvs.com/play/av2ZJlma/index.m3u8"
+            },
+            {
+                "id": 24,
+                "title": "第24集",
+                "source": "https://hn.bfvvs.com/play/dL9JB7we/index.m3u8"
             }
         ]
     },
