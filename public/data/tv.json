@@ -2790,7 +2790,7 @@
             "剧情",
             "内地剧"
         ],
-        "episodes": "更新至第12集",
+        "episodes": "更新至第14集",
         "director": "李南",
         "cast": [
             "张桂源",
@@ -2859,6 +2859,16 @@
                 "id": 12,
                 "title": "第12集",
                 "source": "https://hn.bfvvs.com/play/bqxZDkya/index.m3u8"
+            },
+            {
+                "id": 13,
+                "title": "第13集",
+                "source": "https://hn.bfvvs.com/play/egJ28AGd/index.m3u8"
+            },
+            {
+                "id": 14,
+                "title": "第14集",
+                "source": "https://hn.bfvvs.com/play/e5yLVmKe/index.m3u8"
             }
         ]
     },
