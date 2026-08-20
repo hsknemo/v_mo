@@ -5830,5 +5830,195 @@
                 "source": "https://hn.bfvvs.com/play/dNk0XE2e/index.m3u8"
             }
         ]
+    },
+    {
+        "id": 1,
+        "title": "滤镜",
+        "year": "2025",
+        "rating": "0.0",
+        "genre": [
+            " 剧情",
+            "奇幻",
+            "内地剧"
+        ],
+        "episodes": "完结",
+        "director": "陈跃进",
+        "cast": [
+            "檀健次",
+            "李兰迪",
+            "高瀚宇",
+            "罗秋韵",
+            "黄思瑞",
+            "嘉泽",
+            "蒲萄",
+            "王弘毅",
+            "昌隆",
+            "任彬",
+            "孙芮"
+        ],
+        "summary": "暂无简介",
+        "poster": "https://hongniuzyimage.com/cover/12f0aef5ef23da50414ec97c9b7c79ba.jpg",
+        "episodeList": [
+            {
+                "id": 1,
+                "title": "第01集",
+                "source": "https://hn.bfvvs.com/play/Pe9kkGZb/index.m3u8"
+            },
+            {
+                "id": 2,
+                "title": "第02集",
+                "source": "https://hn.bfvvs.com/play/9avPPwmd/index.m3u8"
+            },
+            {
+                "id": 3,
+                "title": "第03集",
+                "source": "https://hn.bfvvs.com/play/vbmDDkOa/index.m3u8"
+            },
+            {
+                "id": 4,
+                "title": "第04集",
+                "source": "https://hn.bfvvs.com/play/kazWW3qb/index.m3u8"
+            },
+            {
+                "id": 5,
+                "title": "第5集",
+                "source": "https://hn.bfvvs.com/play/7e52BXBa/index.m3u8"
+            },
+            {
+                "id": 6,
+                "title": "第06集",
+                "source": "https://hn.bfvvs.com/play/QbY1zNKb/index.m3u8"
+            },
+            {
+                "id": 7,
+                "title": "第7集",
+                "source": "https://hn.bfvvs.com/play/6dBwD6xe/index.m3u8"
+            },
+            {
+                "id": 8,
+                "title": "第08集",
+                "source": "https://hn.bfvvs.com/play/9avPWpXd/index.m3u8"
+            },
+            {
+                "id": 9,
+                "title": "第9集",
+                "source": "https://hn.bfvvs.com/play/PdRQRB0b/index.m3u8"
+            },
+            {
+                "id": 10,
+                "title": "第10集",
+                "source": "https://hn.bfvvs.com/play/QbY12oOb/index.m3u8"
+            },
+            {
+                "id": 11,
+                "title": "第11集",
+                "source": "https://hn.bfvvs.com/play/kazW0Oqb/index.m3u8"
+            },
+            {
+                "id": 12,
+                "title": "第12集",
+                "source": "https://hn.bfvvs.com/play/9avPXrrd/index.m3u8"
+            },
+            {
+                "id": 13,
+                "title": "第13集",
+                "source": "https://hn.bfvvs.com/play/ZdPOXZnb/index.m3u8"
+            },
+            {
+                "id": 14,
+                "title": "第14集",
+                "source": "https://hn.bfvvs.com/play/xboGpyzb/index.m3u8"
+            },
+            {
+                "id": 15,
+                "title": "第15集",
+                "source": "https://hn.bfvvs.com/play/xe7E3X1b/index.m3u8"
+            },
+            {
+                "id": 16,
+                "title": "第16集",
+                "source": "https://hn.bfvvs.com/play/Qe10wGmd/index.m3u8"
+            },
+            {
+                "id": 17,
+                "title": "第17集",
+                "source": "https://hn.bfvvs.com/play/wdLj9YXa/index.m3u8"
+            },
+            {
+                "id": 18,
+                "title": "第18集",
+                "source": "https://hn.bfvvs.com/play/ZdPn1Y6a/index.m3u8"
+            },
+            {
+                "id": 19,
+                "title": "第19集",
+                "source": "https://hn.bfvvs.com/play/xe7E131b/index.m3u8"
+            },
+            {
+                "id": 20,
+                "title": "第20集",
+                "source": "https://hn.bfvvs.com/play/NbWxPlXd/index.m3u8"
+            },
+            {
+                "id": 21,
+                "title": "第21集",
+                "source": "https://hn.bfvvs.com/play/negRpEDd/index.m3u8"
+            },
+            {
+                "id": 22,
+                "title": "第22集",
+                "source": "https://hn.bfvvs.com/play/vbm1YP0b/index.m3u8"
+            },
+            {
+                "id": 23,
+                "title": "第23集",
+                "source": "https://hn.bfvvs.com/play/xe7EpqGb/index.m3u8"
+            },
+            {
+                "id": 24,
+                "title": "第24集",
+                "source": "https://hn.bfvvs.com/play/oeEYxYle/index.m3u8"
+            },
+            {
+                "id": 25,
+                "title": "第25集",
+                "source": "https://hn.bfvvs.com/play/kazrnBra/index.m3u8"
+            },
+            {
+                "id": 26,
+                "title": "第26集",
+                "source": "https://hn.bfvvs.com/play/9avnY2na/index.m3u8"
+            },
+            {
+                "id": 27,
+                "title": "第27集",
+                "source": "https://hn.bfvvs.com/play/xbo3vVYb/index.m3u8"
+            },
+            {
+                "id": 28,
+                "title": "第28集",
+                "source": "https://hn.bfvvs.com/play/9avn9gVa/index.m3u8"
+            },
+            {
+                "id": 29,
+                "title": "第29集",
+                "source": "https://hn.bfvvs.com/play/wdLj58ga/index.m3u8"
+            },
+            {
+                "id": 30,
+                "title": "第30集",
+                "source": "https://hn.bfvvs.com/play/xe7EWLwb/index.m3u8"
+            },
+            {
+                "id": 31,
+                "title": "第31集",
+                "source": "https://hn.bfvvs.com/play/PdRp50Oa/index.m3u8"
+            },
+            {
+                "id": 32,
+                "title": "第32集完结",
+                "source": "https://hn.bfvvs.com/play/xe7EWwyb/index.m3u8"
+            }
+        ]
     }
 ]
