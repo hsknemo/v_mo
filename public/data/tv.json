@@ -6020,5 +6020,122 @@
                 "source": "https://hn.bfvvs.com/play/xe7EWwyb/index.m3u8"
             }
         ]
+    },
+    {
+        "id": 1,
+        "title": "唐人街探案2",
+        "year": "2024",
+        "rating": "0.0",
+        "genre": [
+            " 悬疑",
+            "犯罪",
+            "内地剧"
+        ],
+        "episodes": "更新至",
+        "director": "姚文逸,王天尉",
+        "cast": [
+            "邱泽",
+            "尚语贤",
+            "杨谨华",
+            "钟镇涛",
+            "俞灏明",
+            "张艺上",
+            "熊黛林",
+            "翁虹",
+            "邓恩熙",
+            "荣梓杉",
+            "王宝强",
+            "刘昊然",
+            "肖央",
+            "张钧甯",
+            "托尼·贾",
+            "杜德伟",
+            "吕颂贤",
+            "连凯"
+        ],
+        "summary": "“唐探宇宙”原班人马惊喜回归，四个全新悬疑推理单元《天使的旋律》《恶魔的呼吸》《游乐园》《黄金城》。城市之间罪恶涌动，侦探林默（邱泽 饰）、Kiko（尚语贤 饰）谜案穿梭各显神通。2024，CRIMASTER侦探排行榜重新洗牌。",
+        "poster": "https://hongniuzyimage.com/cover/ba48e3bddfd8b7160acdedcad3055780.jpg",
+        "episodeList": [
+            {
+                "id": 1,
+                "title": "第1集",
+                "source": "https://hn.bfvvs.com/play/PdyBY0we/index.m3u8"
+            },
+            {
+                "id": 2,
+                "title": "第2集",
+                "source": "https://hn.bfvvs.com/play/1aKN4Pze/index.m3u8"
+            },
+            {
+                "id": 3,
+                "title": "第3集",
+                "source": "https://hn.bfvvs.com/play/RdGJ4DQb/index.m3u8"
+            },
+            {
+                "id": 4,
+                "title": "第4集",
+                "source": "https://hn.bfvvs.com/play/9aAz0mjb/index.m3u8"
+            },
+            {
+                "id": 5,
+                "title": "第5集",
+                "source": "https://hn.bfvvs.com/play/1aKNwY8e/index.m3u8"
+            },
+            {
+                "id": 6,
+                "title": "第6集",
+                "source": "https://hn.bfvvs.com/play/YerrLXWe/index.m3u8"
+            },
+            {
+                "id": 7,
+                "title": "第7集",
+                "source": "https://hn.bfvvs.com/play/mepp4nme/index.m3u8"
+            },
+            {
+                "id": 8,
+                "title": "第8集",
+                "source": "https://hn.bfvvs.com/play/YerrPoWe/index.m3u8"
+            },
+            {
+                "id": 9,
+                "title": "第9集",
+                "source": "https://hn.bfvvs.com/play/meppE1ye/index.m3u8"
+            },
+            {
+                "id": 10,
+                "title": "第10集.",
+                "source": "https://hn.bfvvs.com/play/YaOjQ1re/index.m3u8"
+            },
+            {
+                "id": 11,
+                "title": "第11集",
+                "source": "https://hn.bfvvs.com/play/nellj0Je/index.m3u8"
+            },
+            {
+                "id": 12,
+                "title": "第12集",
+                "source": "https://hn.bfvvs.com/play/RdGO6jrd/index.m3u8"
+            },
+            {
+                "id": 13,
+                "title": "第13集",
+                "source": "https://hn.bfvvs.com/play/DbDL1Gqb/index.m3u8"
+            },
+            {
+                "id": 14,
+                "title": "第14集\t",
+                "source": "https://hn.bfvvs.com/play/9b6qB99a/index.m3u8"
+            },
+            {
+                "id": 15,
+                "title": "第15集",
+                "source": "https://hn.bfvvs.com/play/b68BXq9e/index.m3u8"
+            },
+            {
+                "id": 16,
+                "title": "第16集",
+                "source": "https://hn.bfvvs.com/play/mepvzWXb/index.m3u8"
+            }
+        ]
     }
 ]
