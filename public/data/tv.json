@@ -5753,5 +5753,82 @@
                 "source": "https://hn.bfvvs.com/play/en5g2o5d/index.m3u8"
             }
         ]
+    },
+    {
+        "id": 1,
+        "title": "能有多大事",
+        "year": "2026",
+        "rating": "0.0",
+        "genre": [
+            " 婚姻生活",
+            "家庭",
+            "都市",
+            "内地剧"
+        ],
+        "episodes": "更新11集",
+        "director": "",
+        "cast": [
+            "李幼斌",
+            "史兰芽"
+        ],
+        "summary": "五星大厨许多金辛苦大半辈子，退休时衣食无忧，准备告诉儿女们自己和黄昏恋女友马小芬的婚事，还打算完婚后周游世界，哪知他幸福的晚年生活却因为小儿子被骗巨款完全乱了套。尽管法律条文认定成年孩子的债务与他没有任何连带关系，但是，为了减轻小儿子的罪行，为了一份担当，许多金卖房打工，走上“子债父偿”的艰辛路。",
+        "poster": "https://hongniuzyimage.com/cover/7a807be03d58378fe54cd908bcbb9454.jpg",
+        "episodeList": [
+            {
+                "id": 1,
+                "title": "第01集",
+                "source": "https://hn.bfvvs.com/play/axk11rBe/index.m3u8"
+            },
+            {
+                "id": 2,
+                "title": "第02集",
+                "source": "https://hn.bfvvs.com/play/bo2yygXa/index.m3u8"
+            },
+            {
+                "id": 3,
+                "title": "第03集",
+                "source": "https://hn.bfvvs.com/play/av2Zj35a/index.m3u8"
+            },
+            {
+                "id": 4,
+                "title": "第04集",
+                "source": "https://hn.bfvvs.com/play/bmZyE3Gd/index.m3u8"
+            },
+            {
+                "id": 5,
+                "title": "第5集",
+                "source": "https://hn.bfvvs.com/play/egJ2xRkd/index.m3u8"
+            },
+            {
+                "id": 6,
+                "title": "第06集",
+                "source": "https://hn.bfvvs.com/play/e73XD48e/index.m3u8"
+            },
+            {
+                "id": 7,
+                "title": "第07集",
+                "source": "https://hn.bfvvs.com/play/bqxZANDa/index.m3u8"
+            },
+            {
+                "id": 8,
+                "title": "第08集",
+                "source": "https://hn.bfvvs.com/play/dR61wYwd/index.m3u8"
+            },
+            {
+                "id": 9,
+                "title": "第09集",
+                "source": "https://hn.bfvvs.com/play/dBB6Qood/index.m3u8"
+            },
+            {
+                "id": 10,
+                "title": "第10集",
+                "source": "https://hn.bfvvs.com/play/e9rgGpJa/index.m3u8"
+            },
+            {
+                "id": 11,
+                "title": "第11集",
+                "source": "https://hn.bfvvs.com/play/dNk0XE2e/index.m3u8"
+            }
+        ]
     }
 ]
