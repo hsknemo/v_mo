@@ -6137,5 +6137,99 @@
                 "source": "https://hn.bfvvs.com/play/mepvzWXb/index.m3u8"
             }
         ]
+    },
+    {
+        "id": 1,
+        "title": "被隐匿的真相",
+        "year": "2026",
+        "rating": "0.0",
+        "genre": [
+            " 剧情",
+            "悬疑",
+            "内地剧"
+        ],
+        "episodes": "完结",
+        "director": "嵇政",
+        "cast": [
+            "丁冠森",
+            "印小天",
+            "黄婷婷",
+            "郭品超",
+            "王宁",
+            "张晓谦",
+            "高戈",
+            "夏志卿",
+            "翟宇佳",
+            "宋梓侨",
+            "王宏",
+            "陈天明",
+            "刘梓涵",
+            "詹妮",
+            "苏茂洋"
+        ],
+        "summary": "青年刑警唐堂跟随师父参与调查一起十年前的裸女案，曾经的主犯白启明再次回到青城市引起了警方的高度重视。在对其布控调查的期间内，发现其牵连出更多的犯罪团伙。在网络平台借以“爱心收留流浪狗”为名的八公狗舍，实际上一直在诓骗民众，以此获取不法利益，同时还和白启明的犯罪行为有着极深的联系；在城内造成重大恶劣影响的偷狗二人组接连不断地引起事端，误食有毒食品的老人小孩激化社会矛盾，而他们背后似乎与“老白”还有着千丝万缕的关联；本地颇具盛名的鸿运餐厅老板失手杀人；以及那莫名消失的流浪汉……...在这种种谜团的背后，年轻正",
+        "poster": "https://hongniuzyimage.com/cover/76201f7391aebe66660d4c3917114cbe.jpg",
+        "episodeList": [
+            {
+                "id": 1,
+                "title": "第01集",
+                "source": "https://hn.bfvvs.com/play/b82qXp2e/index.m3u8"
+            },
+            {
+                "id": 2,
+                "title": "第02集",
+                "source": "https://hn.bfvvs.com/play/elYO8J7a/index.m3u8"
+            },
+            {
+                "id": 3,
+                "title": "第03集",
+                "source": "https://hn.bfvvs.com/play/erk0gPBa/index.m3u8"
+            },
+            {
+                "id": 4,
+                "title": "第04集",
+                "source": "https://hn.bfvvs.com/play/elYO8K1a/index.m3u8"
+            },
+            {
+                "id": 5,
+                "title": "第05集",
+                "source": "https://hn.bfvvs.com/play/dwpjZVXe/index.m3u8"
+            },
+            {
+                "id": 6,
+                "title": "第06集",
+                "source": "https://hn.bfvvs.com/play/b2kR2LAd/index.m3u8"
+            },
+            {
+                "id": 7,
+                "title": "第07集",
+                "source": "https://hn.bfvvs.com/play/ejR2JORe/index.m3u8"
+            },
+            {
+                "id": 8,
+                "title": "第08集",
+                "source": "https://hn.bfvvs.com/play/b2kRqZAd/index.m3u8"
+            },
+            {
+                "id": 9,
+                "title": "第09集",
+                "source": "https://hn.bfvvs.com/play/aKrOGRRe/index.m3u8"
+            },
+            {
+                "id": 10,
+                "title": "第10集",
+                "source": "https://hn.bfvvs.com/play/epYgKz1a/index.m3u8"
+            },
+            {
+                "id": 11,
+                "title": "第11集",
+                "source": "https://hn.bfvvs.com/play/ejR2MnWe/index.m3u8"
+            },
+            {
+                "id": 12,
+                "title": "第12集已完结",
+                "source": "https://hn.bfvvs.com/play/ejR2Mnze/index.m3u8"
+            }
+        ]
     }
 ]
