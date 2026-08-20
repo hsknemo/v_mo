@@ -120,5 +120,88 @@
                 "source": "https://hn.bfvvs.com/play/Pe9JZ0Za/index.m3u8"
             }
         ]
+    },
+    {
+        "id": 1,
+        "title": "稻草人",
+        "year": "2026",
+        "rating": "0.0",
+        "genre": [
+            " 剧情",
+            "惊悚",
+            "犯罪",
+            "韩剧"
+        ],
+        "episodes": "完结",
+        "director": "朴俊宇",
+        "cast": [
+            "朴海秀",
+            "李熙俊",
+            "郭善英"
+        ],
+        "summary": "以李春宰连环杀人案为背景，讲述了唯一一位保持人性的人，不向凶手、时代和公共权力屈服，最终维护正义、澄清真相的故事。",
+        "poster": "https://hongniuzyimage.com/cover/03c1cea957664c18285af100f97de672.jpg",
+        "episodeList": [
+            {
+                "id": 1,
+                "title": "第1集",
+                "source": "https://hn.bfvvs.com/play/e5yQQVYe/index.m3u8"
+            },
+            {
+                "id": 2,
+                "title": "第2集",
+                "source": "https://hn.bfvvs.com/play/dNkLOope/index.m3u8"
+            },
+            {
+                "id": 3,
+                "title": "第3集",
+                "source": "https://hn.bfvvs.com/play/e9r1GYza/index.m3u8"
+            },
+            {
+                "id": 4,
+                "title": "第4集",
+                "source": "https://hn.bfvvs.com/play/azpvYLrd/index.m3u8"
+            },
+            {
+                "id": 5,
+                "title": "第5集",
+                "source": "https://hn.bfvvs.com/play/bW6L07xa/index.m3u8"
+            },
+            {
+                "id": 6,
+                "title": "第6集",
+                "source": "https://hn.bfvvs.com/play/av2lvOVa/index.m3u8"
+            },
+            {
+                "id": 7,
+                "title": "第7集",
+                "source": "https://hn.bfvvs.com/play/en5x4YPd/index.m3u8"
+            },
+            {
+                "id": 8,
+                "title": "第8集",
+                "source": "https://hn.bfvvs.com/play/bDk1jxka/index.m3u8"
+            },
+            {
+                "id": 9,
+                "title": "第9集",
+                "source": "https://hn.bfvvs.com/play/eXDLZyge/index.m3u8"
+            },
+            {
+                "id": 10,
+                "title": "第10集",
+                "source": "https://hn.bfvvs.com/play/dyPoqLzb/index.m3u8"
+            },
+            {
+                "id": 11,
+                "title": "第11集",
+                "source": "https://hn.bfvvs.com/play/en5RQQpd/index.m3u8"
+            },
+            {
+                "id": 12,
+                "title": "第12集完结",
+                "source": "https://hn.bfvvs.com/play/epYZw0Na/index.m3u8"
+            }
+        ]
     }
 ]
