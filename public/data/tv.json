@@ -4312,7 +4312,7 @@
             "犯罪",
             "内地剧"
         ],
-        "episodes": "更新至第6集",
+        "episodes": "更新至第7集",
         "director": "邢键钧",
         "cast": [
             "段奕宏",
@@ -4351,7 +4351,12 @@
             {
                 "id": 6,
                 "title": "第06集",
-                "source": "https://hn.bfvvs.com/play/bkR7OExa/index.m3u8"
+                "source": "https://hn.bfvvs.com/play/bmZyGVAd/index.m3u8"
+            },
+            {
+                "id": 7,
+                "title": "第07集",
+                "source": "https://hn.bfvvs.com/play/dNk01Yze/index.m3u8"
             }
         ]
     },
