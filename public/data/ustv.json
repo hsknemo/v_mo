@@ -41,5 +41,287 @@
         "source": "https://hn.bfvvs.com/play/dL9JYlwe/index.m3u8"
       }
     ]
+  },
+  {
+    "id": 1,
+    "title": "老友记 第一季",
+    "year": "1994",
+    "rating": "1.0",
+    "genre": [
+      " 欧美"
+    ],
+    "episodes": "更新至",
+    "director": "大卫·克拉尼,玛尔塔·考夫曼",
+    "cast": [
+      "詹妮弗·安妮斯顿",
+      "柯特妮·考克斯",
+      "丽莎·库卓",
+      "马特·勒布朗",
+      "马修·派瑞",
+      "大卫·休默",
+      "詹姆斯·迈克尔·泰勒"
+    ],
+    "summary": "莫妮卡（柯特妮·考克斯 ）、钱德（马修·派瑞）、瑞秋（詹妮弗·安妮斯顿）、菲比（莉莎·库卓）、乔伊（马特·理勃兰）和罗斯（大卫·休谟）是彼此最好的朋友，一起走过十年岁月的点点滴滴。虽然老友们各有各的性格特点，也会有矛盾和争执，但对于彼此，他们永远be there for you.",
+    "poster": "https://hongniuzyimage.com/cover/4b7147dea804df0cb40380152680314c.jpg",
+    "episodeList": [
+      {
+        "id": 1,
+        "title": "第01集",
+        "source": "https://hn.bfvvs.com/play/DbDqV0Kd/index.m3u8"
+      },
+      {
+        "id": 2,
+        "title": "第02集",
+        "source": "https://hn.bfvvs.com/play/1aK8V6xb/index.m3u8"
+      },
+      {
+        "id": 3,
+        "title": "第03集",
+        "source": "https://hn.bfvvs.com/play/YaOg0Zra/index.m3u8"
+      },
+      {
+        "id": 4,
+        "title": "第04集",
+        "source": "https://hn.bfvvs.com/play/5eVvVNXe/index.m3u8"
+      },
+      {
+        "id": 5,
+        "title": "第05集",
+        "source": "https://hn.bfvvs.com/play/QeZ89W5b/index.m3u8"
+      },
+      {
+        "id": 6,
+        "title": "第06集",
+        "source": "https://hn.bfvvs.com/play/Rb46ykxe/index.m3u8"
+      },
+      {
+        "id": 7,
+        "title": "第07集",
+        "source": "https://hn.bfvvs.com/play/yb83Do3a/index.m3u8"
+      },
+      {
+        "id": 8,
+        "title": "第08集",
+        "source": "https://hn.bfvvs.com/play/lejY9vvd/index.m3u8"
+      },
+      {
+        "id": 9,
+        "title": "第09集",
+        "source": "https://hn.bfvvs.com/play/penR9Y7e/index.m3u8"
+      },
+      {
+        "id": 10,
+        "title": "第10集",
+        "source": "https://hn.bfvvs.com/play/Yer2lEpe/index.m3u8"
+      },
+      {
+        "id": 11,
+        "title": "第11集",
+        "source": "https://hn.bfvvs.com/play/lejY9vPd/index.m3u8"
+      },
+      {
+        "id": 12,
+        "title": "第12集",
+        "source": "https://hn.bfvvs.com/play/penR9YWe/index.m3u8"
+      },
+      {
+        "id": 13,
+        "title": "第13集",
+        "source": "https://hn.bfvvs.com/play/Yer2lE4e/index.m3u8"
+      },
+      {
+        "id": 14,
+        "title": "第14集",
+        "source": "https://hn.bfvvs.com/play/Pdywv6Ea/index.m3u8"
+      },
+      {
+        "id": 15,
+        "title": "第15集",
+        "source": "https://hn.bfvvs.com/play/DbDqVYyd/index.m3u8"
+      },
+      {
+        "id": 16,
+        "title": "第16集",
+        "source": "https://hn.bfvvs.com/play/1aK8VYMb/index.m3u8"
+      },
+      {
+        "id": 17,
+        "title": "第17集",
+        "source": "https://hn.bfvvs.com/play/YaOg0JYa/index.m3u8"
+      },
+      {
+        "id": 18,
+        "title": "第18集",
+        "source": "https://hn.bfvvs.com/play/5eVvVJve/index.m3u8"
+      },
+      {
+        "id": 19,
+        "title": "第19集",
+        "source": "https://hn.bfvvs.com/play/QeZ89Zwb/index.m3u8"
+      },
+      {
+        "id": 20,
+        "title": "第20集",
+        "source": "https://hn.bfvvs.com/play/Rb46yWVe/index.m3u8"
+      },
+      {
+        "id": 21,
+        "title": "第21集",
+        "source": "https://hn.bfvvs.com/play/yb83DXga/index.m3u8"
+      },
+      {
+        "id": 22,
+        "title": "第22集",
+        "source": "https://hn.bfvvs.com/play/lejY9APd/index.m3u8"
+      },
+      {
+        "id": 23,
+        "title": "第23集",
+        "source": "https://hn.bfvvs.com/play/penR9GWe/index.m3u8"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "老友记 第二季",
+    "year": "1995",
+    "rating": "9.8",
+    "genre": [
+      " 欧美"
+    ],
+    "episodes": "更新至",
+    "director": "迈克尔·莱拜克",
+    "cast": [
+      "詹妮弗·安妮斯顿",
+      "柯特妮·考克斯",
+      "丽莎·库卓",
+      "马特·勒布朗",
+      "马修·派瑞",
+      "大卫·休默"
+    ],
+    "summary": "罗斯（大卫·休默 David Schwimmer 饰）不知瑞秋（詹妮弗·安妮斯顿 Jennifer Aniston 饰）对他的感觉，并和老同学茱莉开始恋爱。瑞秋对此很不开心，并尝试破坏这一对恋人。已经开始新恋情的瑞秋在一次就酒醉时通过电话留言机跟罗斯表白。让罗斯在瑞秋和茱莉见无所适从，在钱德勒（马修·派瑞 Matthew Perry 饰）的建议下罗列两人的优缺点比较决定。但罗斯知道自己真正爱的还是瑞秋，于是很快与茱莉分手。经历重重波折终于和瑞秋重新开始。乔伊（马特·理勃兰 Matt LeBlanc 饰）由于在肥皂剧扮演雷莫瑞医生大获成功，赚够钱可以住进自己的公寓。菲比（莉莎·库卓 Lisa Kudrow 饰）找到了同父异母的弟弟小弗兰克。莫妮卡（柯特妮·考克斯 Courteney Cox 饰）也开始与父亲的老朋友理查德交往。但孩子的问题让，一心想要孩...",
+    "poster": "https://hongniuzyimage.com/cover/7dc49135cf63e059c76f54034aace2cd.jpg",
+    "episodeList": [
+      {
+        "id": 1,
+        "title": "第01集",
+        "source": "https://hn.bfvvs.com/play/DbDqoOKd/index.m3u8"
+      },
+      {
+        "id": 2,
+        "title": "第02集",
+        "source": "https://hn.bfvvs.com/play/1aK8yoxb/index.m3u8"
+      },
+      {
+        "id": 3,
+        "title": "第03集",
+        "source": "https://hn.bfvvs.com/play/5eVvjDXe/index.m3u8"
+      },
+      {
+        "id": 4,
+        "title": "第04集",
+        "source": "https://hn.bfvvs.com/play/Rb463jxe/index.m3u8"
+      },
+      {
+        "id": 5,
+        "title": "第05集",
+        "source": "https://hn.bfvvs.com/play/yb83Nn3a/index.m3u8"
+      },
+      {
+        "id": 6,
+        "title": "第06集",
+        "source": "https://hn.bfvvs.com/play/lejYKjvd/index.m3u8"
+      },
+      {
+        "id": 7,
+        "title": "第07集",
+        "source": "https://hn.bfvvs.com/play/Yer2orpe/index.m3u8"
+      },
+      {
+        "id": 8,
+        "title": "第08集",
+        "source": "https://hn.bfvvs.com/play/PdywyBna/index.m3u8"
+      },
+      {
+        "id": 9,
+        "title": "第09集",
+        "source": "https://hn.bfvvs.com/play/DbDqoDKd/index.m3u8"
+      },
+      {
+        "id": 10,
+        "title": "第10集",
+        "source": "https://hn.bfvvs.com/play/YaOgDjra/index.m3u8"
+      },
+      {
+        "id": 11,
+        "title": "第11集",
+        "source": "https://hn.bfvvs.com/play/QeZ8nx5b/index.m3u8"
+      },
+      {
+        "id": 12,
+        "title": "第12集",
+        "source": "https://hn.bfvvs.com/play/Rb463oxe/index.m3u8"
+      },
+      {
+        "id": 13,
+        "title": "第13集",
+        "source": "https://hn.bfvvs.com/play/yb83Nv3a/index.m3u8"
+      },
+      {
+        "id": 14,
+        "title": "第14集",
+        "source": "https://hn.bfvvs.com/play/lejYKmvd/index.m3u8"
+      },
+      {
+        "id": 15,
+        "title": "第15集",
+        "source": "https://hn.bfvvs.com/play/Yer2oxpe/index.m3u8"
+      },
+      {
+        "id": 16,
+        "title": "第16集",
+        "source": "https://hn.bfvvs.com/play/lejYKmPd/index.m3u8"
+      },
+      {
+        "id": 17,
+        "title": "第17集",
+        "source": "https://hn.bfvvs.com/play/penRkqWe/index.m3u8"
+      },
+      {
+        "id": 18,
+        "title": "第18集",
+        "source": "https://hn.bfvvs.com/play/Yer2ox4e/index.m3u8"
+      },
+      {
+        "id": 19,
+        "title": "第19集",
+        "source": "https://hn.bfvvs.com/play/DbDqoLyd/index.m3u8"
+      },
+      {
+        "id": 20,
+        "title": "第20集",
+        "source": "https://hn.bfvvs.com/play/1aK8yjMb/index.m3u8"
+      },
+      {
+        "id": 21,
+        "title": "第21集",
+        "source": "https://hn.bfvvs.com/play/5eVvjMve/index.m3u8"
+      },
+      {
+        "id": 22,
+        "title": "第22集",
+        "source": "https://hn.bfvvs.com/play/Rb4630Ve/index.m3u8"
+      },
+      {
+        "id": 23,
+        "title": "第23集",
+        "source": "https://hn.bfvvs.com/play/yb83NLga/index.m3u8"
+      },
+      {
+        "id": 24,
+        "title": "第24集",
+        "source": "https://hn.bfvvs.com/play/penRk4We/index.m3u8"
+      }
+    ]
   }
 ]
