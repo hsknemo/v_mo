@@ -1,1 +1,124 @@
-[]
+[
+    {
+        "id": 1,
+        "title": "苦尽柑来遇见你",
+        "year": "2025",
+        "rating": "0.0",
+        "genre": [
+            " 爱情",
+            "韩剧"
+        ],
+        "episodes": "完结",
+        "director": "金元锡",
+        "cast": [
+            "李知恩",
+            "朴宝剑",
+            "文素利",
+            "朴解浚",
+            "金容琳",
+            "罗文姬",
+            "廉惠兰",
+            "吴敏爱",
+            "崔代勋",
+            "张慧珍",
+            "白智媛",
+            "嵯美暻",
+            "郑熙俊",
+            "安津罗森",
+            "吴正世",
+            "严志媛",
+            "金宣虎",
+            "李濬荣",
+            "郑伊书",
+            "金太延",
+            "李天茂",
+            "柳炳勋",
+            "李秀卿",
+            "李秀美"
+        ],
+        "summary": "暂无简介",
+        "poster": "https://hongniuzyimage.com/cover/a988983c58fd323084d24f2ad0a615e3.jpg",
+        "episodeList": [
+            {
+                "id": 1,
+                "title": "第1集",
+                "source": "https://hn.bfvvs.com/play/QbYzyYnd/index.m3u8"
+            },
+            {
+                "id": 2,
+                "title": "第2集",
+                "source": "https://hn.bfvvs.com/play/kazr7jOa/index.m3u8"
+            },
+            {
+                "id": 3,
+                "title": "第3集",
+                "source": "https://hn.bfvvs.com/play/zbqgl4De/index.m3u8"
+            },
+            {
+                "id": 4,
+                "title": "第4集",
+                "source": "https://hn.bfvvs.com/play/zbqgl4ke/index.m3u8"
+            },
+            {
+                "id": 5,
+                "title": "第5集",
+                "source": "https://hn.bfvvs.com/play/wdLj0Nga/index.m3u8"
+            },
+            {
+                "id": 6,
+                "title": "第6集",
+                "source": "https://hn.bfvvs.com/play/xe7EV1Ob/index.m3u8"
+            },
+            {
+                "id": 7,
+                "title": "第7集",
+                "source": "https://hn.bfvvs.com/play/mbkYX8ve/index.m3u8"
+            },
+            {
+                "id": 8,
+                "title": "第8集",
+                "source": "https://hn.bfvvs.com/play/Qe103WGd/index.m3u8"
+            },
+            {
+                "id": 9,
+                "title": "第9集",
+                "source": "https://hn.bfvvs.com/play/xbo3kMjb/index.m3u8"
+            },
+            {
+                "id": 10,
+                "title": "第10集",
+                "source": "https://hn.bfvvs.com/play/QdJ4rLoa/index.m3u8"
+            },
+            {
+                "id": 11,
+                "title": "第11集",
+                "source": "https://hn.bfvvs.com/play/Pe9JPR3a/index.m3u8"
+            },
+            {
+                "id": 12,
+                "title": "第12集",
+                "source": "https://hn.bfvvs.com/play/Qe10P2Rd/index.m3u8"
+            },
+            {
+                "id": 13,
+                "title": "第13集",
+                "source": "https://hn.bfvvs.com/play/vbm1xvrb/index.m3u8"
+            },
+            {
+                "id": 14,
+                "title": "第14集",
+                "source": "https://hn.bfvvs.com/play/9avn0GXa/index.m3u8"
+            },
+            {
+                "id": 15,
+                "title": "第15集",
+                "source": "https://hn.bfvvs.com/play/Le3z8Lxd/index.m3u8"
+            },
+            {
+                "id": 16,
+                "title": "第16集完结",
+                "source": "https://hn.bfvvs.com/play/Pe9JZ0Za/index.m3u8"
+            }
+        ]
+    }
+]
