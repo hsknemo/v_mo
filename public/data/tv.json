@@ -3228,7 +3228,7 @@
             "古装",
             "内地剧"
         ],
-        "episodes": "更新至23集",
+        "episodes": "更新至25集",
         "director": "邓科",
         "cast": [
             "丁禹兮",
@@ -3352,7 +3352,17 @@
             {
                 "id": 23,
                 "title": "第23集",
-                "source": "https://hn.bfvvs.com/play/dL9JWkge/index.m3u8"
+                "source": "https://hn.bfvvs.com/play/bmZyXy0d/index.m3u8"
+            },
+            {
+                "id": 24,
+                "title": "第24集",
+                "source": "https://hn.bfvvs.com/play/bqxZpQ0a/index.m3u8"
+            },
+            {
+                "id": 25,
+                "title": "第25集",
+                "source": "https://hn.bfvvs.com/play/bYE5YyMb/index.m3u8"
             }
         ]
     },
