@@ -1,5 +1,4 @@
-[
-    {
+[{
         "id": 1,
         "title": "重器",
         "originalTitle": "重器",
@@ -10,7 +9,7 @@
             "年代",
             "内地剧"
         ],
-        "episodes": "更新至24集 / 33集",
+        "episodes": "更新至26集 / 33集",
         "director": "",
         "cast": [
             "黄景瑜",
@@ -20,8 +19,7 @@
         ],
         "summary": "故事始于改革开放初期，一直延续到 1997 年《刑诉法》《刑法》修订。主要人物包括陈一众、余高远、张丽慧、夏英杰等法学院毕业生。讲述了他们毕业后进入了司法领域不同的部门，在如火如荼的司法实践中见证历史、参与历史、与时俱进、不断成长的故事。五人出身不同、个性迥异，在十几年的工作和生活中历经浮沉，走上不同的道路。本剧从整体司法进程的独特视角出发，同时聚集公检法律行业人物，呈现了波澜壮阔的法治历史和大时代中交织交错的人物命运。  ",
         "poster": "https://hongniuzyimage.com/cover/91c55493154703e8a19e47355b4837db.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/erk9Zwpa/index.m3u8"
@@ -140,6 +138,16 @@
                 "id": 24,
                 "title": "第24集",
                 "source": "https://hn.bfvvs.com/play/dL9JB7we/index.m3u8"
+            },
+            {
+                "id": 25,
+                "title": "第25集",
+                "source": "https://hn.bfvvs.com/play/dR61KLKd/index.m3u8"
+            },
+            {
+                "id": 26,
+                "title": "第26集",
+                "source": "https://hn.bfvvs.com/play/dL9J1PAe/index.m3u8"
             }
         ]
     },
@@ -166,8 +174,7 @@
         ],
         "summary": "一纸赐婚，两段孽缘。心狠手辣的铁面将军强娶财迷机关太傅千金，从契约夫妻到人生合伙人，从猜忌争斗到相爱携手，两个事业批在生死局里互扒马甲。 　　知我罪我，其惟春秋。山河破碎，他为天下不惜身，却因她徒生贪恋。桃之夭夭，灼灼其华。她本是潇洒来去自由人，也为他作茧自缚忘前尘。破朝堂阴谋，守家国太平，他于乱世荒唐中护她一方安宁，她涅槃重生助他万世名。",
         "poster": "https://hongniuzyimage.com/cover/98314ec40dc36aeb701e872e809140c2.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/elY27o7a/index.m3u8"
@@ -356,8 +363,7 @@
         ],
         "summary": "脱离一线刑侦几年的警察张一昂（王骁 饰），因为省厅收到的匿名举报信，被派往三江口调查案件。张一昂到三江口不久就遇到刑警队长被害，张一昂在洗清自我嫌疑时意外逮捕了连环杀人案的凶手，迅速建立声望。张一昂将侦查方向锁定到当地富商周荣（王传君 饰）团伙，可蠢贼们层出不穷，蠢贼之间勾心斗角的蝴蝶效应，反而助张一昂带领的警察们屡建奇功。 “缘分”让张一昂跟所有蠢贼们齐聚一堂，凭借智慧和勇气笑到最后，也查明同僚遇害的起因，最终让真凶落入法网。",
         "poster": "https://hongniuzyimage.com/cover/324a87b636d22a941ed7eb4a3cf30ab5.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/bqx7mODa/index.m3u8"
@@ -514,8 +520,7 @@
         ],
         "summary": "民国初年南洋地区发生的一系列诡异事件。故事以张海盐和张海虾两位南部档案馆的秘密探员为主角，他们调查一起神秘案件，发现案件背后隐藏着军阀利用剧毒植物“黄昏草”散播的阴谋。在调查过程中，张海盐和张海虾经历了生死考验，张海虾甚至因此瘫痪。随着线索逐渐清晰，张海盐发现所有的线索都指向一艘大船——南安号…… 　　该剧改编自南派三叔同名小说。",
         "poster": "https://hongniuzyimage.com/cover/11dfe2d3b7074d09049400659a2599ff.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/aQWkKp0d/index.m3u8"
@@ -709,8 +714,7 @@
         ],
         "summary": "1997年，一桩电梯失踪案，将刑警何远航（潘粤明 饰）、冉方旭（王鹤棣 饰）卷入迷雾。经历波折，两人也曾陷入迷茫与怀疑，最终揭开真相。岁月流转，治愈人生迷惘，坚守正义，以乐观坚韧化解磨难。",
         "poster": "https://hongniuzyimage.com/cover/6f83f56703c405d9e40bf94b0a1be7f3.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/egJZQxGd/index.m3u8"
@@ -872,8 +876,7 @@
         ],
         "summary": "该剧讲述了在396旅与陆军步兵学院联合举办的小型军事演习中，郭子剑因不满演习流于形式，假传指令要求真打实抗，虽引发哗然，却获赏识调任396旅一营营长。他激发官兵血性，赢得信任，但在一次对抗中由于失误，导致战友受伤及上级被俘。在经历处分、转业申请等波折后，他重归部队，转型创新，最终带领新质合成部队在实战化检验中大放异彩，逆风翻盘，打了一场令人耳目一新的新时代战争。",
         "poster": "https://hongniuzyimage.com/cover/e35257bc79b3631fa4a2970e65cf6089.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/aM8JVqBe/index.m3u8"
@@ -1076,8 +1079,7 @@
         ],
         "summary": "本剧讲述了状元实业家张謇创办大生企业，实业报国的故事。甲午战争后，国家蒙羞，张謇虽高中状元，却渴望寻求强国之路。他毅然弃政从商，殚精竭虑，创办了中国第一家民营纺织企业大生纱厂。经历集资风波等种种挫折后，大生纱厂走上正轨。在积极发展实业的同时，张謇始终关注国家命运，但他的“温和变法”主张遭到朝廷打击，失望之极，决心通过办实业，兴教育开启民智。但外国势力对中国市场虎视眈眈，日商藤田一郎疯狂挤压中国企业，掠夺原料市场。张謇另辟蹊径，兴办盐垦公司，扩展业务范畴，将民族企业不断发展壮大。同时，其在南通兴办各项民生事",
         "poster": "https://hongniuzyimage.com/cover/75a9541ac7c83d368cc3edb3391e5f35.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/en5gP6Pd/index.m3u8"
@@ -1252,8 +1254,7 @@
         ],
         "summary": "改编自minifish的展昭同人小说《雨霖铃》 。　　南侠展昭（杨洋 饰）为追查故友遗留的襄阳王谋反线索，孤身南下，途中屡遭追杀，意外结识闯荡江湖的霍玲珑（章若楠 饰）。为护证据周全，展昭以身为饵牵制敌人，为救百姓力竭被俘。危急时刻，锦毛鼠白玉堂（方逸伦 饰）出手相救。三人联手追查线索，搜集襄阳王勾结黑白两道、鱼肉百姓、里通外敌的罪证，最终挫败其朝野和江湖的阴谋布局，还江湖正气与百姓安宁。",
         "poster": "https://hongniuzyimage.com/cover/f75a494d68eae549179996c4610bda0c.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/eXDLW6ge/index.m3u8"
@@ -1468,8 +1469,7 @@
         ],
         "summary": "京海市一线刑警安欣（张译 饰），在与黑恶势力的斗争中，不断遭到保护伞的打击，始终无法将犯罪分子绳之以法。全国政法队伍教育整顿工作开展后，临江省派出指导组入驻京海，联合公检法司各部门，清除了政法队伍内部的腐败分子，粉碎了黑恶势力的保护伞，一举铲除了盘踞京海多年的强盛集团。",
         "poster": "https://hongniuzyimage.com/cover/2c7e55694e865b64eebe041d813cb0d8.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/DdwR0j8b/index.m3u8"
@@ -1738,8 +1738,7 @@
         ],
         "summary": "作为一线刑警的李成阳（孙红雷 饰），不断遭到保护伞的打击，黑恶势力的陷害，甚至顶头上司，公安局长等人为了阻止他的调查而构陷他，导致他身陷囹圄，最终在中政委和中央督导组的指挥和领导下重获自由，后来他联合公检法司各部门，将盘踞在中江市十几年的两大黑恶势力团伙一网打尽，并将黑恶势力的保护伞和腐败的政府官员绳之以法，还中江政坛一个干净的政治生态，还中江百姓一个清朗的社会环境。",
         "poster": "https://hongniuzyimage.com/cover/a8628a6b26c2302a4a6828b39d5b9f86.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/lejY6vWd/index.m3u8"
@@ -1902,8 +1901,7 @@
         ],
         "summary": "讲述了落难千金晴也和小镇“野草男”邢武互相救赎、破镜重圆的故事。",
         "poster": "https://hongniuzyimage.com/cover/5413a15b221f11eb9426ce5d255c8a40.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/bDkqkkAa/index.m3u8"
@@ -2078,8 +2076,7 @@
         ],
         "summary": "陆早早突遭意外，竟穿越成民国少夫人苏沐晚，醒来，却是丈夫枪口相对、父母冤案、连环下毒……她于绝境中步步破局，与“醋精”少爷凌慎行从生死对立到情根深重，可就在浓情蜜意时，她骤然梦醒归现代，转角竟撞见那个熟悉的“他”！",
         "poster": "https://hongniuzyimage.com/cover/a42388ce895501ca049b1a346effa81b.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/erkmQWKa/index.m3u8"
@@ -2221,8 +2218,7 @@
         ],
         "summary": "改编自行烟烟的同名小说。孟廷辉，大平王朝有史以来个以女子进士科三元及第入翰林院的奇女子。十年前的她被他从死人堆里救出来，蓬头垢面口齿不清。十年后的她才学满腹、冠盖众人，于女子进士科上大方异彩，成为了朝中二十余年来令人瞩目的女官。她处事圆滑，心机多端，为了往上爬而不择手段，视飞黄腾达为人生目标，数年来从一个小小的正六品翰林院修撰一路升为与诸多老臣平起平坐的参知政事，被朝中清议冠以奸佞之名而不在乎，行事苛酷阴狠、对人不留余地，令一朝上下人人畏恶，可却没有一个人懂得她这么多年是如何过来的，更没有一个人知晓她心里",
         "poster": "https://hongniuzyimage.com/cover/33c17db61e23420b1736001ca644bd4a.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/aKrLqpne/index.m3u8"
@@ -2438,8 +2434,7 @@
         ],
         "summary": "故事发生在满清乾隆初年，少女魏璎珞（吴谨言 饰）随一众同龄秀女入选皇宫。璎珞美丽机敏，蕙质兰心，可是她入宫的初衷与其他女孩有所不同。由于姐姐被人杀害，璎珞决心进入紫禁城追查凶手。她误认为皇帝的弟弟傅恒...",
         "poster": "https://hongniuzyimage.com/upload/vod/20220318-1/8a2ecca00b37aa21659b271c36893a18.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/1aKOJqra/index.m3u8"
@@ -2809,8 +2804,7 @@
         ],
         "summary": "《我们的少年时代2》讲述了开学季，宜北篮球社濒临解散，付彬言、李浩宇、徐安博、陈颂，谢逸舟、顾晨阳、周扬、林清源等人因不同原因陆续加入，保住了这支不被看好的队伍。伙伴们在球赛中应对挑战，在磨合中爆发出潜力，又在音乐秘密基地拉近距离。大家逐渐从队友变成挚友，生出团魂，陪伴彼此完成与家庭的和解，收获了青春的成长。",
         "poster": "https://hongniuzyimage.com/cover/c282d0a8da328a3a3bb52ab33684dbb2.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/av2ZYD5a/index.m3u8"
@@ -2920,8 +2914,7 @@
         ],
         "summary": "长沙风云再起之时，张启山（陈伟霆 饰）与吴老狗（曾舜晞 饰）强强联手，携手霍仙姑（陈瑶 饰）与九门诸人共赴冒险奇局。一桩401部队的神秘失踪事件，牵出百年尘封的惊天秘辛。生死抉择、兄弟之情、门派担当与家国大义相互交织。九门众人用热血和牺牲，守护家园，共渡难关。",
         "poster": "https://hongniuzyimage.com/cover/d25fdd6b1fe1ae5c96fb2cd009d8e414.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/aADMVA3e/index.m3u8"
@@ -3093,8 +3086,7 @@
         ],
         "summary": "本剧讲述了90年代末，怒河市刑侦支队在无普及监控、无DNA鉴定技术的支持下，通过摸排、勘查等传统刑侦手段，接连破获数起重案要案的艰难过程。案件设计采用 “积案牵现案” 模式，以粗粝的90年代质感为基调，既深挖人性幽暗，又展现刑警的牺牲与担当，传递“立法为公，执法为民”的永恒主题。",
         "poster": "https://hongniuzyimage.com/cover/91766eac45d676121c0227644f8e9d76.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/e0R0Jz3b/index.m3u8"
@@ -3247,8 +3239,7 @@
         ],
         "summary": "豪爽重情的私盐贩子赵凌虽出身草莽，却心怀壮志，他结识了遭人诬陷私通的世家名媛小姐傅庭芸，被迫一起逃亡，二人历经家族与朝廷的重重考验，与命运抗争，终成传奇良缘。 　　剧集改编自吱吱同名言情小说《花开锦绣》。",
         "poster": "https://hongniuzyimage.com/cover/8aa6d8da22a168889f76c9a5a6e5fa84.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/eVO78xMa/index.m3u8"
@@ -3385,8 +3376,7 @@
         ],
         "summary": "根据素光同同名小说改编。江逾白长大以后，林知夏忽然对他说：“江逾白，我喜欢你，哲学和生物学意义上的喜欢。”那个夜晚，他脸颊微热，还听见自己加速的心跳声……",
         "poster": "https://hongniuzyimage.com/cover/1ca2f82e3d208d4d56db7bcd9d6c20ce.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/en5gwRWd/index.m3u8"
@@ -3549,8 +3539,7 @@
         ],
         "summary": "该剧以2016年3月公安部刑侦局主抓的“疑难命案积案攻坚行动”所侦破的多起案件为基础，改编创作两起90年代悬案作为系列剧的第一季。围绕《珠宝行连环劫案》《卞记旅馆抢劫案》两个案件展开。前者聚焦岳龙刚（岳云鹏 饰）饰演的报社记者白朗与刑警施占军（杨烁 饰），二人因抓嫖结识，开启警媒合作之路，跨越22年联手追踪连环持枪劫匪徐亮（江奇霖 饰）；后者讲述由黄珏（黄觉 饰）饰演的鲁志丰和李感（姜冠南 饰）两代刑警耗费半生，凭借 DNA 技术锁定真凶刘永坤（王传君 饰）及其同伙。两案均写实还原90年代刑侦风貌，深挖罪",
         "poster": "https://hongniuzyimage.com/cover/a121f8252c92069e780c966a2c023ddf.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/b2k8jVAd/index.m3u8"
@@ -3657,8 +3646,7 @@
         ],
         "summary": "　　肉身之眼晦暗不明，见近不见远，见前不见后，见明不见暗，看到的并非确凿无误存在。外表看起来丝毫没有任何存在感的夏冬青（刘智扬 饰），有一个不为人知的秘密，他可以看到另一个世界的众生。自幼在孤儿院长大的他大学刚刚毕业，正准备考研，此时他正四处求职打工。在此期间，冬青被444号便利店录取。据说这家便利店半夜12点后会闹鬼，原来这里正是两个不同纬度空间上的连接点。 　　在冥界担任公务员的赵吏（于毅 饰）直接管理着便利店，他自称“灵魂摆渡人”，每天迎来送往，指引鬼魂们去往应该去的世界。冬青和性格直爽的女孩王小亚（肖茵 饰）则成为一个个灵异事件的见证者。",
         "poster": "https://hongniuzyimage.com/upload/vod/2021-08-30/202108301630290013.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/1aKrD7Ge/index.m3u8"
@@ -3792,8 +3780,7 @@
         ],
         "summary": "　　《灵魂摆渡2》是一部网络剧，于2014年11月底正在拍摄中，《灵魂摆渡2》是继灵魂摆渡后的第二季，《灵魂摆渡2》中，女一号肖茵扮演正能量爆棚的王小亚，俏皮可爱，在保持原有人物性格同时加入新的情节，令角色更加饱满，《灵魂摆渡2》中的王小亚与之前观众所熟知的王小亚一样，依然是那个有些疯癫，敢爱敢恨，直言不讳的女生，但形象上会有所改变，与之前相比会更稳重一些，《灵魂摆渡2》虽然以惊悚为题材，肖茵表示拍摄的时候自己并不害怕，反而认为这是一部很感人的作品，每个故事是以情动人，把生活中的邪恶的一面直观展现出。",
         "poster": "https://hongniuzyimage.com/upload/vod/2021-08-30/202108301630290884.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/lejR1Mve/index.m3u8"
@@ -3916,8 +3903,7 @@
         ],
         "summary": "　　那是很久以前的事了。那个时候，还没有冥界，天柱连接着天和大地，天空不像现在的天空，那时候的天，悬在云端里。在后世的记载中，它还有一个名字，叫做“昆仑”。人类，是神创造的，世间一切，都是神的子民。昆仑山的天女来到了人间。天女，是神的使者。然而在人类中，出现了一种疾病，那是一种令人丧失心智的疾病，那就是，爱。因为爱，人类与天神之间，发动了第一场战争。能够与灵魂相通的夏冬青，与灵魂摆渡人赵吏和九天天女娅相识于444号便利店，一年后，他们又在海边重逢。阴差阳错下，夏冬青成为了赵吏的契人，注定要帮他送走九九八十一个灵魂。娅染上了人类古老的疾病，爱上了夏冬青，而这却与天界交给她的使命背道而驰。作为摆渡灵魂的鬼差，赵吏仿佛无所不能，但他最大的痛苦便是没有一个属于自己的灵魂，无法像夏冬青那样感受喜怒哀乐。新年前夕，他们遇到了古老的神兽，年和夕；荒山野村里，却矗立着一...",
         "poster": "https://hongniuzyimage.com/upload/vod/2021-08-30/202108301630296746.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/PdyPRqWb/index.m3u8"
@@ -4032,8 +4018,7 @@
         ],
         "summary": "幻海市，夏冬青（刘智扬 饰）与娅（肖茵 饰）共同经营着昼夜转换的444号便利店，并与酷似失踪赵吏（于毅 饰）的“守夜人”结成新搭档，守护人界与灵界的平衡。三人组在平凡日子里化解了多起异事，然而，一场意外打破了平静……红月当空之际，众人诛灭其阴谋回归现实。幻海市恢复宁静，444号便利店继续营业，但新的异闻已在青石板路上悄然滋生。",
         "poster": "https://hongniuzyimage.com/cover/b9e3838697233778ccae1bbca00ae4de.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/erk29l4a/index.m3u8"
@@ -4188,8 +4173,7 @@
         ],
         "summary": "就读于职业中学培训部的花季女生苏琳（黄杨钿甜 饰），虽自小被父母忽视，在艰苦环境中长大，但她始终刻苦学习，憧憬未来。为此，苏琳苦练口语并争取到了英文朗诵剧中小美人鱼的角色，却不想遭到同学马娜（段钰 饰）的嫉妒。一次激烈冲突中，她意外掉入地下管道，生死不明。 　　而此时，与地下管道有关的卫红渠案也曝露在公众视野中，霎时，案件的侦查与苏琳的命运紧紧交织在一起。 ",
         "poster": "https://hongniuzyimage.com/cover/d3b9a2ba19e12dc6c1fdcc3501f05e77.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/eXDrZnVe/index.m3u8"
@@ -4322,8 +4306,7 @@
         ],
         "summary": "故事以红叶市公安局宣传处副处长谭彦的“职场危机”为切入点，从宣传民警转战特警支队担任政委，一直拿笔杆子的谭彦从宣传岗位投身实战前线，一时间陷入秀才遇到兵有理说不清的处境，与深扎一线浑身荷尔蒙爆棚的特警支队长廖不凡从矛盾、磨合到融合，在协助专案组破获大案的过程里重拾职业理想。",
         "poster": "https://hongniuzyimage.com/cover/2259c3048252d22c715c0b0f5f41d3df.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/bW6qWNWa/index.m3u8"
@@ -4381,8 +4364,7 @@
         ],
         "summary": "多年前，县剧团招学员，在团里任司鼓的胡三元（张嘉益 饰）替外甥女报名，将年少的她改名易秦娥（刘浩存 饰）从家乡带出来学唱秦腔。因胡三元造成的事故，易秦娥受到影响，学习秦腔之路屡遭波折。但她凭借刻苦的劲头和自身的条件获得了老艺人的赏识和热情帮扶。她的“破蒙戏”在乡村舞台上音惊四座，后改名忆秦娥被调入省秦腔团。 她勤学苦练，在台上的演出屡获成功。历经波折，她终于明白对秦腔艺术的传承才是她作为“主角”的真正意义，她将继续培养新一代秦腔舞台上亮丽的主角。",
         "poster": "https://hongniuzyimage.com/cover/a893258663e385c4c80dcf666a51df27.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/eXDLzQVe/index.m3u8"
@@ -4705,8 +4687,7 @@
         ],
         "summary": "该剧改编自猫腻同名畅销小说，承接上季，范闲（张若昀 饰）率领使团回归途中，二皇子以费介、范思辙以及滕家遗孤的安危来威胁范闲，逼他向自己俯首称臣，二人的矛盾就此激发。范闲所面对的抱月楼迷局，以及接踵而至的春闱危机，都是二皇子精心给范闲布下的陷阱。",
         "poster": "https://hongniuzyimage.com/cover/9336d53e5bd2e1d95ad7260667c956c3.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/PdyQyqPd/index.m3u8"
@@ -4962,8 +4943,7 @@
         ],
         "summary": "顾佳是令人艳羡的金字塔上层，她把老公从烟花编程师打造成了“许总”，也把自己打造成了里外一把手的全职太太。然而当这个家有了入侵者，顾佳没有逃避。王漫妮则是特立独行的叛逆者，深信自己既有颜值又有脑子，永远值得更好的，然而她也有自己的烦恼。钟晓芹是标准化的大多数，嫁给事业单位铁饭碗的老公，自己保有一份普通工作，安心做一个平凡妻子，却因写作爱好偶然卖出高价版权，夫妻的经济地位和社会地位一夜之间发生倒置，女强男弱的婚姻瞬间失去了平衡。",
         "poster": "https://hongniuzyimage.com/upload/vod/2021-07-14/202107141626267942.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/Rb4xX9Jb/index.m3u8"
@@ -5214,8 +5194,7 @@
         ],
         "summary": "故事讲述了主人公李善德（雷佳音 饰）在同僚的欺瞒之下从监事变身“荔枝使”，被迫接下一道为贺贵妃生辰、需从岭南运送新鲜荔枝到长安的“死亡”任务，荔枝“一日色变，两日香变，三日味变”，而岭南距长安五千余里，山水迢迢，这是个不可能完成的任务。为保女儿李袖儿余生安稳，李善德无奈启程前往岭南；与此同时，替左相寻找扳倒右相敛财罪证的郑平安（岳云鹏 饰）已先一步抵达岭南。各自身负重任的郎舅二人在他乡偶遇，意外结识胡商商会会长阿弥塔（那尔那茜 饰）、空浪坊坊主云清（安沺 饰）、胡商苏谅（吕凉 饰）、峒女阿僮（周美君 饰）等人，还遭遇岭南刺史何有光（冯嘉怡 饰）和掌书记赵辛民（公磊 饰）的重重阻拦。双线纠缠之下任务难度飙升，他们将如何打破死局、寻觅一线生机？",
         "poster": "https://hongniuzyimage.com/cover/dd484b7885721bf82f8f7a12a22a80e3.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/QbY2qp0d/index.m3u8"
@@ -5413,8 +5392,7 @@
         ],
         "summary": "昭宁郡主沈汐和（孟子义 饰）势要做云巅执棋之手，而非深庭落花，任人摘折，在势力交错的局势下与东宫储君萧华雍（何与 饰）相知携手，互相拨开对方身上的重重迷雾，从互相算计到生死相托，步步登顶。\n                                    \n                                　　该剧改编自锦凰的小说《我花开后百花杀》。",
         "poster": "https://hongniuzyimage.com/cover/b59aeeac92e7485ae1be75fccd0d5d8f.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "番外",
                 "source": "https://hn.bfvvs.com/play/eVO7x1Wa/index.m3u8"
@@ -5621,8 +5599,7 @@
         ],
         "summary": "民国沪上，军阀幼子慕容清峄（张凌赫 饰）因被抱错而受尽养父虐待，少年出逃时被任素素（王楚然 饰）所救，却累及其家族遭灭顶之灾。经年重逢，二人暗生情愫，但任素素为救他人，毅然假死遁逃，留慕容清峄沉沦于失爱之痛。三年后任素素回归，却成了慕容清峄的准大嫂。如今的二人，一个满是被背叛的怨，一个藏着难以言说的痛，在试探与拉扯间爱恨交织。当误会渐解、深情重燃，国难却至。慕容清峄与任素素怀揣必死决心对抗强敌，他们的命运将走向何方？\n                                    \n       ",
         "poster": "https://hongniuzyimage.com/cover/1597b2f580e51b10d5cfb66594e45a36.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/erkmpZKa/index.m3u8"
@@ -5808,8 +5785,7 @@
         ],
         "summary": "五星大厨许多金辛苦大半辈子，退休时衣食无忧，准备告诉儿女们自己和黄昏恋女友马小芬的婚事，还打算完婚后周游世界，哪知他幸福的晚年生活却因为小儿子被骗巨款完全乱了套。尽管法律条文认定成年孩子的债务与他没有任何连带关系，但是，为了减轻小儿子的罪行，为了一份担当，许多金卖房打工，走上“子债父偿”的艰辛路。",
         "poster": "https://hongniuzyimage.com/cover/7a807be03d58378fe54cd908bcbb9454.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/axk11rBe/index.m3u8"
@@ -5893,8 +5869,7 @@
         ],
         "summary": "暂无简介",
         "poster": "https://hongniuzyimage.com/cover/12f0aef5ef23da50414ec97c9b7c79ba.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/Pe9kkGZb/index.m3u8"
@@ -6090,8 +6065,7 @@
         ],
         "summary": "“唐探宇宙”原班人马惊喜回归，四个全新悬疑推理单元《天使的旋律》《恶魔的呼吸》《游乐园》《黄金城》。城市之间罪恶涌动，侦探林默（邱泽 饰）、Kiko（尚语贤 饰）谜案穿梭各显神通。2024，CRIMASTER侦探排行榜重新洗牌。",
         "poster": "https://hongniuzyimage.com/cover/ba48e3bddfd8b7160acdedcad3055780.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/PdyBY0we/index.m3u8"
@@ -6204,8 +6178,7 @@
         ],
         "summary": "青年刑警唐堂跟随师父参与调查一起十年前的裸女案，曾经的主犯白启明再次回到青城市引起了警方的高度重视。在对其布控调查的期间内，发现其牵连出更多的犯罪团伙。在网络平台借以“爱心收留流浪狗”为名的八公狗舍，实际上一直在诓骗民众，以此获取不法利益，同时还和白启明的犯罪行为有着极深的联系；在城内造成重大恶劣影响的偷狗二人组接连不断地引起事端，误食有毒食品的老人小孩激化社会矛盾，而他们背后似乎与“老白”还有着千丝万缕的关联；本地颇具盛名的鸿运餐厅老板失手杀人；以及那莫名消失的流浪汉……...在这种种谜团的背后，年轻正",
         "poster": "https://hongniuzyimage.com/cover/76201f7391aebe66660d4c3917114cbe.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/b82qXp2e/index.m3u8"
@@ -6318,8 +6291,7 @@
         ],
         "summary": "时为满清雍正元年，结束了血腥的夺位之争，新的君主（陈建斌 饰）继位，国泰民安，政治清明，但在一片祥和的表象之下，一股暗流蠢蠢欲动。尤其后宫，华妃（蒋欣 饰）与皇后（蔡少芬 饰）分庭抗礼，各方势力裹挟其中，凶险异常。在太后（刘雪华 饰）的主持下，一场盛大的选秀拉开帷幕。以 此为机缘，美丽善良的女孩——大理寺少卿甄远道长女甄嬛（孙俪 饰）意外得到雍正的赏识，从此步入皇宫。在皇后和华妃两方势力的夹击下，甄嬛小心周旋，忍辱负重，命悬一线。她不得不用自己的智慧保护自己，又一次次被卷入残酷的宫闱斗争之中……本片根据流潋紫的同名小说原著改编。©豆瓣",
         "poster": "https://hongniuzyimage.com/upload/vod/2021-06-18/202106181623987708.jpg",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "id": 1,
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/PdyPx9zb/index.m3u8"
