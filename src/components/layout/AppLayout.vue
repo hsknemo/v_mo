@@ -1,7 +1,17 @@
 <template>
   <div class="app-layout">
     <AppHeader />
-    <main class="app-main">
+    <main class="app-main" :class="{ 'is-locked': isLockedView }">
+      <div v-if="isLockedView" class="view-lock">
+        <div class="view-lock-card">
+          <el-icon :size="40" class="view-lock-icon"><Lock /></el-icon>
+          <h3 class="view-lock-title">内容已加密</h3>
+          <p class="view-lock-desc">请输入访问密码后继续浏览</p>
+          <el-button type="primary" size="large" round @click="ensureUnlocked(true)">
+            输入密码
+          </el-button>
+        </div>
+      </div>
       <router-view v-slot="{ Component }">
         <transition name="fade" mode="out-in">
           <component :is="Component" />
@@ -72,20 +82,148 @@
         <p class="welcome-tip">感谢您的支持，祝您观影愉快 🎬</p>
       </div>
     </el-dialog>
+
+    <!-- 页面级密码弹窗（除赞赏/联系我外） -->
+    <el-dialog
+      v-model="showPagePwdDialog"
+      title="访问密码"
+      width="90%"
+      style="max-width: 400px"
+      :close-on-click-modal="false"
+      :close-on-press-escape="false"
+      :show-close="false"
+      align-center
+    >
+      <p class="page-pwd-tip">该内容需要密码访问</p>
+      <p class="page-pwd-tip">已经打赏过的宝子可以用发的密码浏览所有内容及催更或发想看的剧</p>
+      <p class="page-pwd-hint">
+        <router-link to="/reward" class="page-pwd-link">任意打赏</router-link>
+        +Q群 1101193338 / 或者微信群 发截图获取密码
+      </p>
+      <el-input
+        v-model="pwdInputValue"
+        type="password"
+        placeholder="请输入密码"
+        show-password
+        :disabled="lockCountdown > 0"
+        @keyup.enter="submitPwd"
+      />
+      <div v-if="lockCountdown > 0" class="page-pwd-error">
+        密码错误次数过多，请 {{ lockCountdown }} 秒后重试
+      </div>
+      <div v-else-if="pwdErrorMsg" class="page-pwd-error">{{ pwdErrorMsg }}</div>
+      <template #footer>
+        <el-button
+          type="primary"
+          :disabled="lockCountdown > 0"
+          @click="submitPwd"
+        >确定</el-button>
+      </template>
+    </el-dialog>
   </div>
 </template>
 
 <script setup>
-import { ref, onMounted } from 'vue'
-import { useRouter } from 'vue-router'
+import { ref, onMounted, onBeforeUnmount, watch, computed } from 'vue'
+import { useRoute, useRouter } from 'vue-router'
 import { ElMessage } from 'element-plus'
-import { Star, CoffeeCup, Present, ChatDotRound } from '@element-plus/icons-vue'
+import { Star, CoffeeCup, Present, ChatDotRound, Lock } from '@element-plus/icons-vue'
 import AppHeader from './AppHeader.vue'
 import AppFooter from './AppFooter.vue'
+import { usePagePassword } from '@/composables/usePagePassword'
 
+const route = useRoute()
 const router = useRouter()
 const welcomeVisible = ref(false)
 const copied = ref(false)
+
+const {
+  globalPassword,
+  loaded,
+  unlocked,
+  showDialog: showPagePwdDialog,
+  pwdInput: pwdInputValue,
+  pwdError: pwdErrorMsg,
+  lockCountdown,
+  requiresPassword,
+  loadPagePassword,
+  ensureUnlocked,
+  submitPwd,
+} = usePagePassword()
+
+const isProtectedPage = computed(() => {
+  const n = route.name
+  if (!n) return true
+  return n !== 'reward' && n !== 'contact'
+})
+
+const isLockedView = computed(() => {
+  if (!loaded.value) return false
+  if (!requiresPassword.value) return false
+  if (!isProtectedPage.value) return false
+  return !unlocked.value
+})
+
+let guardTimer = null
+function startGuard() {
+  if (guardTimer) return
+  // 1.5s 轮询一次：缓存被清 / 密码弹窗被 DOM 强制关掉时，强制重新弹窗
+  guardTimer = setInterval(() => {
+    if (!loaded.value) return
+    if (!requiresPassword.value) return
+    if (!isProtectedPage.value) return
+    ensureUnlocked()
+  }, 1500)
+}
+
+async function checkPagePassword() {
+  await loadPagePassword()
+  if (!requiresPassword.value) return
+  if (!isProtectedPage.value) return
+  ensureUnlocked()
+}
+
+// 监听 showDialog：被用户通过 DOM 操作强制关闭时，立即恢复
+watch(showPagePwdDialog, (v) => {
+  if (v) return
+  if (!loaded.value) return
+  if (!requiresPassword.value) return
+  if (!isProtectedPage.value) return
+  if (unlocked.value) return
+  // 100ms 后回弹，避免竞态
+  setTimeout(() => {
+    showPagePwdDialog.value = true
+  }, 100)
+})
+
+// unlocked 由 false → true 时（正常输对密码），不回弹；clear: 不需要
+
+onMounted(async () => {
+  await checkPagePassword()
+  startGuard()
+  setTimeout(() => {
+    welcomeVisible.value = true
+  }, 300)
+})
+
+onBeforeUnmount(() => {
+  if (guardTimer) {
+    clearInterval(guardTimer)
+    guardTimer = null
+  }
+})
+
+watch(
+  () => route.name,
+  (name) => {
+    // 赞赏 / 联系我页面：任何情况下都自动关闭密码弹窗
+    if (name === 'reward' || name === 'contact') {
+      if (showPagePwdDialog.value) showPagePwdDialog.value = false
+      return
+    }
+    checkPagePassword()
+  }
+)
 
 function copyQQ() {
   const qq = '1101193338'
@@ -438,5 +576,88 @@ onMounted(() => {
     width: 90px;
     height: 90px;
   }
+}
+
+/* 页面级密码弹窗样式 */
+.page-pwd-tip {
+  margin: 0 0 $space-sm;
+  font-size: 14px;
+  color: var(--text-regular);
+  text-align: center;
+}
+
+.page-pwd-hint {
+  margin: 0 0 $space-md;
+  font-size: 13px;
+  color: var(--text-regular);
+  text-align: center;
+  line-height: 1.6;
+}
+
+.page-pwd-link {
+  color: var(--el-color-primary);
+  font-weight: 700;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+  cursor: pointer;
+}
+
+.page-pwd-error {
+  margin-top: $space-sm;
+  font-size: 13px;
+  color: var(--el-color-danger);
+  line-height: 1.5;
+}
+
+/* 页面级锁定遮罩 */
+.app-main.is-locked {
+  position: relative;
+  min-height: 70vh;
+
+  > *:not(.view-lock) {
+    visibility: hidden !important;
+    pointer-events: none !important;
+  }
+}
+
+.view-lock {
+  position: relative;
+  z-index: 10;
+  width: 100%;
+  min-height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: $space-lg;
+}
+
+.view-lock-card {
+  max-width: 360px;
+  width: 100%;
+  padding: $space-xl $space-lg;
+  text-align: center;
+  background: var(--bg-elevated);
+  border-radius: $radius-lg;
+  border: 1px solid var(--border-color);
+  box-shadow: var(--shadow-card);
+}
+
+.view-lock-icon {
+  color: var(--el-color-primary);
+  margin-bottom: $space-md;
+}
+
+.view-lock-title {
+  margin: 0 0 $space-xs;
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.view-lock-desc {
+  margin: 0 0 $space-lg;
+  font-size: 13px;
+  color: rgb(128, 128, 128);
 }
 </style>

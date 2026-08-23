@@ -4,7 +4,16 @@
       <el-icon><ArrowLeft /></el-icon> 返回
     </button>
 
-    <div v-if="loading" class="loading">
+    <!-- 页面级密码二次阻断：防止遮罩被绕过直接进入播放页 -->
+    <div v-if="!pagePwdUnlocked" class="lock-placeholder">
+      <el-icon class="lock-icon"><Lock /></el-icon>
+      <p>请先通过页面访问密码</p>
+      <el-button type="primary" round @click="promptPagePwd" style="margin-top: 12px">
+        输入密码
+      </el-button>
+    </div>
+
+    <div v-else-if="loading" class="loading">
       <el-skeleton animated>
         <template #template>
           <el-skeleton-item variant="rect" style="width:100%; height:420px; border-radius:12px" />
@@ -139,10 +148,25 @@ import { ref, computed, watch, onMounted, onBeforeUnmount } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { ArrowLeft, Star, Lock, CoffeeCup, Present } from '@element-plus/icons-vue'
 import { useMediaData } from '@/composables/useMediaData'
+import { usePagePassword } from '@/composables/usePagePassword'
 import EpisodeList from '@/components/media/EpisodeList.vue'
 
 const route = useRoute()
 const router = useRouter()
+
+const pagePwdDlg = usePagePassword()
+
+const pagePwdUnlocked = computed(() => {
+  // 页面级密码未启用 → true；启用后看 unlocked 状态
+  if (!pagePwdDlg.loaded.value) return true
+  if (!pagePwdDlg.requiresPassword.value) return true
+  return pagePwdDlg.unlocked.value
+})
+
+async function promptPagePwd() {
+  await pagePwdDlg.loadPagePassword()
+  pagePwdDlg.ensureUnlocked(true)
+}
 
 const type = computed(() => route.params.type)
 const id = computed(() => Number(route.params.id))
@@ -308,6 +332,7 @@ function goReward() {
 }
 
 onMounted(async () => {
+  await pagePwdDlg.loadPagePassword()
   if (!list.value.length) await load()
 })
 </script>

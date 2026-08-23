@@ -29,5 +29,6 @@ export default {
     variety: "/data/variety.json",
     anime: "/data/anime.json",
     food: "/data/food.json",
+    password: "/data/password.json",
   },
 };
