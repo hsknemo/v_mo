@@ -1,4 +1,5 @@
-[{
+[
+    {
         "id": 1,
         "title": "八仙",
         "originalTitle": "All Wishes Come True!",
@@ -769,5 +770,36 @@
         "summary": "一只来自前男友的千纸鹤，一座由他记忆构成的奇幻岛屿，一只失忆的兔子，一些被蒙住，关于分离与相爱的痕迹。\n                                    \n                                　　影片改编自晋江文学城小说《去你的岛》。",
         "poster": "https://hongniuzyimage.com/cover/923698894ed467828da8395f46da1b67.jpg",
         "source": "https://hn.bfvvs.com/play/dPNQQKya/index.m3u8"
+    },
+    {
+        "id": 1,
+        "title": "最遗憾是错过你",
+        "year": "2021",
+        "rating": "4.0",
+        "genre": [
+            " 剧情"
+        ],
+        "episodes": "完结",
+        "director": "詹馥华",
+        "cast": [
+            "连晨翔",
+            "吴子霏",
+            "周予天",
+            "李雪",
+            "潘纲大",
+            "谢翔雅",
+            "徐钧浩",
+            "李聿安",
+            "刘宇昕",
+            "胡智强",
+            "古峰",
+            "林沫呈",
+            "张楷奕",
+            "叶子彦",
+            "郭大睿"
+        ],
+        "summary": "如果再想起青春里那个爱过、痛过的人，你还会有遗憾吗？当热情阳光的黄子捷（连晨翔 饰）遇见单纯善良的张筱华（吴子霏 饰），从一开始的互不打扰，到两个人慢慢互相了解、难掩心动，爱情的火花慢慢绽放，但命运的齿轮也仍在向前……世上最遗憾的不是不爱了，而是明明相爱却无能为力，错过一辆车可以等，但错过一个人，就是一辈子。",
+        "poster": "https://hongniuzyimage.com/cover/e4656174f0a5436efd535a9a9d050e09.jpg",
+        "source": "https://hn.bfvvs.com/play/yb8zMw5e/index.m3u8"
     }
 ]
