@@ -1,7 +1,7 @@
 <template>
   <footer class="app-footer">
     <div class="container footer-inner">
-      <span>© {{ year }} v_movie · 影视收藏展示</span>
+      <span>© {{ year }} 维默观影 · 影视收藏展示</span>
       <span class="divider">·</span>
       <span>仅供学习展示使用</span>
     </div>

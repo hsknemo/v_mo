@@ -171,7 +171,8 @@ async function promptPagePwd() {
 const type = computed(() => route.params.type)
 const id = computed(() => Number(route.params.id))
 const isSeries = computed(() => {
-  if (type.value === 'movie') return false
+  // 兼容判断：条目带 episodeList 字段（如电影也配了播放列表）则按剧集方式读取
+  if (Array.isArray(item.value?.episodeList) && item.value.episodeList.length) return true
   if (['tv', 'ustv', 'krtv', 'variety'].includes(type.value)) return true
   if (type.value === 'food') return item.value?.category === 'tv'
   if (type.value === 'anime') return item.value?.category === 'tv'

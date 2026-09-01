@@ -34,7 +34,7 @@
         <div class="welcome-icon">
           <el-icon :size="42"><Star /></el-icon>
         </div>
-        <h3 class="welcome-title">欢迎来到 v_movie</h3>
+        <h3 class="welcome-title">欢迎来到 维默观影</h3>
 
         <div class="welcome-card reward-card-item">
           <div class="card-left">
@@ -156,7 +156,9 @@ const FREE_PAGES = ['reward', 'contact', 'movie']
 
 const isProtectedPage = computed(() => {
   const n = route.name
-  if (!n) return true
+  // 首页进入时路由可能尚未解析（name 为 undefined），不再按受保护页处理，避免误弹密码框
+  // if (!n) return true
+  if (!n) return false
   return !FREE_PAGES.includes(n)
 })
 
@@ -202,6 +204,8 @@ watch(showPagePwdDialog, (v) => {
 // unlocked 由 false → true 时（正常输对密码），不回弹；clear: 不需要
 
 onMounted(async () => {
+  // 等待路由解析完成再检查密码，避免首页进入时误弹输入密码弹窗
+  await router.isReady()
   await checkPagePassword()
   startGuard()
   setTimeout(() => {

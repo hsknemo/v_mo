@@ -9,7 +9,6 @@
         @error="onImgError"
       />
       <div v-else class="poster-placeholder">🎬</div>
-      <span v-if="isOngoing" class="ongoing-badge">连载中</span>
       <span class="rating">
         <el-icon><Star /></el-icon>
         {{ Number(item.rating).toFixed(1) }}
@@ -42,11 +41,6 @@ defineEmits(['click'])
 const displayGenres = computed(() => {
   const g = props.item.genre || []
   return Array.isArray(g) ? g.slice(0, 3) : []
-})
-
-const isOngoing = computed(() => {
-  const ep = props.item.episodes
-  return !!ep && !ep.includes('完结')
 })
 
 function onImgError(e) {
@@ -119,20 +113,6 @@ function onImgError(e) {
   .el-icon {
     font-size: 12px;
   }
-}
-
-.ongoing-badge {
-  position: absolute;
-  top: $space-sm;
-  left: $space-sm;
-  padding: 2px 8px;
-  border-radius: $radius-sm;
-  background: var(--gradient-brand);
-  color: #fff;
-  font-size: 11px;
-  font-weight: 700;
-  letter-spacing: 0.5px;
-  box-shadow: 0 2px 6px rgba(255, 140, 50, 0.4);
 }
 
 .info {

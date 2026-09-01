@@ -3,7 +3,7 @@
     <div class="container header-inner">
       <router-link to="/" class="logo">
         <span class="logo-icon">🎬</span>
-        <span class="logo-text">v_movie</span>
+        <span class="logo-text">维默观影</span>
       </router-link>
 
       <nav class="nav-pc">

@@ -12,10 +12,30 @@ function getUrl(type) {
   return entry;
 }
 
+// genre / cast 兼容处理：可能是数组，也可能是 JSON 字符串（如 "[\"喜剧\",\"动画\"]"）
+function normalizeStringArray(val) {
+  if (Array.isArray(val)) return val;
+  if (typeof val === "string" && val.trim()) {
+    try {
+      const parsed = JSON.parse(val);
+      if (Array.isArray(parsed)) return parsed;
+    } catch (e) {
+      // 非 JSON 字符串，按常见分隔符拆分兜底
+      return val.split(/[,，、\s]+/).filter(Boolean);
+    }
+  }
+  return [];
+}
+
 function assignIds(arr) {
   if (!Array.isArray(arr)) return [];
   return arr.map((item, i) => {
-    const withId = { ...item, id: i + 1 };
+    const withId = {
+      ...item,
+      id: i + 1,
+      genre: normalizeStringArray(item.genre),
+      cast: normalizeStringArray(item.cast),
+    };
     if (Array.isArray(withId.episodeList)) {
       withId.episodeList = withId.episodeList.map((ep, j) => ({
         ...ep,

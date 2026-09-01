@@ -1,5 +1,5 @@
 export default {
-  name: "v_movie",
+  name: "维默观影",
   menus: [
     { name: "movie", path: "/movie", label: "电影", component: "MovieView" },
     { name: "tv", path: "/tv", label: "电视剧", component: "TvView" },
