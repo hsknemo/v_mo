@@ -151,10 +151,13 @@ const {
   submitPwd,
 } = usePagePassword()
 
+// 免密码页面：赞赏、联系我、首页（电影）
+const FREE_PAGES = ['reward', 'contact', 'movie']
+
 const isProtectedPage = computed(() => {
   const n = route.name
   if (!n) return true
-  return n !== 'reward' && n !== 'contact'
+  return !FREE_PAGES.includes(n)
 })
 
 const isLockedView = computed(() => {
@@ -216,8 +219,8 @@ onBeforeUnmount(() => {
 watch(
   () => route.name,
   (name) => {
-    // 赞赏 / 联系我页面：任何情况下都自动关闭密码弹窗
-    if (name === 'reward' || name === 'contact') {
+    // 免密码页面：任何情况下都自动关闭密码弹窗
+    if (FREE_PAGES.includes(name)) {
       if (showPagePwdDialog.value) showPagePwdDialog.value = false
       return
     }
