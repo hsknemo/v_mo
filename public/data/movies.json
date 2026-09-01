@@ -1,5 +1,51 @@
 [
     {
+        "id": 158,
+        "title": "三大队 电影版",
+        "originalTitle": "",
+        "year": "2023",
+        "rating": "7.9",
+        "cast": "[\"张译\",\"李晨\",\"魏晨\",\"曹炳琨\",\"王骁\",\"张子贤\",\"杨新鸣\",\"陈创\",\"黄璐\",\"艾丽娅\",\"张新成\",\"高叶\",\"张本煜\",\"王雨甜\",\"王双宝\",\"张祎曈\",\"冯兵\",\"董向荣\",\"李妍锡\",\"徐冬冬\",\"马千壹\",\"陈昊\",\"张磊\",\"宁晓志\",\"刘頔\",\"郜玄铭\",\"黄婷\",\"盛梓航\",\"韩静\",\"赖维佳\"]",
+        "category": "movie",
+        "genre": "[\" 剧情\",\"犯罪\",\"剧情片\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/ccd11a288869178107f6cf4d3796726e.jpg",
+        "summary": "刑侦大队队长程兵（张译 饰）带领的三大队在办理一起恶性案件的过程中导致嫌犯之一意外死亡，被判入狱。出狱后依然坚持以普通人身份追踪在逃嫌犯。",
+        "type": "电影",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/Tn0CCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/Rb4j8z7e/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
+        "id": 157,
+        "title": "火遮眼",
+        "originalTitle": "",
+        "year": "2025",
+        "rating": "8.5",
+        "cast": "[\"谢苗\",\"林科灯\",\"杨恩又\",\"黎唯\",\"岩永丞威\"]",
+        "category": "movie",
+        "genre": "[\" 动作\",\"犯罪\",\"动作片\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/6a2228dc5a2a3c06ba0aa75929b7e0fb.jpg",
+        "summary": "东南亚某处，失语维修工王伟（谢苗 饰）因女儿雨晴（杨恩又 饰）失踪觉醒猎杀本能。他联手寻妻记者纳文（林科灯 饰）组成生死同盟，在连番血战中死斗黑暗组织打手大块头（黎唯 饰）与嗜血杀手阿德（雅彦·鲁伊安 饰）一众人等。怒火遮眼，鲜血开路，从血肉翻飞的街头混战，到拳拳断骨的室内死斗，一场又一场血腥残暴的生死拼杀连番上演，与此同时雨晴也在魔窟中用父亲教的功夫自救。随着二人深入敌营，真相直指背后更庞大的黑恶势力。",
+        "type": "电影",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/v2ACCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/b68BRRLe/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 156,
         "title": "抓特务",
         "originalTitle": "",
