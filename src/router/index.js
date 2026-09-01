@@ -16,6 +16,13 @@ routes.push({
 });
 
 routes.push({
+  path: "/liveplay/:id",
+  name: "liveplay",
+  component: () => import("@/views/LivePlayView.vue"),
+  meta: { title: "直播" },
+});
+
+routes.push({
   path: "/",
   redirect: site.menus[0].path,
 });

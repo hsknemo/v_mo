@@ -13,6 +13,7 @@ export default {
     },
     { name: "anime", path: "/anime", label: "动漫", component: "AnimeView" },
     { name: "food", path: "/food", label: "下饭", component: "FoodView" },
+    { name: "live", path: "/live", label: "直播", component: "LiveView" },
     { name: "reward", path: "/reward", label: "赞赏", component: "RewardView" },
     {
       name: "contact",
@@ -29,6 +30,7 @@ export default {
     variety: "/data/variety.json",
     anime: "/data/anime.json",
     food: "/data/food.json",
+    live: "/data/live.json",
     password: "/data/password.json",
   },
 };
