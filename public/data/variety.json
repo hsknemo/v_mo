@@ -1,5 +1,471 @@
 [
     {
+        "id": 153,
+        "title": "哈哈哈哈哈第六季",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"邓超\",\"陈赫\",\"鹿晗\",\"范志毅\",\"王勉\"]",
+        "category": "tv",
+        "genre": "[\" 真人秀\",\"游戏娱乐\",\"旅行观光\",\"大陆综艺\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/24e6c96eb46cec67a67a41fea02404ac.jpg",
+        "summary": "五哈第六季，五哈旅行团全员集结，鹿晗回归，新朋老友齐聚，疯云变焕敢闯敢干，继续步履不停地探索祖国广域边疆，真实地体验中国之美，继续踏上神金之巅。\n",
+        "type": "综艺",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/GgBCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "重温经典1",
+                "source": "https://hn.bfvvs.com/play/bDk9j8Ka/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "重温经典2",
+                "source": "https://hn.bfvvs.com/play/b4xRZLxb/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "重温经典3",
+                "source": "https://hn.bfvvs.com/play/aOYyxPrd/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "重温经典4",
+                "source": "https://hn.bfvvs.com/play/dwpmLr8e/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "重温经典5",
+                "source": "https://hn.bfvvs.com/play/en5ryO7d/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "重温经典6",
+                "source": "https://hn.bfvvs.com/play/eXDoKrge/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "重温经典7",
+                "source": "https://hn.bfvvs.com/play/dG65mMJb/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第1期上",
+                "source": "https://hn.bfvvs.com/play/e0RVZLLb/index.m3u8",
+                "id": 8
+            },
+            {
+                "title": "第1期下",
+                "source": "https://hn.bfvvs.com/play/b4xROLkb/index.m3u8",
+                "id": 9
+            },
+            {
+                "title": "滑冰特辑",
+                "source": "https://hn.bfvvs.com/play/b826475e/index.m3u8",
+                "id": 10
+            },
+            {
+                "title": "接力合唱特辑",
+                "source": "https://hn.bfvvs.com/play/aOYyAZBd/index.m3u8",
+                "id": 11
+            },
+            {
+                "title": "第2期上",
+                "source": "https://hn.bfvvs.com/play/b826j83e/index.m3u8",
+                "id": 12
+            },
+            {
+                "title": "第2期下",
+                "source": "https://hn.bfvvs.com/play/elY5BBJa/index.m3u8",
+                "id": 13
+            },
+            {
+                "title": "传水特辑",
+                "source": "https://hn.bfvvs.com/play/bqxYJZra/index.m3u8",
+                "id": 14
+            },
+            {
+                "title": "戏精特辑",
+                "source": "https://hn.bfvvs.com/play/dL976RAe/index.m3u8",
+                "id": 15
+            },
+            {
+                "title": "第3期上",
+                "source": "https://hn.bfvvs.com/play/dJ6y6YDd/index.m3u8",
+                "id": 16
+            },
+            {
+                "title": "第3期下",
+                "source": "https://hn.bfvvs.com/play/dR6OgLKd/index.m3u8",
+                "id": 17
+            },
+            {
+                "title": "鹿晗在线守护座位",
+                "source": "https://hn.bfvvs.com/play/axknvBJe/index.m3u8",
+                "id": 18
+            },
+            {
+                "title": "爆改特辑",
+                "source": "https://hn.bfvvs.com/play/bo2VyVLa/index.m3u8",
+                "id": 19
+            },
+            {
+                "title": "泥潭特辑1",
+                "source": "https://hn.bfvvs.com/play/dPN7Y21a/index.m3u8",
+                "id": 20
+            },
+            {
+                "title": "第4期上",
+                "source": "https://hn.bfvvs.com/play/e1wWVBjb/index.m3u8",
+                "id": 21
+            },
+            {
+                "title": "第4期下",
+                "source": "https://hn.bfvvs.com/play/azpvxnZd/index.m3u8",
+                "id": 22
+            },
+            {
+                "title": "泥潭特辑2",
+                "source": "https://hn.bfvvs.com/play/azpv4qqd/index.m3u8",
+                "id": 23
+            },
+            {
+                "title": "泳池特辑1",
+                "source": "https://hn.bfvvs.com/play/e5yQE1Be/index.m3u8",
+                "id": 24
+            },
+            {
+                "title": "第5期上",
+                "source": "https://hn.bfvvs.com/play/bo2V0J3a/index.m3u8",
+                "id": 25
+            },
+            {
+                "title": "第5期下",
+                "source": "https://hn.bfvvs.com/play/bYEWRJpb/index.m3u8",
+                "id": 26
+            },
+            {
+                "title": "五哈和他们的朋友",
+                "source": "https://hn.bfvvs.com/play/bo2Vkqza/index.m3u8",
+                "id": 27
+            },
+            {
+                "title": "泳池特辑2",
+                "source": "https://hn.bfvvs.com/play/egJZWL9d/index.m3u8",
+                "id": 28
+            },
+            {
+                "title": "泳池特辑3",
+                "source": "https://hn.bfvvs.com/play/bYEWJ5pb/index.m3u8",
+                "id": 29
+            },
+            {
+                "title": "第6期上",
+                "source": "https://hn.bfvvs.com/play/av2lMWMa/index.m3u8",
+                "id": 30
+            },
+            {
+                "title": "第6期下",
+                "source": "https://hn.bfvvs.com/play/dwpVzXJe/index.m3u8",
+                "id": 31
+            },
+            {
+                "title": "徐志胜仁科畅聊",
+                "source": "https://hn.bfvvs.com/play/aOYMnpBd/index.m3u8",
+                "id": 32
+            },
+            {
+                "title": "我猜特辑1",
+                "source": "https://hn.bfvvs.com/play/aKr1DWle/index.m3u8",
+                "id": 33
+            },
+            {
+                "title": "我猜特辑2",
+                "source": "https://hn.bfvvs.com/play/dyPo3QVb/index.m3u8",
+                "id": 34
+            },
+            {
+                "title": "第7期上",
+                "source": "https://hn.bfvvs.com/play/dwpVW5re/index.m3u8",
+                "id": 35
+            },
+            {
+                "title": "第7期下",
+                "source": "https://hn.bfvvs.com/play/elYxrRra/index.m3u8",
+                "id": 36
+            },
+            {
+                "title": "传声筒特辑1",
+                "source": "https://hn.bfvvs.com/play/elYxJA7a/index.m3u8",
+                "id": 37
+            },
+            {
+                "title": "传声筒特辑2",
+                "source": "https://hn.bfvvs.com/play/ejRZxW4e/index.m3u8",
+                "id": 38
+            },
+            {
+                "title": "第8期上",
+                "source": "https://hn.bfvvs.com/play/erk8KpKa/index.m3u8",
+                "id": 39
+            },
+            {
+                "title": "第8期下",
+                "source": "https://hn.bfvvs.com/play/bDk1MWka/index.m3u8",
+                "id": 40
+            },
+            {
+                "title": "表情传词特辑 ",
+                "source": "https://hn.bfvvs.com/play/ejRYRzve/index.m3u8",
+                "id": 41
+            },
+            {
+                "title": "守护物品特辑",
+                "source": "https://hn.bfvvs.com/play/aKr8OJ8e/index.m3u8",
+                "id": 42
+            },
+            {
+                "title": "第9期上",
+                "source": "https://hn.bfvvs.com/play/eVOvAmza/index.m3u8",
+                "id": 43
+            },
+            {
+                "title": "第9期下",
+                "source": "https://hn.bfvvs.com/play/b68WWMne/index.m3u8",
+                "id": 44
+            },
+            {
+                "title": "乘法表特辑",
+                "source": "https://hn.bfvvs.com/play/e0R896Kb/index.m3u8",
+                "id": 45
+            },
+            {
+                "title": "泼水攻防特辑",
+                "source": "https://hn.bfvvs.com/play/elYRvZra/index.m3u8",
+                "id": 46
+            },
+            {
+                "title": "第10期上",
+                "source": "https://hn.bfvvs.com/play/aQWk5qGd/index.m3u8",
+                "id": 47
+            },
+            {
+                "title": "第10期下",
+                "source": "https://hn.bfvvs.com/play/dwp0ZkRe/index.m3u8",
+                "id": 48
+            },
+            {
+                "title": "鲱鱼特辑1",
+                "source": "https://hn.bfvvs.com/play/e0R8o8Kb/index.m3u8",
+                "id": 49
+            },
+            {
+                "title": "鲱鱼特辑2",
+                "source": "https://hn.bfvvs.com/play/dyPwzMPb/index.m3u8",
+                "id": 50
+            },
+            {
+                "title": "第11期上",
+                "source": "https://hn.bfvvs.com/play/b68WyOOe/index.m3u8",
+                "id": 51
+            },
+            {
+                "title": "第11期下",
+                "source": "https://hn.bfvvs.com/play/dwp0AnJe/index.m3u8",
+                "id": 52
+            },
+            {
+                "title": "足球特辑1",
+                "source": "https://hn.bfvvs.com/play/en5R9j5d/index.m3u8",
+                "id": 53
+            },
+            {
+                "title": "足球特辑2 ",
+                "source": "https://hn.bfvvs.com/play/aKr8lzne/index.m3u8",
+                "id": 54
+            },
+            {
+                "title": "第12期上",
+                "source": "https://hn.bfvvs.com/play/erk2GB4a/index.m3u8",
+                "id": 55
+            },
+            {
+                "title": "第12期下",
+                "source": "https://hn.bfvvs.com/play/eXDQvDme/index.m3u8",
+                "id": 56
+            },
+            {
+                "title": "卧底特辑",
+                "source": "https://hn.bfvvs.com/play/dyPwg86b/index.m3u8",
+                "id": 57
+            },
+            {
+                "title": "精编回顾五哈团运动",
+                "source": "https://hn.bfvvs.com/play/ejRY3Vye/index.m3u8",
+                "id": 58
+            },
+            {
+                "title": "精编回顾马頔飙高音",
+                "source": "https://hn.bfvvs.com/play/b8235rje/index.m3u8",
+                "id": 59
+            },
+            {
+                "title": "精编回顾陈赫化身捡漏王",
+                "source": "https://hn.bfvvs.com/play/aM8ZM4Be/index.m3u8",
+                "id": 60
+            },
+            {
+                "title": "精编回顾陈赫不靠蛮力",
+                "source": "https://hn.bfvvs.com/play/eVOv8Aza/index.m3u8",
+                "id": 61
+            },
+            {
+                "title": "精编回顾李乃文猜词答题",
+                "source": "https://hn.bfvvs.com/play/erk2y2Wa/index.m3u8",
+                "id": 62
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
+        "id": 152,
+        "title": "天赐的声音第7季",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"\"]",
+        "category": "tv",
+        "genre": "[\" 竞演\",\"音乐\",\"真人秀\",\"大陆综艺\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/716a2226e3cec24e2aab41c0e4b6fc97.jpg",
+        "summary": "《天赐的声音》是一档大型音乐励志综艺，邀请薛之谦、张靓颖、孙楠等知名歌手，及谭松韵、曾舜晞等影视演员跨界加盟。节目延续“金曲”赛制，兼顾话题与推歌力，助力乐坛发展。本季创新融入AI元素，打造AI歌手虚拟形象与AI评委，实现AI与艺人同台竞技、评委互议，同时加入多元主题舞台，力求引发全民共鸣。\n",
+        "type": "综艺",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/V6BCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "发布会",
+                "source": "https://hn.bfvvs.com/play/eXDQwAWe/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "超前聚会",
+                "source": "https://hn.bfvvs.com/play/e0R8pyvb/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第1期",
+                "source": "https://hn.bfvvs.com/play/en5RXoRd/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "第2期",
+                "source": "https://hn.bfvvs.com/play/dwp06JMe/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "天赐7会员版",
+                "source": "https://hn.bfvvs.com/play/ejRYmn5e/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "第3期\t",
+                "source": "https://hn.bfvvs.com/play/epYZ3BXa/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "天赐7会员版",
+                "source": "https://hn.bfvvs.com/play/eZ68jx8e/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第4期\t",
+                "source": "https://hn.bfvvs.com/play/b4x6lEnb/index.m3u8",
+                "id": 8
+            },
+            {
+                "title": "会员版之黄子弘",
+                "source": "https://hn.bfvvs.com/play/elYRjRVa/index.m3u8",
+                "id": 9
+            },
+            {
+                "title": "第5期",
+                "source": "https://hn.bfvvs.com/play/aKrLLjGe/index.m3u8",
+                "id": 10
+            },
+            {
+                "title": "纯享版之周笔畅再唱",
+                "source": "https://hn.bfvvs.com/play/dwpKrxRe/index.m3u8",
+                "id": 11
+            },
+            {
+                "title": "第6期",
+                "source": "https://hn.bfvvs.com/play/e0R0DzLb/index.m3u8",
+                "id": 12
+            },
+            {
+                "title": "天赐7会员版",
+                "source": "https://hn.bfvvs.com/play/aQW62yZd/index.m3u8",
+                "id": 13
+            },
+            {
+                "title": "第7期\t",
+                "source": "https://hn.bfvvs.com/play/b2k7lpKd/index.m3u8",
+                "id": 14
+            },
+            {
+                "title": "天赐7纯享版",
+                "source": "https://hn.bfvvs.com/play/erkmGg6a/index.m3u8",
+                "id": 15
+            },
+            {
+                "title": "会员版黄子弘凡清唱",
+                "source": "https://hn.bfvvs.com/play/aM8JzwQe/index.m3u8",
+                "id": 16
+            },
+            {
+                "title": "第8期",
+                "source": "https://hn.bfvvs.com/play/erkmwJ2a/index.m3u8",
+                "id": 17
+            },
+            {
+                "title": "天赐7纯享版之黄霄雲",
+                "source": "https://hn.bfvvs.com/play/ejR0DB4e/index.m3u8",
+                "id": 18
+            },
+            {
+                "title": "天赐7会员版黄霄雲",
+                "source": "https://hn.bfvvs.com/play/b82MQP5e/index.m3u8",
+                "id": 19
+            },
+            {
+                "title": "第9期",
+                "source": "https://hn.bfvvs.com/play/erkmJ32a/index.m3u8",
+                "id": 20
+            },
+            {
+                "title": "纯享版之黄子弘",
+                "source": "https://hn.bfvvs.com/play/erkmKALa/index.m3u8",
+                "id": 21
+            },
+            {
+                "title": "天赐麦没关巅峰歌会",
+                "source": "https://hn.bfvvs.com/play/aAD1DZ7e/index.m3u8",
+                "id": 22
+            },
+            {
+                "title": "第10期",
+                "source": "https://hn.bfvvs.com/play/e1w44zGb/index.m3u8",
+                "id": 23
+            },
+            {
+                "title": "第11期",
+                "source": "https://hn.bfvvs.com/play/e5yLwZ8e/index.m3u8",
+                "id": 24
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 150,
         "title": "披荆斩棘2026",
         "originalTitle": "",
