@@ -22,7 +22,7 @@
         <div class="meta-row">
           <span class="meta-item">{{ item.year }}</span>
           <span v-if="item.duration" class="meta-item">{{ item.duration }}</span>
-          <span v-if="item.episodes" class="meta-item">{{ item.episodes }}</span>
+          <span v-if="item.episodes && !item.episodes.includes('完结')" class="meta-item">{{ item.episodes }}</span>
         </div>
         <div v-if="item.genre?.length" class="meta-row">
           <span v-for="g in item.genre" :key="g" class="genre-tag">{{ g }}</span>

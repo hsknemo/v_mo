@@ -19,7 +19,7 @@
       <div class="meta">
         <span class="year">{{ item.year }}</span>
         <span v-if="item.duration" class="extra">{{ item.duration }}</span>
-        <span v-else-if="item.episodes" class="extra">{{ item.episodes }}</span>
+        <span v-else-if="item.episodes && !item.episodes.includes('完结')" class="extra">{{ item.episodes }}</span>
       </div>
       <div class="genres">
         <span v-for="g in displayGenres" :key="g" class="genre-tag">{{ g }}</span>

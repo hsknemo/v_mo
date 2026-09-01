@@ -61,7 +61,7 @@
             <div class="meta-row">
               <span v-if="item.year" class="meta-item">{{ item.year }}</span>
               <span v-if="item.duration" class="meta-item">{{ item.duration }}</span>
-              <span v-if="item.episodes" class="meta-item">{{ item.episodes }}</span>
+              <span v-if="item.episodes && !item.episodes.includes('完结')" class="meta-item">{{ item.episodes }}</span>
               <span class="rating">
                 <el-icon><Star /></el-icon>
                 {{ Number(item.rating).toFixed(1) }}
