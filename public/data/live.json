@@ -1,282 +1,282 @@
 [
     {
-        "id": 201,
+        "id": 263,
         "title": "CCTV-1",
         "src": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd",
         "type": "央视频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-1.png"
+        "logo": "shturl.cc/nMui2nWVMEtBdOlWj1iTqhAUdgDLd2Um0pZ"
     },
     {
-        "id": 202,
+        "id": 264,
         "title": "CCTV-2",
         "src": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd",
         "type": "央视频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-2.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORpCCTV-2.png"
     },
     {
-        "id": 203,
+        "id": 265,
         "title": "CCTV-3",
         "src": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv3hd",
         "type": "央视频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-3.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORpCCTV-3.png"
     },
     {
-        "id": 204,
+        "id": 266,
         "title": "CCTV-4",
         "src": "http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub",
         "type": "央视频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-4.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORpCCTV-4.png"
     },
     {
-        "id": 205,
+        "id": 267,
         "title": "CCTV-5",
         "src": "http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub",
         "type": "央视频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-5.png"
+        "logo": "shturl.cc/4fwlM01c0jFHnwXBk4KQJ420FoTI8XWguhY"
     },
     {
-        "id": 206,
+        "id": 268,
         "title": "CCTV-5+",
         "src": "http://120.76.248.139/live/bfgd/4200000246.m3u8",
         "type": "央视频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-5+.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORpCCTV-5+.png"
     },
     {
-        "id": 207,
+        "id": 269,
         "title": "CCTV-6",
         "src": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd",
         "type": "央视频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-6.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORpCCTV-6.png"
     },
     {
-        "id": 208,
+        "id": 270,
         "title": "CCTV-7",
         "src": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv7hd",
         "type": "央视频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-7.png"
+        "logo": "shturl.cc/ov0eh6hnJS6fjlRwY9xgvyERcSHSz8grN0s"
     },
     {
-        "id": 209,
+        "id": 271,
         "title": "CCTV-8",
         "src": "http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub",
         "type": "央视频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-8.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORpCCTV-8.png"
     },
     {
-        "id": 210,
+        "id": 272,
         "title": "CCTV-9",
         "src": "http://192.151.150.154/live/cctv9hd.m3u8",
         "type": "央视频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-9.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORpCCTV-9.png"
     },
     {
-        "id": 211,
+        "id": 273,
         "title": "CCTV-10",
         "src": "http://204.12.221.218:8181/3m1080p/cctv10.m3u8",
         "type": "央视频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-10.png"
+        "logo": "shturl.cc/i8afaaFWOHLt40ZfUkApTq2PcMzgaoK5Z3oh"
     },
     {
-        "id": 212,
+        "id": 274,
         "title": "CCTV-11",
         "src": "http://38.75.136.137:98/gslb/dsdqpub/cctv11hd.m3u8?auth=testpub",
         "type": "央视频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-11.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORpCCTV-11.png"
     },
     {
-        "id": 213,
+        "id": 275,
         "title": "CCTV-12",
         "src": "http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub",
         "type": "央视频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-12.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORpCCTV-12.png"
     },
     {
-        "id": 214,
+        "id": 276,
         "title": "CCTV-13",
         "src": "http://74.91.26.218:82/live/cctv13hd.m3u8",
         "type": "央视频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-13.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORpCCTV-13.png"
     },
     {
-        "id": 215,
+        "id": 277,
         "title": "CCTV-14",
         "src": "http://38.75.136.137:98/gslb/dsdqpub/cctv14hd.m3u8?auth=testpub",
         "type": "央视频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-14.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORpCCTV-14.png"
     },
     {
-        "id": 216,
+        "id": 278,
         "title": "CCTV-15",
         "src": "http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub",
         "type": "央视频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-15.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORpCCTV-15.png"
     },
     {
-        "id": 217,
+        "id": 279,
         "title": "CCTV-16",
         "src": "http://198.204.228.26/live/cctv16hd.m3u8",
         "type": "央视频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-16.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORpCCTV-16.png"
     },
     {
-        "id": 218,
+        "id": 280,
         "title": "CCTV-17",
         "src": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd",
         "type": "央视频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/CCTV-17.png"
+        "logo": "shturl.cc/ZcPNsrbc6BiXD6y5zPwDN7eTugzo0U9mwXI9"
     },
     {
-        "id": 219,
+        "id": 281,
         "title": "CGTN英语",
         "src": "https://0472.org/hls/cgtn.m3u8",
         "type": "央视国际频道",
         "logo": "https://live.fanmingming.cn/tv/CGTN.png"
     },
     {
-        "id": 220,
-        "title": "CGTN纪录",
+        "id": 282,
+        "title": "CGTN记录",
         "src": "https://0472.org/hls/cgtnd.m3u8",
         "type": "央视国际频道",
         "logo": "https://live.fanmingming.cn/tv/CGTN纪录.png"
     },
     {
-        "id": 221,
+        "id": 283,
         "title": "CGTN俄语",
         "src": "https://0472.org/hls/cgtne.m3u8",
         "type": "央视国际频道",
         "logo": "https://live.fanmingming.cn/tv/CGTN俄语.png"
     },
     {
-        "id": 222,
+        "id": 284,
         "title": "CGTN法语",
         "src": "https://0472.org/hls/cgtnf.m3u8",
         "type": "央视国际频道",
         "logo": "https://live.fanmingming.cn/tv/CGTN法语.png"
     },
     {
-        "id": 223,
+        "id": 285,
         "title": "CGTN西语",
         "src": "https://0472.org/hls/cgtnx.m3u8",
         "type": "央视国际频道",
         "logo": "https://live.fanmingming.cn/tv/CGTN西语.png"
     },
     {
-        "id": 224,
+        "id": 286,
         "title": "CGTN阿语",
         "src": "https://0472.org/hls/cgtna.m3u8",
         "type": "央视国际频道",
         "logo": "https://live.fanmingming.cn/tv/CGTN阿语.png"
     },
     {
-        "id": 225,
+        "id": 287,
         "title": "CETV-1",
         "src": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv1hd",
         "type": "央视教育频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/CETV-1.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORpCETV-1.png"
     },
     {
-        "id": 226,
+        "id": 288,
         "title": "CETV-2",
         "src": "http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/51/20240709/index.m3u8?msisdn=c04585207a9f105b06682eb3cb9dc106&mdspid=&spid=699004&netType=0&sid=5910022152&pid=2028597139&timestamp=20260807072533&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287211&ParentNodeID=-99&assertID=5910022152&client_ip=47.92.23.141&SecurityKey=20260807072533&promotionId=&mvid=5900006638&mcid=500020&playurlVersion=WX-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=a037ded5952b83d34effab50a229308d&ddCalcu=da80v03a37a9da2e2da50955b2abf8f3ed43&sv=10004&ct=android",
         "type": "央视教育频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/CETV-2.png"
+        "logo": "shturl.cc/YqioRdJTF3GqJyyhG0sbwHe4izAKFcvi81J"
     },
     {
-        "id": 227,
+        "id": 289,
         "title": "CETV-3",
         "src": "http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8",
         "type": "央视教育频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/CETV-3.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORpCETV-3.png"
     },
     {
-        "id": 228,
+        "id": 290,
         "title": "CETV-4",
         "src": "http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=30dd884c7edc07eed51fd721460ab5af&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20260807072533&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=39.103.188.159&SecurityKey=20260807072533&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=5ebdb2a78dc4f1e12c8cc647bf5fe056&ddCalcu=655ev0baedbfba52fab7784d6cc4cf81ce21&sv=10004&ct=android",
         "type": "央视教育频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/CETV-4.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORpCETV-4.png"
     },
     {
-        "id": 229,
+        "id": 291,
         "title": "文化精品",
         "src": "http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub",
         "type": "央视付费频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/文化精品.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORp文化精品.png"
     },
     {
-        "id": 230,
+        "id": 292,
         "title": "央视台球",
         "src": "http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub",
         "type": "央视付费频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/央视台球.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORp央视台球.png"
     },
     {
-        "id": 231,
+        "id": 293,
         "title": "风云音乐",
         "src": "http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub",
         "type": "央视付费频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/风云音乐.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORp风云音乐.png"
     },
     {
-        "id": 232,
+        "id": 294,
         "title": "第一剧场",
         "src": "http://107.150.60.122/live/dyjc.m3u8",
         "type": "央视付费频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/第一剧场.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORp第一剧场.png"
     },
     {
-        "id": 233,
+        "id": 295,
         "title": "风云剧场",
         "src": "http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub",
         "type": "央视付费频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/风云剧场.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORp风云剧场.png"
     },
     {
-        "id": 234,
+        "id": 296,
         "title": "怀旧剧场",
         "src": "http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub",
         "type": "央视付费频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/怀旧剧场.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORp怀旧剧场.png"
     },
     {
-        "id": 235,
+        "id": 297,
         "title": "女性时尚",
         "src": "http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub",
         "type": "央视付费频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/女性时尚.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORp女性时尚.png"
     },
     {
-        "id": 236,
+        "id": 298,
         "title": "高尔夫网球",
         "src": "http://207.56.13.146:81/cdnlive/gefwq.m3u8",
         "type": "央视付费频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/高尔夫网球.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORp高尔夫网球.png"
     },
     {
-        "id": 237,
+        "id": 299,
         "title": "风云足球",
         "src": "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub",
         "type": "央视付费频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/风云足球.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORp风云足球.png"
     },
     {
-        "id": 238,
+        "id": 300,
         "title": "电视指南",
         "src": "http://iptv.666230.xyz/iptv/jsyd.php/G_DIANSHIZN-CQ",
         "type": "央视付费频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/电视指南.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORp电视指南.png"
     },
     {
-        "id": 239,
+        "id": 301,
         "title": "世界地理",
         "src": "http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub",
         "type": "央视付费频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/世界地理.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORp世界地理.png"
     },
     {
-        "id": 240,
+        "id": 302,
         "title": "兵器科技",
         "src": "http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub",
         "type": "央视付费频道",
-        "logo": "https://www.xn--rgv465a.top/tvlogo/兵器科技.png"
+        "logo": "shturl.cc/VbGKFMFSjzpR7Tk2LN72RnORp兵器科技.png"
     }
 ]
