@@ -54,6 +54,11 @@ const { list, loading, error, load } = useMediaData('live')
 const skeletonCount = 12
 
 function goPlay(item) {
+  // 非 https 链接直接用浏览器新窗口打开，不进入播放页
+  if (item.src && !/^https:\/\//i.test(item.src)) {
+    window.open(item.src, '_blank', 'noopener')
+    return
+  }
   router.push(`/liveplay/${item.id}`)
 }
 

@@ -68,7 +68,7 @@
 </template>
 
 <script setup>
-import { computed, onMounted } from 'vue'
+import { computed, onMounted, watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { ArrowLeft, Lock, CoffeeCup, Present } from '@element-plus/icons-vue'
 import { useMediaData } from '@/composables/useMediaData'
@@ -96,6 +96,13 @@ const { list, loading, load } = useMediaData('live')
 
 const item = computed(() => {
   return (list.value || []).find((it) => it.id === id.value) || null
+})
+
+// 兜底：直接通过 URL 进入播放页且 src 非 https 时，浏览器跳转
+watch(item, (v) => {
+  if (v && v.src && !/^https:\/\//i.test(v.src)) {
+    window.location.replace(v.src)
+  }
 })
 
 function goBack() {
