@@ -1,5 +1,148 @@
 [
     {
+        "id": 171,
+        "title": "师兄太稳健",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"敖瑞鹏\",\"孙珍妮\",\"艾米\",\"敖子逸\"]",
+        "category": "tv",
+        "genre": "[\" 仙侠\",\"玄幻\",\"古装\",\"内地剧\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/65ebc567c732bd4b59a1a1e15b9481d0.jpg",
+        "summary": "前世是重症患者的李长寿意外重生到洪荒世界，化身为一名珍视生命、不沾因果的小小炼气士，为躲避天道预言中的天下大劫，奉行“稳健”之道，一心想上天庭苟活，为此，他稳健操作，不动稳如老狗、一动“石破天惊”，他坚信打打杀杀的时代已经过去，能坑人绝不杀人，能单身绝不恋爱，奈何敌人和美人如潮水般涌来，他一不小心成了运筹帷幄的幕后大佬，卷入多方博弈之中，运作“龙族上天”，甚至那天下大劫也加速到来。",
+        "type": "电视剧",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/jCkCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "第1集",
+                "source": "https://hn.bfvvs.com/play/dJ6Qlkyd/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "第2集",
+                "source": "https://hn.bfvvs.com/play/azpX9w2d/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第3集",
+                "source": "https://hn.bfvvs.com/play/dPNQrq6a/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "第4集",
+                "source": "https://hn.bfvvs.com/play/e9rgGlZa/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "第5集",
+                "source": "https://hn.bfvvs.com/play/bmZy8Ard/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "第6集",
+                "source": "https://hn.bfvvs.com/play/dL9JB3ge/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "第7集",
+                "source": "https://hn.bfvvs.com/play/dR61B3Ld/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第8集",
+                "source": "https://hn.bfvvs.com/play/egJ2y7kd/index.m3u8",
+                "id": 8
+            },
+            {
+                "title": "第9集",
+                "source": "https://hn.bfvvs.com/play/bo2ymAXa/index.m3u8",
+                "id": 9
+            },
+            {
+                "title": "第10集",
+                "source": "https://hn.bfvvs.com/play/dPNQl9Wa/index.m3u8",
+                "id": 10
+            },
+            {
+                "title": "第11集",
+                "source": "https://hn.bfvvs.com/play/e5yLxrve/index.m3u8",
+                "id": 11
+            },
+            {
+                "title": "第12集",
+                "source": "https://hn.bfvvs.com/play/e31wGMOb/index.m3u8",
+                "id": 12
+            },
+            {
+                "title": "第13集",
+                "source": "https://hn.bfvvs.com/play/dL9JRrve/index.m3u8",
+                "id": 13
+            },
+            {
+                "title": "第14集",
+                "source": "https://hn.bfvvs.com/play/e1w4DZqb/index.m3u8",
+                "id": 14
+            },
+            {
+                "title": "第15集",
+                "source": "https://hn.bfvvs.com/play/dBB6j5Wd/index.m3u8",
+                "id": 15
+            },
+            {
+                "title": "第16集",
+                "source": "https://hn.bfvvs.com/play/av2ZvNMa/index.m3u8",
+                "id": 16
+            },
+            {
+                "title": "第17集",
+                "source": "https://hn.bfvvs.com/play/bmZyjA3d/index.m3u8",
+                "id": 17
+            },
+            {
+                "title": "第18集",
+                "source": "https://hn.bfvvs.com/play/bYE5D7Ab/index.m3u8",
+                "id": 18
+            },
+            {
+                "title": "第19集",
+                "source": "https://hn.bfvvs.com/play/bo2yBqka/index.m3u8",
+                "id": 19
+            },
+            {
+                "title": "第20集",
+                "source": "https://hn.bfvvs.com/play/egJ2qgDd/index.m3u8",
+                "id": 20
+            },
+            {
+                "title": "第21集",
+                "source": "https://hn.bfvvs.com/play/e9rgw03a/index.m3u8",
+                "id": 21
+            },
+            {
+                "title": "第22集",
+                "source": "https://hn.bfvvs.com/play/dPNQyZya/index.m3u8",
+                "id": 22
+            },
+            {
+                "title": "第23集",
+                "source": "https://hn.bfvvs.com/play/dR61NrEd/index.m3u8",
+                "id": 23
+            },
+            {
+                "title": "第24集",
+                "source": "https://hn.bfvvs.com/play/bkR71lNa/index.m3u8",
+                "id": 24
+            },
+            {
+                "title": "第25集",
+                "source": "https://hn.bfvvs.com/play/bo2y5NAa/index.m3u8",
+                "id": 25
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 170,
         "title": "飞到我心上",
         "originalTitle": "",
