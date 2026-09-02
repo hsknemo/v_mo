@@ -1,5 +1,83 @@
 [
     {
+        "id": 167,
+        "title": "重案六组：消失的警号",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"张一山\",\"李沐宸\"]",
+        "category": "tv",
+        "genre": "[\" 剧情\",\"犯罪\",\"内地剧\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/4f177e11d72258cfcbacbb5db86cce83.jpg",
+        "summary": "九十年代初，东安市，重案六组成立前夕。省厅刑警曾克强因专案调入地方重案组，接手牺牲的战友刘华生前未竟的调查。大曾背负误解，一面融入新团队，一面暗中追查真相。东安市的犯罪势力暗流涌动，赵氏集团少东家赵彬以采砂船走私起家，贿赂官员，暴力垄断，为掩盖罪行接连杀害知情人。大曾以卧底姿态周旋，季洁以正面突破反制对方挑衅。在与赵氏集团周旋的过程中，六组成员接连并肩破获了连环爆炸复仇案，河道碎尸烹煮案，矿难骗保诈尸案，仙人跳杀人案，幽灵船惨案，神秘美女公路劫车案等奇案。",
+        "type": "电视剧",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/q9kCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "第1集",
+                "source": "https://hn.bfvvs.com/play/bmZyxZAd/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "第2集",
+                "source": "https://hn.bfvvs.com/play/dNk0wkKe/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第3集",
+                "source": "https://hn.bfvvs.com/play/bW6qJ6Xa/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "第4集",
+                "source": "https://hn.bfvvs.com/play/eERxkRKa/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "第5集",
+                "source": "https://hn.bfvvs.com/play/e31w81nb/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "第6集",
+                "source": "https://hn.bfvvs.com/play/e9rgZr4a/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "第7集",
+                "source": "https://hn.bfvvs.com/play/dBB6Zgnd/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第8集",
+                "source": "https://hn.bfvvs.com/play/av2Z0gga/index.m3u8",
+                "id": 8
+            },
+            {
+                "title": "第9集",
+                "source": "https://hn.bfvvs.com/play/dPNQL81a/index.m3u8",
+                "id": 9
+            },
+            {
+                "title": "第10集",
+                "source": "https://hn.bfvvs.com/play/dJ6QB2Jd/index.m3u8",
+                "id": 10
+            },
+            {
+                "title": "第11集",
+                "source": "https://hn.bfvvs.com/play/e5yLPgKe/index.m3u8",
+                "id": 11
+            },
+            {
+                "title": "第12集",
+                "source": "https://hn.bfvvs.com/play/bYE58RMb/index.m3u8",
+                "id": 12
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 154,
         "title": "人鱼(2026)",
         "originalTitle": "",
