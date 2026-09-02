@@ -73,6 +73,26 @@
                 "title": "第12集",
                 "source": "https://hn.bfvvs.com/play/bYE58RMb/index.m3u8",
                 "id": 12
+            },
+            {
+                "title": "第13集",
+                "source": "https://hn.bfvvs.com/play/bYE5K4Ob/index.m3u8",
+                "id": 13
+            },
+            {
+                "title": "第14集",
+                "source": "https://hn.bfvvs.com/play/azpX305d/index.m3u8",
+                "id": 14
+            },
+            {
+                "title": "第15集",
+                "source": "https://hn.bfvvs.com/play/dJ6QoL9d/index.m3u8",
+                "id": 15
+            },
+            {
+                "title": "第16集",
+                "source": "https://hn.bfvvs.com/play/dPNQxRya/index.m3u8",
+                "id": 16
             }
         ],
         "episodes": "完结"
