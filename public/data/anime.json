@@ -1,5 +1,153 @@
 [
     {
+        "id": 253,
+        "title": "中华小子",
+        "originalTitle": "",
+        "year": "2006",
+        "rating": "9.6",
+        "cast": "[\"黄怡晴\",\"徐刚\",\"刘强\",\"王肖兵\",\"游军\",\"王衡\",\"王勇\",\"李敏妍\"]",
+        "category": "tv",
+        "genre": "[\" 喜剧\",\"动作\",\"动画\",\"儿童\",\"冒险\",\"武侠\",\"中国动漫\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/378445dda53bdb30cf2ecb38b77caaba.jpg",
+        "summary": "故事发生在十七世纪的中国，被镇压千年的恶魔黑狐王挣脱了桎梏，带着它的爪牙来到人间，四处作威作福，妄图成为世界的霸主。百姓们实在无法忍受水深火热的生活，于是来到少林，请求僧人们出谋划策，打败黑狐王。",
+        "type": "动漫",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/BPwCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "第01集",
+                "source": "https://hn.bfvvs.com/play/lejB8Pye/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "第02集",
+                "source": "https://hn.bfvvs.com/play/RdGA8oKa/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第03集",
+                "source": "https://hn.bfvvs.com/play/Yerp962b/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "第04集",
+                "source": "https://hn.bfvvs.com/play/Yerp9vLb/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "第05集",
+                "source": "https://hn.bfvvs.com/play/9aAr1x9b/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "第06集",
+                "source": "https://hn.bfvvs.com/play/PdyzXx6e/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "第07集",
+                "source": "https://hn.bfvvs.com/play/9b6M9jOa/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第08集",
+                "source": "https://hn.bfvvs.com/play/BeXP52ve/index.m3u8",
+                "id": 8
+            },
+            {
+                "title": "第09集",
+                "source": "https://hn.bfvvs.com/play/nel07m1e/index.m3u8",
+                "id": 9
+            },
+            {
+                "title": "第10集",
+                "source": "https://hn.bfvvs.com/play/Rb42LDJe/index.m3u8",
+                "id": 10
+            },
+            {
+                "title": "第11集",
+                "source": "https://hn.bfvvs.com/play/qaQX7RGe/index.m3u8",
+                "id": 11
+            },
+            {
+                "title": "第12集",
+                "source": "https://hn.bfvvs.com/play/mepn2lQb/index.m3u8",
+                "id": 12
+            },
+            {
+                "title": "第13集",
+                "source": "https://hn.bfvvs.com/play/yb8gExra/index.m3u8",
+                "id": 13
+            },
+            {
+                "title": "第14集",
+                "source": "https://hn.bfvvs.com/play/QeZg0RQa/index.m3u8",
+                "id": 14
+            },
+            {
+                "title": "第15集",
+                "source": "https://hn.bfvvs.com/play/YaOG8oEa/index.m3u8",
+                "id": 15
+            },
+            {
+                "title": "第16集",
+                "source": "https://hn.bfvvs.com/play/YaOG8zRa/index.m3u8",
+                "id": 16
+            },
+            {
+                "title": "第17集",
+                "source": "https://hn.bfvvs.com/play/lejB8M4e/index.m3u8",
+                "id": 17
+            },
+            {
+                "title": "第18集",
+                "source": "https://hn.bfvvs.com/play/nel07mje/index.m3u8",
+                "id": 18
+            },
+            {
+                "title": "第19集",
+                "source": "https://hn.bfvvs.com/play/Xe0MLyNa/index.m3u8",
+                "id": 19
+            },
+            {
+                "title": "第20集",
+                "source": "https://hn.bfvvs.com/play/rb2XWNze/index.m3u8",
+                "id": 20
+            },
+            {
+                "title": "第21集",
+                "source": "https://hn.bfvvs.com/play/PdyzX5Re/index.m3u8",
+                "id": 21
+            },
+            {
+                "title": "第22集",
+                "source": "https://hn.bfvvs.com/play/1aKGQRGa/index.m3u8",
+                "id": 22
+            },
+            {
+                "title": "第23集",
+                "source": "https://hn.bfvvs.com/play/mepn2Kyb/index.m3u8",
+                "id": 23
+            },
+            {
+                "title": "第24集",
+                "source": "https://hn.bfvvs.com/play/BeXP5AVe/index.m3u8",
+                "id": 24
+            },
+            {
+                "title": "第25集",
+                "source": "https://hn.bfvvs.com/play/penlOVpb/index.m3u8",
+                "id": 25
+            },
+            {
+                "title": "第26集完结",
+                "source": "https://hn.bfvvs.com/play/RdGA875a/index.m3u8",
+                "id": 26
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 252,
         "title": "如果历史是一群喵 大明皇朝篇",
         "originalTitle": "",
