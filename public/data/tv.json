@@ -1,4 +1,35 @@
-[
+[{
+        "id": 270,
+        "title": "生逢其时",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"关晓彤\",\"王子奇\"]",
+        "category": "tv",
+        "genre": "[\" 剧情\",\"内地剧\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/ce20bd32e492b603ef68eda13c8cc61b.jpg",
+        "summary": "八十年代初，青梧小镇住着家庭模式完全不同的齐家和曹家。某天两家同时诞下曹信、齐时。曹信，一路走来都是家长口中\"别人家的孩子\"，然而光环之下却始终伴随着父亲的严苛要求。而身患白化病的齐时，自小就意识到了自己的\"与众不同\"，于是她喝酱油、戴假发，试图通过这样的方式，成为和普通人一样的存在。当乖巧听话、优秀自律的少年曹信，遇上特立独行、勇敢倔强的少女齐时，两个家庭也在邻里间日积月累的相处中越发像一家人。孩子们经历着关于亲情、友情、爱情的考验，大人们也在面对关于事业、婚姻、家庭的难题。在时代洪流中，纵使生活跌跌撞",
+        "type": "电视剧",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/JDkCCS.html?ac=detail",
+        "episodeList": [{
+                "title": "第1集",
+                "source": "https://hn.bfvvs.com/play/bmZyJjpd/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "第2集",
+                "source": "https://hn.bfvvs.com/play/dBB64mxd/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第3集",
+                "source": "https://hn.bfvvs.com/play/av2ZVvVa/index.m3u8",
+                "id": 3
+            }
+        ],
+        "episodes": "完结"
+    },
     {
         "id": 269,
         "title": "漂白2025",
@@ -13,8 +44,7 @@
         "summary": "这一年，雪城的冬天奇寒彻骨。在一座普通的居民楼里，发生了一起惨绝人寰的分尸案，就连身经百战的刑警队长彭兆林见了都不禁毛骨悚然。他无法原谅自己的是，曾与嫌犯邓立钢在楼道里擦肩而过，谁知这一错过就是十年。邓立钢等人流窜各地疯狂作案，专门绑架勒索残杀“夜店女郎”。重案组辗转数省追凶却功亏一篑。这个犯罪团伙突然销声匿迹，他们通过非法手段洗白身份，过起安居乐业的日子。在他们作案中有一位受害人叫甄珍，她在被绑架途中找准时机逃脱成功，但是这次经历让她久久不能忘记，为此她擦去痛苦的记忆努力考上警校，成为女警官。然而，甄珍和彭兆林却时常从噩梦中惊醒，年轻女孩犹如待宰的羔羊，凄惨的哭声萦绕在耳旁挥之不去。在很多年以后甄珍警官同彭兆林根据一条不起眼的信息撬开了尘封悬案，他们踏上了千里缉凶的征程...…",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/votCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/wdLxNRXd/index.m3u8",
                 "id": 1
@@ -101,8 +131,7 @@
         "summary": "剧集讲述了苏氏布商家的赘婿宁毅，帮助妻子苏檀儿一起搞事业，玩转武朝商界，成为江宁首富的故事；宁毅面对家事、国事、天下事，都勇往直前，从一个无人在意的小小赘婿，成长为真正为天下立心，为生民立命，顺应时代，也改变了时代的大人物。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/MeyCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/Yer0BJBb/index.m3u8",
                 "id": 1
@@ -304,8 +333,7 @@
         "summary": "《生万物》根据荣获第三届人民文学奖的长篇小说《缱绻与决绝》改编，以鲁南农村土地变迁为背景，讲述了以宁绣绣、封大脚、费左氏为代表的宁、封、费三个家族、两代人的兴衰史。天牛庙村村民为同一片土地不断努力，是跨越多年打不散的邻里情，也是老一辈农民对土地的敬畏与依恋。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/yFUCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/BeX3lYAd/index.m3u8",
                 "id": 1
@@ -502,8 +530,7 @@
         "summary": "打更人陆晨可辨阴阳，除邪祟，逢谯楼同门柳子离奇身亡。他携手聂老鬼之孙女聂琪儿以及皇城司苏望峰，卷入阴债索命和子母神像复活的诡案。一路追查，揭露朝露镇和清明镇的连环诡异事件，牵扯出八王爷谋逆阴谋。最终，众人联手挫败阴谋，守护京城安宁，陆晨则继续以打更人之身，探寻南疆神像背后的终极真相。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/6phCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/bo2yQlYa/index.m3u8",
                 "id": 1
@@ -640,8 +667,7 @@
         "summary": "温润如玉的男医生何苏叶（张凌赫 饰）与重度失眠的酒店前厅经理沈惜凡（徐若晗 饰），在一次次看诊和生活中不期而遇并暗生情愫，最终两人在日常点滴中相互治愈，甜蜜收获了一段沁润着草药香的爱情故事。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/URNCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/dG6ZpWyb/index.m3u8",
                 "id": 1
@@ -798,8 +824,7 @@
         "summary": "公元712年，唐睿宗改元延和，大唐依旧繁盛寰宇，但繁华之下依然危机四伏、山雨欲来。一股股势力借机点点欲动，更引起民间诡案频发，大理寺少卿卢凌风（杨旭文 饰）和乾陵丞苏无名（杨志刚 饰）又将遇到怎样的志怪谜局？西行之路，境遇难测。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/NuaCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/xbo58DLe/index.m3u8",
                 "id": 1
@@ -1016,8 +1041,7 @@
         "summary": "暗夜邪仙从天而降，鬼市地宫露出冰山一角，而风靡长安的诡异红茶究竟是养生之药还是害人之物？长安城里新娘失踪案接连发生，似乎与红茶有着千丝万缕的联系……案件扑朔迷离，人心玄妙难鉴！金吾卫中郎将卢凌风奉命查案，遭遇平生最强对手狄仁杰关门弟子苏无名，双强携手共破长安奇案！九个不同风格的诡异案件，《长安红茶》《石桥图》《众生堂》《黄梅杀》《甘棠驿怪谈》《鼍神》《人面花》《参天楼》，一一为您揭晓大唐夜色笼罩之下的奇闻异录！",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/0r9CCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/7e5Jp2Ya/index.m3u8",
                 "id": 1
@@ -1214,8 +1238,7 @@
         "summary": "先天二年夏秋之交，天子虽已登基，但大长公主势力更盛，长安局势阴晴难定。卢凌风（杨旭文 饰）和苏无名（杨志刚 饰），奉命带着由裴喜君、费鸡师、樱桃和薛环组成的探案小队，以护送康国所献金桃的名义重返长安。繁华的长安，卢凌风复职雍州司法参军，苏无名则被授予一个特殊的官职，同时叫费鸡师出任酥山店掌柜，并将店铺设置成全长安的暗探情报中心。卢苏二人推出新政，开启环城探案模式，深入长安各坊，接触到了更广泛的百姓和民生，也借此避开了天子与大长公主的争斗。在历经康国的金桃、成佛寺的哭声、白泽的踪迹、食尾蛇、解忧店等多宗疑案",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/Ya7CCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/kazVJRZa/index.m3u8",
                 "id": 1
@@ -1432,8 +1455,7 @@
         "summary": "这是一个系列的戏说江湖的轻松喜剧。关中一个普通的小镇——七俠镇，这里有一家同福客栈。就是这间不起眼的江湖客栈，因缘巧合之下汇聚了一群性格各异又活泼搞怪的年轻人：武功高强但初入江湖的郭芙蓉（姚晨 饰）、客栈老板娘佟湘玉（闫妮 饰）、金盘洗手的神偷白展堂（沙溢 饰）、满腹经纶的吕秀才（喻恩泰 饰）、客栈厨师李大嘴（姜超 饰）等等。这群年轻人在同一屋檐下演绎了一幕幕经典的搞笑场面，在欢笑与眼泪中陪伴观众们一起渐渐成长。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/TfZCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/Rb4z4oVe/index.m3u8",
                 "id": 1
@@ -1855,8 +1877,7 @@
         "summary": "民国初年南洋地区发生的一系列诡异事件。故事以张海盐和张海虾两位南部档案馆的秘密探员为主角，他们调查一起神秘案件，发现案件背后隐藏着军阀利用剧毒植物“黄昏草”散播的阴谋。在调查过程中，张海盐和张海虾经历了生死考验，张海虾甚至因此瘫痪。随着线索逐渐清晰，张海盐发现所有的线索都指向一艘大船——南安号……\n                                    \n                                　　该剧改编自南派三叔同名小说。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/FGACCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/aQWkKp0d/index.m3u8",
                 "id": 1
@@ -2038,8 +2059,7 @@
         "summary": "脱离一线刑侦几年的警察张一昂（王骁 饰），因为省厅收到的匿名举报信，被派往三江口调查案件。张一昂到三江口不久就遇到刑警队长被害，张一昂在洗清自我嫌疑时意外逮捕了连环杀人案的凶手，迅速建立声望。张一昂将侦查方向锁定到当地富商周荣（王传君 饰）团伙，可蠢贼们层出不穷，蠢贼之间勾心斗角的蝴蝶效应，反而助张一昂带领的警察们屡建奇功。 “缘分”让张一昂跟所有蠢贼们齐聚一堂，凭借智慧和勇气笑到最后，也查明同僚遇害的起因，最终让真凶落入法网。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/BErCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/bqx7mODa/index.m3u8",
                 "id": 1
@@ -2176,8 +2196,7 @@
         "summary": "本剧讲述了90年代末，怒河市刑侦支队在无普及监控、无DNA鉴定技术的支持下，通过摸排、勘查等传统刑侦手段，接连破获数起重案要案的艰难过程。案件设计采用 “积案牵现案” 模式，以粗粝的90年代质感为基调，既深挖人性幽暗，又展现刑警的牺牲与担当，传递“立法为公，执法为民”的永恒主题。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/ulBCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/e0R0Jz3b/index.m3u8",
                 "id": 1
@@ -2324,8 +2343,7 @@
         "summary": "一纸赐婚，两段孽缘。心狠手辣的铁面将军强娶财迷机关太傅千金，从契约夫妻到人生合伙人，从猜忌争斗到相爱携手，两个事业批在生死局里互扒马甲。\n                                    \n                                　　知我罪我，其惟春秋。山河破碎，他为天下不惜身，却因她徒生贪恋。桃之夭夭，灼灼其华。她本是潇洒来去自由人，也为他作茧自缚忘前尘。破朝堂阴谋，守家国太平，他于乱世荒唐中护她一方安宁，她涅槃重生助他万世名。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/JPBCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/elY27o7a/index.m3u8",
                 "id": 1
@@ -2482,8 +2500,7 @@
         "summary": "本剧改编自天下霸唱小说《鬼吹灯之昆仑神宫》，主要围绕着“格萨尔王”中传说的魔国冰川水晶尸展开。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/tr9CCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/Pdyw8X7a/index.m3u8",
                 "id": 1
@@ -2580,8 +2597,7 @@
         "summary": "《鬼吹灯》故事以一本家传的秘书残卷为引，讲述三位当代摸金校尉，为解开部族消失的千古之谜，利用风水秘术，解读天下大山大川的脉搏，寻找一处处失落在大地深处的龙楼宝殿。毕竟那些龙形虎藏、揭天拔地、倒海翻江的举动，都迵异庸俗，在离奇诡异的地下世界中，历史的神秘面纱正一层层地被揭开……",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/tWDCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/1aKrNRMe/index.m3u8",
                 "id": 1
@@ -2703,8 +2719,7 @@
         "summary": "网剧《云南虫谷》改编自天下霸唱小说《鬼吹灯之云南虫谷》，承接《龙岭迷窟》剧情，讲述了由胡八一（潘粤明 饰）、Shirley杨（张雨绮 饰）、王胖子（姜超 饰）组成的探险三人组查到传闻中救人性命的雮尘珠成为了古滇国献王墓的随葬品，特深入瘴疠之地探寻雮尘珠踪迹的故事。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/hbDCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/6dBQYPYb/index.m3u8",
                 "id": 1
@@ -2801,8 +2816,7 @@
         "summary": "根据天下霸唱的小说《鬼吹灯之怒晴湘西》改编。讲述了陈玉楼、鹧鸪哨、红姑娘等老一辈“卸岭力士”与“搬山道人”携手探秘湘西瓶山的传奇故事。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/ywZCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/lej0n4lb/index.m3u8",
                 "id": 1
@@ -2924,8 +2938,7 @@
         "summary": "讲述“铁三角”胡八一（潘粤明 饰）、Shirley杨（张雨绮 饰）、王胖子（姜超 饰）再次重聚，启程前往南海，在风暴不断、海难频发的珊瑚螺旋海域展开了一段探寻归墟之国、寻找秦王照骨镜的惊险旅程。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/ZF0CCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/5eVzQ4ve/index.m3u8",
                 "id": 1
@@ -3022,8 +3035,7 @@
         "summary": "胡八一、王胖子和大金牙被村民编造的绣花鞋的故事所骗，前往陕西古蓝县。水路艰险，胡八一挺身让众人脱险。在招待所幸遇陈瞎子提醒，得以逃脱村民圈套。三人无意掉入“龙岭迷窟”遭蝙蝠袭击，发现身上长出红斑，决定在王大爷家修整，遇到同样来找红斑根源的shirley杨，并听闻了鹧鸪哨和了尘大师寻找雮尘珠的英勇故事。几人决心寻找雮尘珠，陈瞎子告诉他们“内藏眢”就在此地。村民故技重施，威胁胡八一等人寻找钱财，两拨人马前往洞穴，遭到蜘蛛袭击，被困暗阁，但大家齐心协力，化险为夷，最终进入了“棋盘”机关，众人协作，找到了龙骨天书，逃出洞穴，准备前往云南继续解密“红斑”。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/ZEZCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/yb8MzwWd/index.m3u8",
                 "id": 1
@@ -3130,8 +3142,7 @@
         "summary": "　　那是很久以前的事了。那个时候，还没有冥界，天柱连接着天和大地，天空不像现在的天空，那时候的天，悬在云端里。在后世的记载中，它还有一个名字，叫做“昆仑”。人类，是神创造的，世间一切，都是神的子民。昆仑山的天女来到了人间。天女，是神的使者。然而在人类中，出现了一种疾病，那是一种令人丧失心智的疾病，那就是，爱。因为爱，人类与天神之间，发动了第一场战争。能够与灵魂相通的夏冬青，与灵魂摆渡人赵吏和九天天女娅相识于444号便利店，一年后，他们又在海边重逢。阴差阳错下，夏冬青成为了赵吏的契人，注定要帮他送走九九八十一个灵魂。娅染上了人类古老的疾病，爱上了夏冬青，而这却与天界交给她的使命背道而驰。作为摆渡灵魂的鬼差，赵吏仿佛无所不能，但他最大的痛苦便是没有一个属于自己的灵魂，无法像夏冬青那样感受喜怒哀乐。新年前夕，他们遇到了古老的神兽，年和夕；荒山野村里，却矗立着一...",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/khICCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/PdyPRqWb/index.m3u8",
                 "id": 1
@@ -3213,8 +3224,7 @@
         "summary": "　　《灵魂摆渡2》是一部网络剧，于2014年11月底正在拍摄中，《灵魂摆渡2》是继灵魂摆渡后的第二季，《灵魂摆渡2》中，女一号肖茵扮演正能量爆棚的王小亚，俏皮可爱，在保持原有人物性格同时加入新的情节，令角色更加饱满，《灵魂摆渡2》中的王小亚与之前观众所熟知的王小亚一样，依然是那个有些疯癫，敢爱敢恨，直言不讳的女生，但形象上会有所改变，与之前相比会更稳重一些，《灵魂摆渡2》虽然以惊悚为题材，肖茵表示拍摄的时候自己并不害怕，反而认为这是一部很感人的作品，每个故事是以情动人，把生活中的邪恶的一面直观展现出。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/yhICCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/lejR1Mve/index.m3u8",
                 "id": 1
@@ -3331,8 +3341,7 @@
         "summary": "　　肉身之眼晦暗不明，见近不见远，见前不见后，见明不见暗，看到的并非确凿无误存在。外表看起来丝毫没有任何存在感的夏冬青（刘智扬 饰），有一个不为人知的秘密，他可以看到另一个世界的众生。自幼在孤儿院长大的他大学刚刚毕业，正准备考研，此时他正四处求职打工。在此期间，冬青被444号便利店录取。据说这家便利店半夜12点后会闹鬼，原来这里正是两个不同纬度空间上的连接点。                                                                    　　在冥界担任公务员的赵吏（于毅 饰）直接管理着便利店，他自称“灵魂摆渡人”，每天迎来送往，指引鬼魂们去往应该去的世界。冬青和性格直爽的女孩王小亚（肖茵 饰）则成为一个个灵异事件的见证者。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/YhICCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/1aKrD7Ge/index.m3u8",
                 "id": 1
@@ -3449,8 +3458,7 @@
         "summary": "幻海市，夏冬青（刘智扬 饰）与娅（肖茵 饰）共同经营着昼夜转换的444号便利店，并与酷似失踪赵吏（于毅 饰）的“守夜人”结成新搭档，守护人界与灵界的平衡。三人组在平凡日子里化解了多起异事，然而，一场意外打破了平静……红月当空之际，众人诛灭其阴谋回归现实。幻海市恢复宁静，444号便利店继续营业，但新的异闻已在青石板路上悄然滋生。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/seACCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/erk29l4a/index.m3u8",
                 "id": 1
@@ -3587,8 +3595,7 @@
         "summary": "方浩文的笔是欢喜市最廉价的武器，写不出最畅销的书，却能刺穿最荒诞的现实。女企业家金芙蓉的赏识让他一朝成名，又在拒绝求爱后跌落云端。一场醉酒坠楼，一场“自杀”闹剧，将他推上流量时代的风口浪尖——前经纪人怂恿他“用死亡换销量”翻红网络。而狂热书粉别凡的出现，彻底打乱了这场精心策划的直播骗局，“囧徒”组合由此诞生——过气作家带着中二粉丝开启“求生不得求死不能”的疯癫之旅。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/WRkCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/bkR71Q5a/index.m3u8",
                 "id": 1
@@ -3640,8 +3647,7 @@
         "summary": "前世是重症患者的李长寿意外重生到洪荒世界，化身为一名珍视生命、不沾因果的小小炼气士，为躲避天道预言中的天下大劫，奉行“稳健”之道，一心想上天庭苟活，为此，他稳健操作，不动稳如老狗、一动“石破天惊”，他坚信打打杀杀的时代已经过去，能坑人绝不杀人，能单身绝不恋爱，奈何敌人和美人如潮水般涌来，他一不小心成了运筹帷幄的幕后大佬，卷入多方博弈之中，运作“龙族上天”，甚至那天下大劫也加速到来。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/jCkCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/dJ6Qlkyd/index.m3u8",
                 "id": 1
@@ -3783,8 +3789,7 @@
         "summary": "阮思娴本是一名怀揣着飞行员梦想的空乘，却因恒世航空取消飞行员培训计划而受挫，更因与世航副总裁傅明予的误会毅然辞职，转去学飞。三年后，阮思娴以第一名成绩从飞行学院毕业，成为众大航司争夺的对象。在追求机长梦想的路上，阮思娴遭遇了各种考验，在公司改革中，傅明予也面临多重阻碍。两人在梦想与现实时碰撞中，情感逐渐升温，却又因各种误会与挑战而渐行渐远。最终，两人在相互支持与理解中，终于降落在彼此的心上。 ",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/b9kCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/dL9JrZje/index.m3u8",
                 "id": 1
@@ -3836,8 +3841,7 @@
         "summary": "长沙风云再起之时，张启山（陈伟霆 饰）与吴老狗（曾舜晞 饰）强强联手，携手霍仙姑（陈瑶 饰）与九门诸人共赴冒险奇局。一桩401部队的神秘失踪事件，牵出百年尘封的惊天秘辛。生死抉择、兄弟之情、门派担当与家国大义相互交织。九门众人用热血和牺牲，守护家园，共渡难关。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/e8BCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/aADMVA3e/index.m3u8",
                 "id": 1
@@ -4004,8 +4008,7 @@
         "summary": "该剧改编自猫腻同名畅销小说，承接上季，范闲（张若昀 饰）率领使团回归途中，二皇子以费介、范思辙以及滕家遗孤的安危来威胁范闲，逼他向自己俯首称臣，二人的矛盾就此激发。范闲所面对的抱月楼迷局，以及接踵而至的春闱危机，都是二皇子精心给范闲布下的陷阱。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/VUPCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/PdyQyqPd/index.m3u8",
                 "id": 1
@@ -4202,8 +4205,7 @@
         "summary": "九十年代初，东安市，重案六组成立前夕。省厅刑警曾克强因专案调入地方重案组，接手牺牲的战友刘华生前未竟的调查。大曾背负误解，一面融入新团队，一面暗中追查真相。东安市的犯罪势力暗流涌动，赵氏集团少东家赵彬以采砂船走私起家，贿赂官员，暴力垄断，为掩盖罪行接连杀害知情人。大曾以卧底姿态周旋，季洁以正面突破反制对方挑衅。在与赵氏集团周旋的过程中，六组成员接连并肩破获了连环爆炸复仇案，河道碎尸烹煮案，矿难骗保诈尸案，仙人跳杀人案，幽灵船惨案，神秘美女公路劫车案等奇案。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/q9kCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/bmZyxZAd/index.m3u8",
                 "id": 1
@@ -4350,8 +4352,7 @@
         "summary": "就读于职业中学培训部的花季女生苏琳（黄杨钿甜 饰），虽自小被父母忽视，在艰苦环境中长大，但她始终刻苦学习，憧憬未来。为此，苏琳苦练口语并争取到了英文朗诵剧中小美人鱼的角色，却不想遭到同学马娜（段钰 饰）的嫉妒。一次激烈冲突中，她意外掉入地下管道，生死不明。\n                                    \n                                　　而此时，与地下管道有关的卫红渠案也曝露在公众视野中，霎时，案件的侦查与苏琳的命运紧紧交织在一起。\n      ",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/1lBCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/eXDrZnVe/index.m3u8",
                 "id": 1
@@ -4478,8 +4479,7 @@
         "summary": "时为满清雍正元年，结束了血腥的夺位之争，新的君主（陈建斌 饰）继位，国泰民安，政治清明，但在一片祥和的表象之下，一股暗流蠢蠢欲动。尤其后宫，华妃（蒋欣 饰）与皇后（蔡少芬 饰）分庭抗礼，各方势力裹挟其中，凶险异常。在太后（刘雪华 饰）的主持下，一场盛大的选秀拉开帷幕。以 此为机缘，美丽善良的女孩——大理寺少卿甄远道长女甄嬛（孙俪 饰）意外得到雍正的赏识，从此步入皇宫。在皇后和华妃两方势力的夹击下，甄嬛小心周旋，忍辱负重，命悬一线。她不得不用自己的智慧保护自己，又一次次被卷入残酷的宫闱斗争之中……本片根据流潋紫的同名小说原著改编。©豆瓣",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/t9xCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/PdyPx9zb/index.m3u8",
                 "id": 1
@@ -4876,8 +4876,7 @@
         "summary": "故事发生在满清乾隆初年，少女魏璎珞（吴谨言 饰）随一众同龄秀女入选皇宫。璎珞美丽机敏，蕙质兰心，可是她入宫的初衷与其他女孩有所不同。由于姐姐被人杀害，璎珞决心进入紫禁城追查凶手。她误认为皇帝的弟弟傅恒...",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/wwFCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/1aKOJqra/index.m3u8",
                 "id": 1
@@ -5244,8 +5243,7 @@
         "summary": "新朋老友已就位，这场欢笑盛宴等你入席！",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/gIXCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第1期",
                 "source": "https://hn.bfvvs.com/play/qaQVD6Gb/index.m3u8",
                 "id": 1
@@ -5352,8 +5350,7 @@
         "summary": "三十万两黄金突现大漠，传言寻金之人皆成厉鬼。前来查案的锦衣卫，第一日便陷入疯癫；迷途不知返的忠胆副使，在欲念与信义之中沉沦；横遭灭门，百毒不侵的女子重返大漠，把自己捆绑成各方必争的焦点，决心复仇！大漠漫天黄沙的背后，隐藏着觊觎黄金的贪婪和引她入局的陷阱。驿站、镖局、将军府，大漠孤烟，一群江湖侠客，重新诠释东方神韵的武侠精神的故事。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/cbkCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/bqxZmR3a/index.m3u8",
                 "id": 1
@@ -5435,8 +5432,7 @@
         "summary": "生父是绑架犯，继父是刑警的刑辩律师（钟楚曦 饰），多年前遭人报复痛失妻儿的大法官（吴镇宇 饰），善用人心，游走灰色地带的邪魅律政精英（郑云龙 饰），三个孤独的陌生人在硬核案件的刑事辩护中互相博弈，却越发惺惺相惜，是对手也似亲人，螳螂捕蝉，黄雀在后，三人间，互为猎物，亦互为猎手，究竟谁才是黄雀，谁又是那只蛰伏十二年，只为自由鸣叫，收获一季响亮夏天的蝉？",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/GSkCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/dJ6QX82d/index.m3u8",
                 "id": 1
@@ -5558,8 +5554,7 @@
         "summary": "1941年冬，照相师陈开来在师父牺牲后，代其赴上海与地下党接头，路遇表面是舞厅头牌、实为军统特工的金宝，在其帮助下以照相馆为掩护开展潜伏。期间他结识身份各异的女子——汪伪特派员苏门、我党谍报人员沈克希。陈开来在多方势力间周旋斡旋，逐步成长为杰出的地下工作者，最终联合众人挫败日军“沉睡计划”。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/2LkCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/bkR7LOra/index.m3u8",
                 "id": 1
@@ -5686,8 +5681,7 @@
         "summary": "这是一段敬于才华，合于性格、久于平等的禁忌之恋。极具天盛的“鬼才”栾念与北漂伊始的尚之桃狭路相逢。热烈勇敢的尚之桃亦步亦趋地蜕变成长，撬碎了栾念世故坚硬的心防，互相吸引的二人在都市丛林中极限拉扯、分分合合。爱情，就是用光所有勇气，再无遗憾。爱，则是互相修复，共同成长。在情和爱之间，他逐渐收敛锋芒，她开始独当一面，势均力敌的他们将会为彼此写下新的结局……\n                                    \n                                　　该剧根据姑娘",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/sLkCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/azpXyk5d/index.m3u8",
                 "id": 1
@@ -5779,8 +5773,7 @@
         "summary": "五星大厨许多金辛苦大半辈子，退休时衣食无忧，准备告诉儿女们自己和黄昏恋女友马小芬的婚事，还打算完婚后周游世界，哪知他幸福的晚年生活却因为小儿子被骗巨款完全乱了套。尽管法律条文认定成年孩子的债务与他没有任何连带关系，但是，为了减轻小儿子的罪行，为了一份担当，许多金卖房打工，走上“子债父偿”的艰辛路。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/OghCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/axk11rBe/index.m3u8",
                 "id": 1
@@ -5947,8 +5940,7 @@
         "summary": "豪爽重情的私盐贩子赵凌虽出身草莽，却心怀壮志，他结识了遭人诬陷私通的世家名媛小姐傅庭芸，被迫一起逃亡，二人历经家族与朝廷的重重考验，与命运抗争，终成传奇良缘。\n                                    \n                                　　剧集改编自吱吱同名言情小说《花开锦绣》。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/YlhCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/eVO78xMa/index.m3u8",
                 "id": 1
@@ -6145,8 +6137,7 @@
         "summary": "故事以红叶市公安局宣传处副处长谭彦的“职场危机”为切入点，从宣传民警转战特警支队担任政委，一直拿笔杆子的谭彦从宣传岗位投身实战前线，一时间陷入秀才遇到兵有理说不清的处境，与深扎一线浑身荷尔蒙爆棚的特警支队长廖不凡从矛盾、磨合到融合，在协助专案组破获大案的过程里重拾职业理想。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/lohCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第01集",
                 "source": "https://hn.bfvvs.com/play/bW6qWNWa/index.m3u8",
                 "id": 1
@@ -6278,8 +6269,7 @@
         "summary": "《我们的少年时代2》讲述了开学季，宜北篮球社濒临解散，付彬言、李浩宇、徐安博、陈颂，谢逸舟、顾晨阳、周扬、林清源等人因不同原因陆续加入，保住了这支不被看好的队伍。伙伴们在球赛中应对挑战，在磨合中爆发出潜力，又在音乐秘密基地拉近距离。大家逐渐从队友变成挚友，生出团魂，陪伴彼此完成与家庭的和解，收获了青春的成长。 ",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/C3hCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/av2ZYD5a/index.m3u8",
                 "id": 1
@@ -6456,8 +6446,7 @@
         "summary": "故事始于改革开放初期，一直延续到 1997 年《刑诉法》《刑法》修订。主要人物包括陈一众、余高远、张丽慧、夏英杰等法学院毕业生。讲述了他们毕业后进入了司法领域不同的部门，在如火如荼的司法实践中见证历史、参与历史、与时俱进、不断成长的故事。五人出身不同、个性迥异，在十几年的工作和生活中历经浮沉，走上不同的道路。本剧从整体司法进程的独特视角出发，同时聚集公检法律行业人物，呈现了波澜壮阔的法治历史和大时代中交织交错的人物命运。",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/kmhCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/erk9Zwpa/index.m3u8",
                 "id": 1
@@ -6639,8 +6628,7 @@
         "summary": "陆早早突遭意外，竟穿越成民国少夫人苏沐晚，醒来，却是丈夫枪口相对、父母冤案、连环下毒……她于绝境中步步破局，与“醋精”少爷凌慎行从生死对立到情根深重，可就在浓情蜜意时，她骤然梦醒归现代，转角竟撞见那个熟悉的“他”！",
         "type": "电视剧",
         "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/ClhCCS.html?ac=detail",
-        "episodeList": [
-            {
+        "episodeList": [{
                 "title": "第1集",
                 "source": "https://hn.bfvvs.com/play/erkmQWKa/index.m3u8",
                 "id": 1
