@@ -1,5 +1,51 @@
 [
     {
+        "id": 211,
+        "title": "唐探1900",
+        "originalTitle": "",
+        "year": "2025",
+        "rating": "6.7",
+        "cast": "[\"王宝强\",\"刘昊然\",\"周润发\",\"白客\",\"张新成\",\"岳云鹏\",\"约翰·库萨克\",\"太保\",\"王雨甜\",\"张傲月\",\"柯国庆\",\"萨姆·海登·史密斯\",\"肖恩·科恩克\",\"暗真\",\"魏翔\",\"尹正\",\"安娜\",\"奚美娟\",\"李诚儒\",\"小沈阳\",\"冯文娟\",\"桑平\",\"曹瑞\",\"王皓\",\"陈创\",\"蒋易\",\"李宛妲\"]",
+        "category": "movie",
+        "genre": "[\" 喜剧\",\"动作\",\"悬疑\",\"喜剧片\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/caae0b09994b2402126963ee7bd88615.jpg",
+        "summary": "1900年，在美国旧金山唐人街，华裔印第安猎人阿鬼（王宝强 饰）与留美青年秦福（刘昊然 饰）因一场凶杀案偶然结识，误打误撞组成“唐人街神探”组合。开启了一场笑闹探案之旅……",
+        "type": "电影",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/fv4CCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/mbkGN7Xb/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
+        "id": 210,
+        "title": "南京照相馆",
+        "originalTitle": "",
+        "year": "2025",
+        "rating": "8.6",
+        "cast": "[\"刘昊然\",\"王传君\",\"高叶\",\"王骁\",\"周游\",\"杨恩又\",\"原岛大地\",\"王真儿\",\"杨皓宇\",\"刘亦淳\"]",
+        "category": "movie",
+        "genre": "[\" 剧情\",\"历史\",\"战争\",\"剧情片\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/cbd50311b4c3b17dbfd5b3ab0096c145.jpg",
+        "summary": "影片故事取材于南京大屠杀期间日军真实罪证影像。一群生活在南京的百姓躲在吉祥照相馆中避难，为了尽可能的多活一日，他们被迫帮助日军摄影师冲洗底片，却意外冲印出了能证明日军屠城的罪证照片。他们原本只想在大屠杀中保命活下去，面对日军在南京城内的暴行，他们决定让这些底片留存下去……",
+        "type": "电影",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/IgTCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/kazV8y2a/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 209,
         "title": "周处除三害",
         "originalTitle": "",
