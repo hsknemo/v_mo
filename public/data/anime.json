@@ -1,54 +1,49 @@
 [
     {
-        "id": 1,
-        "title": "三角洲：造物主玩家",
-        "year": "2026",
-        "rating": "0.0",
+        "id": 213,
+        "title": "雄狮少年",
+        "originalTitle": "",
+        "year": "2021",
+        "rating": "8.3",
+        "cast": "[\"大昕\",\"大雄\",\"郭皓\",\"李盟\",\"李佳思\",\"蔡壮壮\",\"马语非\",\"熊陈捷\",\"巴赫\",\"大澄子\",\"付博文\",\"秋木\"]",
         "category": "tv",
-        "genre": [
-            "冒险",
-            "竞技",
-            "中国动漫"
-        ],
-        "episodes": "更新至6集",
-        "director": "",
-        "cast": [
-            ""
-        ],
-        "summary": "游戏设计师昊宇穿越进自设游戏，凭造物主般实力折服林晓，联手主播富坤组成 “夜龙” 铁三角。为救重病母亲争夺呼吸机，闯险境横扫校际赛场，强忍穿越后遗症对抗暮鸦会，力克内鬼强敌，拿下世界赛资格踏上全新战场。",
-        "poster": "https://hongniuzyimage.com/cover/ff2c3bbadf1c388fd582423adddaf94a.jpg",
+        "genre": "[\" 中国大陆\",\"动画\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/upload/vod/20220204-1/e185ddc6d6ba9ef91ee79e1cf63d61ba.jpg",
+        "summary": "本片讲述了留守少年阿娟和好友阿猫、阿狗在退役狮王咸鱼强的培训下参加舞狮比赛，经过重重磨砺，从病猫变成雄狮的成长故事。",
+        "type": "动漫",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/SCFCCS.html?ac=detail",
         "episodeList": [
             {
-                "id": 1,
-                "title": "第1集",
-                "source": "https://hn.bfvvs.com/play/aQW6Zx9d/index.m3u8"
-            },
-            {
-                "id": 2,
-                "title": "第2集",
-                "source": "https://hn.bfvvs.com/play/elY2jyMa/index.m3u8"
-            },
-            {
-                "id": 3,
-                "title": "第3集",
-                "source": "https://hn.bfvvs.com/play/aKrLKoxe/index.m3u8"
-            },
-            {
-                "id": 4,
-                "title": "第4集",
-                "source": "https://hn.bfvvs.com/play/e5yLlB8e/index.m3u8"
-            },
-            {
-                "id": 5,
-                "title": "第5集",
-                "source": "https://hn.bfvvs.com/play/dBB68kYd/index.m3u8"
-            },
-            {
-                "id": 6,
-                "title": "第6集",
-                "source": "https://hn.bfvvs.com/play/bkR7wA6a/index.m3u8"
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/lejZwqye/index.m3u8",
+                "id": 1
             }
-        ]
+        ],
+        "episodes": "完结"
+    },
+    {
+        "id": 212,
+        "title": "雄狮少年2",
+        "originalTitle": "",
+        "year": "2024",
+        "rating": "8.4",
+        "cast": "[\"李昕\",\"郭皓\",\"陈业雄\",\"蔡欣然\",\"王一郎\",\"张杰\"]",
+        "category": "tv",
+        "genre": "[\" 喜剧\",\"动作\",\"动画\",\"动画片\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/735121f06e250a3ec34d60ef449db57f.jpg",
+        "summary": "来上海打工的无名之辈阿娟（李昕 配音），为了赚钱给父亲治病，同意代表没落的传武拳馆参加“上海格斗之夜”武术比赛，为此他必须战胜所有的高手、偏见和自己。",
+        "type": "动漫",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/tNtCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/NbWZw04a/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
     },
     {
         "id": 1,
