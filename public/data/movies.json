@@ -1,5 +1,28 @@
 [
     {
+        "id": 173,
+        "title": "小气鬼2026",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"孟鹤堂\",\"管乐\"]",
+        "category": "movie",
+        "genre": "[\" 剧情\",\"喜剧\",\"剧情片\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/249bcee88ca31229c432e0a0517e4e82.jpg",
+        "summary": "民乐团唢呐手高艺（孟鹤堂）自卑寡言、独居吝啬。一名母亲将男孩阿乌（吴笛畅）托付给他后离奇消失，老高只能临时照看孩子。与此同时，他对大提琴手温兰（管乐）一见钟情。历经啼笑皆非的分分合合，高艺固守多年的金钱观念与人生态度，在不知不觉中慢慢改变。",
+        "type": "电影",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/wdkCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/bYE5Glnb/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 166,
         "title": "捕风追影 普通话版",
         "originalTitle": "",
