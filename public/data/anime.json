@@ -1,5 +1,278 @@
 [
     {
+        "id": 243,
+        "title": "铁甲小宝 重制版 普通话",
+        "originalTitle": "",
+        "year": "2024",
+        "rating": "0.0",
+        "cast": "[\"\"]",
+        "category": "tv",
+        "genre": "[\" 搞笑\",\"日常\",\"热血\",\"日本动漫\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/e772e5febdc3775a7c71d2d5514c1f1d.jpg",
+        "summary": "高円寺让在整理搬家物品时，打开了爷爷留下来的旧物，无意间唤醒了B系列机器人卡布达，并由此得知，地球上有13个被称为“和平星”的东西，找到它们并聚集在一起，就能为人类带来希望与理想，同时，每个和平星都能实现一个愿望。于是，小让与卡布达踏上了寻找和平星的道路，并结识了金龟次郎、田德丽娜、丸子龙等另外几只爷爷制作的B系列机器人伙伴，一起与邪恶的B系列机器人蟑螂恶霸3人组展开了“和平星争夺战”……",
+        "type": "动漫",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/t8wCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "第1集",
+                "source": "https://hn.bfvvs.com/play/ZdPyn8We/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "第2集",
+                "source": "https://hn.bfvvs.com/play/QbYLzRna/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第3集",
+                "source": "https://hn.bfvvs.com/play/QdJp4RPa/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "第4集",
+                "source": "https://hn.bfvvs.com/play/kazOromb/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "第5集",
+                "source": "https://hn.bfvvs.com/play/6dBZlpod/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "第6集",
+                "source": "https://hn.bfvvs.com/play/9av0Kwnd/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "第7集",
+                "source": "https://hn.bfvvs.com/play/PdRNgDqd/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第8集",
+                "source": "https://hn.bfvvs.com/play/Qe1LjPRd/index.m3u8",
+                "id": 8
+            },
+            {
+                "title": "第9集",
+                "source": "https://hn.bfvvs.com/play/kazk98Zb/index.m3u8",
+                "id": 9
+            },
+            {
+                "title": "第10集",
+                "source": "https://hn.bfvvs.com/play/zbq1DE0b/index.m3u8",
+                "id": 10
+            },
+            {
+                "title": "第11集",
+                "source": "https://hn.bfvvs.com/play/vbm5Xgrb/index.m3u8",
+                "id": 11
+            },
+            {
+                "title": "第12集",
+                "source": "https://hn.bfvvs.com/play/Pe9WXPZb/index.m3u8",
+                "id": 12
+            },
+            {
+                "title": "第13集",
+                "source": "https://hn.bfvvs.com/play/PdRN7OEd/index.m3u8",
+                "id": 13
+            },
+            {
+                "title": "第14集",
+                "source": "https://hn.bfvvs.com/play/Qe1LDWmd/index.m3u8",
+                "id": 14
+            },
+            {
+                "title": "第15集",
+                "source": "https://hn.bfvvs.com/play/zbq1nppb/index.m3u8",
+                "id": 15
+            },
+            {
+                "title": "第16集",
+                "source": "https://hn.bfvvs.com/play/kazkz4yb/index.m3u8",
+                "id": 16
+            },
+            {
+                "title": "第17集",
+                "source": "https://hn.bfvvs.com/play/Le3NDXpd/index.m3u8",
+                "id": 17
+            },
+            {
+                "title": "第18集",
+                "source": "https://hn.bfvvs.com/play/Pe9WMNzb/index.m3u8",
+                "id": 18
+            },
+            {
+                "title": "第19集",
+                "source": "https://hn.bfvvs.com/play/QdJBBGPd/index.m3u8",
+                "id": 19
+            },
+            {
+                "title": "第20集",
+                "source": "https://hn.bfvvs.com/play/ZdPLLXWd/index.m3u8",
+                "id": 20
+            },
+            {
+                "title": "第21集",
+                "source": "https://hn.bfvvs.com/play/xe7REYjd/index.m3u8",
+                "id": 21
+            },
+            {
+                "title": "第22集",
+                "source": "https://hn.bfvvs.com/play/mbk1YX5e/index.m3u8",
+                "id": 22
+            },
+            {
+                "title": "第23集",
+                "source": "https://hn.bfvvs.com/play/xe7RjBjd/index.m3u8",
+                "id": 23
+            },
+            {
+                "title": "第24集",
+                "source": "https://hn.bfvvs.com/play/mbk1yW5e/index.m3u8",
+                "id": 24
+            },
+            {
+                "title": "第25集",
+                "source": "https://hn.bfvvs.com/play/mbk35xJb/index.m3u8",
+                "id": 25
+            },
+            {
+                "title": "第26集",
+                "source": "https://hn.bfvvs.com/play/xe7G6xQe/index.m3u8",
+                "id": 26
+            },
+            {
+                "title": "第27集",
+                "source": "https://hn.bfvvs.com/play/Le3AQN4b/index.m3u8",
+                "id": 27
+            },
+            {
+                "title": "第28集",
+                "source": "https://hn.bfvvs.com/play/NbWGLV4b/index.m3u8",
+                "id": 28
+            },
+            {
+                "title": "第29集",
+                "source": "https://hn.bfvvs.com/play/neg37gYe/index.m3u8",
+                "id": 29
+            },
+            {
+                "title": "第30集",
+                "source": "https://hn.bfvvs.com/play/xbo5Aqje/index.m3u8",
+                "id": 30
+            },
+            {
+                "title": "第31集",
+                "source": "https://hn.bfvvs.com/play/9av3DVnb/index.m3u8",
+                "id": 31
+            },
+            {
+                "title": "第32集",
+                "source": "https://hn.bfvvs.com/play/6dBWQ3oe/index.m3u8",
+                "id": 32
+            },
+            {
+                "title": "第33集",
+                "source": "https://hn.bfvvs.com/play/NbWGvGJb/index.m3u8",
+                "id": 33
+            },
+            {
+                "title": "第34集",
+                "source": "https://hn.bfvvs.com/play/0dNvjv6d/index.m3u8",
+                "id": 34
+            },
+            {
+                "title": "第35集",
+                "source": "https://hn.bfvvs.com/play/xe7Gwlre/index.m3u8",
+                "id": 35
+            },
+            {
+                "title": "第36集",
+                "source": "https://hn.bfvvs.com/play/Qe1yn5Pe/index.m3u8",
+                "id": 36
+            },
+            {
+                "title": "第37集",
+                "source": "https://hn.bfvvs.com/play/oeEjL44a/index.m3u8",
+                "id": 37
+            },
+            {
+                "title": "第38集",
+                "source": "https://hn.bfvvs.com/play/0dNvo4Nd/index.m3u8",
+                "id": 38
+            },
+            {
+                "title": "第39集",
+                "source": "https://hn.bfvvs.com/play/QbYKAWWe/index.m3u8",
+                "id": 39
+            },
+            {
+                "title": "第40集",
+                "source": "https://hn.bfvvs.com/play/ZdPxoZ2d/index.m3u8",
+                "id": 40
+            },
+            {
+                "title": "第41集",
+                "source": "https://hn.bfvvs.com/play/mbk3mKEb/index.m3u8",
+                "id": 41
+            },
+            {
+                "title": "第42集",
+                "source": "https://hn.bfvvs.com/play/zbq3v5Ge/index.m3u8",
+                "id": 42
+            },
+            {
+                "title": "第43集",
+                "source": "https://hn.bfvvs.com/play/7e5DN5Bd/index.m3u8",
+                "id": 43
+            },
+            {
+                "title": "第44集",
+                "source": "https://hn.bfvvs.com/play/neg3mzYe/index.m3u8",
+                "id": 44
+            },
+            {
+                "title": "第45集",
+                "source": "https://hn.bfvvs.com/play/7ax3Z6Je/index.m3u8",
+                "id": 45
+            },
+            {
+                "title": "第46集",
+                "source": "https://hn.bfvvs.com/play/oeEjNqNa/index.m3u8",
+                "id": 46
+            },
+            {
+                "title": "第47集",
+                "source": "https://hn.bfvvs.com/play/neggYEDe/index.m3u8",
+                "id": 47
+            },
+            {
+                "title": "第48集",
+                "source": "https://hn.bfvvs.com/play/xboqRlke/index.m3u8",
+                "id": 48
+            },
+            {
+                "title": "第49集",
+                "source": "https://hn.bfvvs.com/play/wdLov8gb/index.m3u8",
+                "id": 49
+            },
+            {
+                "title": "第50集",
+                "source": "https://hn.bfvvs.com/play/PdRxPoLa/index.m3u8",
+                "id": 50
+            },
+            {
+                "title": "第51集完结",
+                "source": "https://hn.bfvvs.com/play/xe75Ak8b/index.m3u8",
+                "id": 51
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 242,
         "title": "迪迦奥特曼",
         "originalTitle": "",
