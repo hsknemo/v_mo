@@ -1,5 +1,58 @@
 [
     {
+        "id": 172,
+        "title": "囧徒之预演告别",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"贾冰\",\"田嘉瑞\"]",
+        "category": "tv",
+        "genre": "[\" 剧情\",\"喜剧\",\"内地剧\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/9fff279c396ab84db6f49570998d45d0.jpg",
+        "summary": "方浩文的笔是欢喜市最廉价的武器，写不出最畅销的书，却能刺穿最荒诞的现实。女企业家金芙蓉的赏识让他一朝成名，又在拒绝求爱后跌落云端。一场醉酒坠楼，一场“自杀”闹剧，将他推上流量时代的风口浪尖——前经纪人怂恿他“用死亡换销量”翻红网络。而狂热书粉别凡的出现，彻底打乱了这场精心策划的直播骗局，“囧徒”组合由此诞生——过气作家带着中二粉丝开启“求生不得求死不能”的疯癫之旅。",
+        "type": "电视剧",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/WRkCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "第01集",
+                "source": "https://hn.bfvvs.com/play/bkR71Q5a/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "第02集",
+                "source": "https://hn.bfvvs.com/play/bqxZ1R2a/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第03集",
+                "source": "https://hn.bfvvs.com/play/azpXkPYd/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "第04集",
+                "source": "https://hn.bfvvs.com/play/e1w4Lrjb/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "第05集",
+                "source": "https://hn.bfvvs.com/play/dNk0Jmze/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "第06集",
+                "source": "https://hn.bfvvs.com/play/dR61NQYd/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "第07集",
+                "source": "https://hn.bfvvs.com/play/dPNQvWna/index.m3u8",
+                "id": 7
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 171,
         "title": "师兄太稳健",
         "originalTitle": "",
