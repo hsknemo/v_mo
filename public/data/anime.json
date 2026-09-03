@@ -1,5 +1,68 @@
 [
     {
+        "id": 256,
+        "title": "雪王来了！",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"\"]",
+        "category": "tv",
+        "genre": "[\" 原创\",\"搞笑\",\"日常\",\"萌系\",\"中国动漫\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/feabaad0fa2e8df89c5180532cb7ff35.jpg",
+        "summary": "雪王来到陌生都市，结识了本地朋友来萌和“都市侠”冰冰。三人阴差阳错间，共同守护起一处小摊。每个路过的人似乎都带着待解决的烦恼，于是三人展开了替人排忧解难的日常——虽然方法天马行空，结局也时常跑偏，但总有欢笑与温情相伴而来。",
+        "type": "动漫",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/ZqkCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "第1集",
+                "source": "https://hn.bfvvs.com/play/dNk01w6e/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "第2集",
+                "source": "https://hn.bfvvs.com/play/bW6qBJJa/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第3集",
+                "source": "https://hn.bfvvs.com/play/bo2yJzja/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "第4集",
+                "source": "https://hn.bfvvs.com/play/axk1jM9e/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "第5集",
+                "source": "https://hn.bfvvs.com/play/egJ2XoYd/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "第6集",
+                "source": "https://hn.bfvvs.com/play/eERxQkva/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "第7集",
+                "source": "https://hn.bfvvs.com/play/dJ6Q9yJd/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第8集",
+                "source": "https://hn.bfvvs.com/play/e31wxB4b/index.m3u8",
+                "id": 8
+            },
+            {
+                "title": "第9集",
+                "source": "https://hn.bfvvs.com/play/bkR7m16a/index.m3u8",
+                "id": 9
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 255,
         "title": "时光代理人第三季",
         "originalTitle": "",
