@@ -1,5 +1,208 @@
 [
     {
+        "id": 268,
+        "title": "赘婿",
+        "originalTitle": "",
+        "year": "2021",
+        "rating": "6.0",
+        "cast": "[\"郭麒麟\",\"宋轶\",\"蒋依依\",\"高曙光\",\"海一天\",\"尚语贤\",\"朱珠\",\"张若昀\",\"田雨\",\"岳旸\",\"刘冠麟\",\"冯晖\",\"王成思\",\"叶项明\",\"赵柯\",\"曹曦月\",\"刘已航\",\"钱波\",\"黄澄澄\",\"李彧\",\"戴向宇\",\"胡丹丹\",\"沈浩\",\"崔鹏\",\"王丽娜\",\"温海波\",\"姚一奇\",\"魏子昕\",\"鹿骐\",\"刘小北\",\"姜健\",\"张晓晨\"]",
+        "category": "tv",
+        "genre": "[\" 内地\",\"剧情\",\"古装\",\"内地剧\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/620d348d4551ea2870e4cb602881a1d8.jpg",
+        "summary": "剧集讲述了苏氏布商家的赘婿宁毅，帮助妻子苏檀儿一起搞事业，玩转武朝商界，成为江宁首富的故事；宁毅面对家事、国事、天下事，都勇往直前，从一个无人在意的小小赘婿，成长为真正为天下立心，为生民立命，顺应时代，也改变了时代的大人物。",
+        "type": "电视剧",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/MeyCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "第1集",
+                "source": "https://hn.bfvvs.com/play/Yer0BJBb/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "第2集",
+                "source": "https://hn.bfvvs.com/play/Pdy870zb/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第3集",
+                "source": "https://hn.bfvvs.com/play/DbDR6zAe/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "第4集",
+                "source": "https://hn.bfvvs.com/play/1aKOz0la/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "第5集",
+                "source": "https://hn.bfvvs.com/play/YaO7LOBa/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "第6集",
+                "source": "https://hn.bfvvs.com/play/5eVmoYBd/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "第7集",
+                "source": "https://hn.bfvvs.com/play/QeZ4v32b/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第8集",
+                "source": "https://hn.bfvvs.com/play/Rb48V5gb/index.m3u8",
+                "id": 8
+            },
+            {
+                "title": "第9集",
+                "source": "https://hn.bfvvs.com/play/yb8qWm2d/index.m3u8",
+                "id": 9
+            },
+            {
+                "title": "第9集",
+                "source": "https://hn.bfvvs.com/play/RdGx6w0e/index.m3u8",
+                "id": 10
+            },
+            {
+                "title": "第10集",
+                "source": "https://hn.bfvvs.com/play/lej25yYe/index.m3u8",
+                "id": 11
+            },
+            {
+                "title": "第11集",
+                "source": "https://hn.bfvvs.com/play/penZ7DYe/index.m3u8",
+                "id": 12
+            },
+            {
+                "title": "第12集",
+                "source": "https://hn.bfvvs.com/play/Yer0BKBb/index.m3u8",
+                "id": 13
+            },
+            {
+                "title": "第13集",
+                "source": "https://hn.bfvvs.com/play/Pdy87Rzb/index.m3u8",
+                "id": 14
+            },
+            {
+                "title": "第14集",
+                "source": "https://hn.bfvvs.com/play/DbDR6BAe/index.m3u8",
+                "id": 15
+            },
+            {
+                "title": "第15集",
+                "source": "https://hn.bfvvs.com/play/1aKOzMla/index.m3u8",
+                "id": 16
+            },
+            {
+                "title": "第16集",
+                "source": "https://hn.bfvvs.com/play/YaO7LQBa/index.m3u8",
+                "id": 17
+            },
+            {
+                "title": "第17集",
+                "source": "https://hn.bfvvs.com/play/QeZ4v52b/index.m3u8",
+                "id": 18
+            },
+            {
+                "title": "第18集",
+                "source": "https://hn.bfvvs.com/play/Rb48Vggb/index.m3u8",
+                "id": 19
+            },
+            {
+                "title": "第19集",
+                "source": "https://hn.bfvvs.com/play/yb8qWw2d/index.m3u8",
+                "id": 20
+            },
+            {
+                "title": "第20集",
+                "source": "https://hn.bfvvs.com/play/lej25GYe/index.m3u8",
+                "id": 21
+            },
+            {
+                "title": "第21集",
+                "source": "https://hn.bfvvs.com/play/penZ7MYe/index.m3u8",
+                "id": 22
+            },
+            {
+                "title": "第22集",
+                "source": "https://hn.bfvvs.com/play/Yer0BQBb/index.m3u8",
+                "id": 23
+            },
+            {
+                "title": "第23集",
+                "source": "https://hn.bfvvs.com/play/lej25GBe/index.m3u8",
+                "id": 24
+            },
+            {
+                "title": "第24集",
+                "source": "https://hn.bfvvs.com/play/penZ7MPe/index.m3u8",
+                "id": 25
+            },
+            {
+                "title": "第25集",
+                "source": "https://hn.bfvvs.com/play/Yer0BQWb/index.m3u8",
+                "id": 26
+            },
+            {
+                "title": "第26集",
+                "source": "https://hn.bfvvs.com/play/Pdy871gb/index.m3u8",
+                "id": 27
+            },
+            {
+                "title": "第27集",
+                "source": "https://hn.bfvvs.com/play/DbDR6M5e/index.m3u8",
+                "id": 28
+            },
+            {
+                "title": "第28集",
+                "source": "https://hn.bfvvs.com/play/1aKOzWJa/index.m3u8",
+                "id": 29
+            },
+            {
+                "title": "第29集",
+                "source": "https://hn.bfvvs.com/play/YaO7L1Qa/index.m3u8",
+                "id": 30
+            },
+            {
+                "title": "第30集",
+                "source": "https://hn.bfvvs.com/play/QeZ4vq8b/index.m3u8",
+                "id": 31
+            },
+            {
+                "title": "第31集",
+                "source": "https://hn.bfvvs.com/play/yb8qWPWd/index.m3u8",
+                "id": 32
+            },
+            {
+                "title": "第32集",
+                "source": "https://hn.bfvvs.com/play/lej257Be/index.m3u8",
+                "id": 33
+            },
+            {
+                "title": "第33集",
+                "source": "https://hn.bfvvs.com/play/penZ7nPe/index.m3u8",
+                "id": 34
+            },
+            {
+                "title": "第34集",
+                "source": "https://hn.bfvvs.com/play/Yer0ByWb/index.m3u8",
+                "id": 35
+            },
+            {
+                "title": "第35集",
+                "source": "https://hn.bfvvs.com/play/Pdy87Qgb/index.m3u8",
+                "id": 36
+            },
+            {
+                "title": "第36集",
+                "source": "https://hn.bfvvs.com/play/DbDR6p5e/index.m3u8",
+                "id": 37
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 267,
         "title": "生万物",
         "originalTitle": "",
