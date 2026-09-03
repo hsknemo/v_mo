@@ -1,5 +1,118 @@
 [
     {
+        "id": 214,
+        "title": "一饭封神第二季",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"谢霆锋\",\"张勇\",\"郑永麒\",\"陈晓卿\",\"李诞\"]",
+        "category": "tv",
+        "genre": "[\" 美食竞技\",\"大陆综艺\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/5a2dfbb1d96bc21ce0b959097117d2e0.jpg",
+        "summary": "一场残酷赛制和美食故事并存的厨师封神之战",
+        "type": "综艺",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/M6BCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "先导片",
+                "source": "https://hn.bfvvs.com/play/en5g1NRd/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "第1期上",
+                "source": "https://hn.bfvvs.com/play/aM8JG5Ae/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第1期中",
+                "source": "https://hn.bfvvs.com/play/bDkQvJxa/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "260730直播回放",
+                "source": "https://hn.bfvvs.com/play/bDkQgrxa/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "第1期下",
+                "source": "https://hn.bfvvs.com/play/epYky1pa/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "准备开饭",
+                "source": "https://hn.bfvvs.com/play/b68BPoLe/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "第2期下",
+                "source": "https://hn.bfvvs.com/play/b68Bn29e/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第2期上",
+                "source": "https://hn.bfvvs.com/play/aM8JMW5e/index.m3u8",
+                "id": 8
+            },
+            {
+                "title": "第3期上",
+                "source": "https://hn.bfvvs.com/play/dL9J74Xe/index.m3u8",
+                "id": 9
+            },
+            {
+                "title": "第3期下",
+                "source": "https://hn.bfvvs.com/play/dNk0O48e/index.m3u8",
+                "id": 10
+            },
+            {
+                "title": "彩蛋梦幻联动",
+                "source": "https://hn.bfvvs.com/play/dL9JW64e/index.m3u8",
+                "id": 11
+            },
+            {
+                "title": "第3期",
+                "source": "https://hn.bfvvs.com/play/dR61jYRd/index.m3u8",
+                "id": 12
+            },
+            {
+                "title": "彩蛋1",
+                "source": "https://hn.bfvvs.com/play/bYE5q6pb/index.m3u8",
+                "id": 13
+            },
+            {
+                "title": "第4期下",
+                "source": "https://hn.bfvvs.com/play/bo2yJ0Ya/index.m3u8",
+                "id": 14
+            },
+            {
+                "title": "20260820彩蛋",
+                "source": "https://hn.bfvvs.com/play/e5yL0EXe/index.m3u8",
+                "id": 15
+            },
+            {
+                "title": "第4期上",
+                "source": "https://hn.bfvvs.com/play/egJ2XrZd/index.m3u8",
+                "id": 16
+            },
+            {
+                "title": "第5期上",
+                "source": "https://hn.bfvvs.com/play/bkR7L1Xa/index.m3u8",
+                "id": 17
+            },
+            {
+                "title": "第5期下",
+                "source": "https://hn.bfvvs.com/play/bmZy9xrd/index.m3u8",
+                "id": 18
+            },
+            {
+                "title": "第6期上",
+                "source": "https://hn.bfvvs.com/play/e73X5Yje/index.m3u8",
+                "id": 19
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 153,
         "title": "哈哈哈哈哈第六季",
         "originalTitle": "",
