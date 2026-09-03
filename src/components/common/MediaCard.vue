@@ -13,6 +13,14 @@
         <el-icon><Star /></el-icon>
         {{ Number(item.rating).toFixed(1) }}
       </span>
+      <button
+        v-if="sourceType"
+        class="fav-btn"
+        :class="{ active: isFav }"
+        @click.stop="onFavClick"
+      >
+        <el-icon><StarFilled v-if="isFav" /><Star v-else /></el-icon>
+      </button>
     </div>
     <div class="info">
       <h3 class="title">{{ item.title }}</h3>
@@ -30,13 +38,26 @@
 
 <script setup>
 import { computed } from 'vue'
-import { Star } from '@element-plus/icons-vue'
+import { Star, StarFilled } from '@element-plus/icons-vue'
+import { useFavorites } from '@/composables/useFavorites'
 
 const props = defineProps({
-  item: { type: Object, required: true }
+  item: { type: Object, required: true },
+  sourceType: { type: String, default: '' }
 })
 
 defineEmits(['click'])
+
+const { isFavorited, toggleFavorite } = useFavorites()
+
+const isFav = computed(() => {
+  if (!props.sourceType) return false
+  return isFavorited(props.sourceType, props.item.id)
+})
+
+function onFavClick() {
+  toggleFavorite(props.item, props.sourceType)
+}
 
 const displayGenres = computed(() => {
   const g = props.item.genre || []
@@ -112,6 +133,37 @@ function onImgError(e) {
 
   .el-icon {
     font-size: 12px;
+  }
+}
+
+.fav-btn {
+  position: absolute;
+  bottom: $space-sm;
+  right: $space-sm;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: none;
+  background: rgba(0, 0, 0, 0.55);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background 0.2s ease, transform 0.2s ease;
+
+  .el-icon {
+    font-size: 16px;
+  }
+
+  &:hover {
+    background: rgba(0, 0, 0, 0.75);
+    transform: scale(1.12);
+  }
+
+  &.active {
+    background: var(--gradient-brand);
+    color: #fff;
   }
 }
 

@@ -14,6 +14,12 @@ export default {
     { name: "anime", path: "/anime", label: "动漫", component: "AnimeView" },
     { name: "food", path: "/food", label: "下饭", component: "FoodView" },
     { name: "live", path: "/live", label: "直播", component: "LiveView" },
+    {
+      name: "favorites",
+      path: "/favorites",
+      label: "爱看",
+      component: "FavoritesView",
+    },
     { name: "reward", path: "/reward", label: "赞赏", component: "RewardView" },
     {
       name: "contact",

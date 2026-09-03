@@ -152,7 +152,7 @@ const {
 } = usePagePassword()
 
 // 免密码页面：赞赏、联系我、首页（电影）
-const FREE_PAGES = ['reward', 'contact', 'movie']
+const FREE_PAGES = ['reward', 'contact', 'movie', 'favorites']
 
 const isProtectedPage = computed(() => {
   const n = route.name

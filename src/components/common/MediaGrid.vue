@@ -19,6 +19,7 @@
         v-for="item in items"
         :key="item.id"
         :item="item"
+        :source-type="sourceType"
         @click="$emit('select', item)"
       />
     </div>
@@ -32,7 +33,8 @@ import MediaCard from './MediaCard.vue'
 
 defineProps({
   items: { type: Array, default: () => [] },
-  loading: { type: Boolean, default: false }
+  loading: { type: Boolean, default: false },
+  sourceType: { type: String, default: '' }
 })
 
 defineEmits(['select'])

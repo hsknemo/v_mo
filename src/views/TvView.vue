@@ -28,6 +28,7 @@
       v-show="!error && (loading || filtered.length > 0)"
       :items="filtered"
       :loading="loading"
+      source-type="tv"
       @select="goPlay"
     />
   </div>
