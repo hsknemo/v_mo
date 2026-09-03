@@ -1,5 +1,153 @@
 [
     {
+        "id": 244,
+        "title": "鬼灭之刃",
+        "originalTitle": "",
+        "year": "2019",
+        "rating": "9.1",
+        "cast": "[\"花江夏树\",\"鬼头明里\",\"下野纮\",\"松冈祯丞\",\"冈本信彦\",\"上田丽奈\",\"大塚芳忠\",\"浪川大辅\",\"樱井孝宏\",\"早见沙织\",\"日野聪\",\"小西克幸\",\"花泽香菜\",\"河西健吾\",\"杉田智和\",\"铃村健一\",\"关智一\",\"森川智之\",\"悠木碧\",\"井泽诗织\",\"小泽亚李\",\"花守由美里\",\"关俊彦\",\"绿川光\",\"子安武人\",\"丰崎爱生\",\"木村良平\",\"福山润\",\"小松未可子\",\"坂本真绫\",\"山下大辉\",\"诹访部顺一\",\"平川大辅\",\"楠大典\",\"保志总一朗\",\"植田佳奈\",\"内山昂辉\",\"大桥贤一郎\",\"稻田彻\",\"小清水亚美\",\"森久保祥太郎\",\"白石凉子\",\"伊藤加奈惠\",\"桑谷夏子\",\"立花慎之介\",\"三木真一郎\",\"桑岛法子\",\"佐藤聪美\",\"大地叶\",\"本渡枫\",\"小原好美\",\"\"]",
+        "category": "tv",
+        "genre": "[\" 动画\",\"奇幻\",\"日本动漫\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/c45b876541ee45037b6ba8c7af1608ac.jpg",
+        "summary": "电视动画《鬼灭之刃》改编自吾峠呼世晴创作的同名漫画，于2018年6月4日在《周刊少年JUMP》2018年6月第27号上发表了动画化的消息。动画由ufotable负责制作。 于2019年4月放送开始。",
+        "type": "动漫",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/6SACCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "第1集",
+                "source": "https://hn.bfvvs.com/play/penrWE7e/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "第2集",
+                "source": "https://hn.bfvvs.com/play/lejqWzPd/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第3集",
+                "source": "https://hn.bfvvs.com/play/penrWEWe/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "第4集",
+                "source": "https://hn.bfvvs.com/play/YerRWL4e/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "第5集",
+                "source": "https://hn.bfvvs.com/play/DbD9Kyyd/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "第6集",
+                "source": "https://hn.bfvvs.com/play/1aKZlJMe/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "第7集",
+                "source": "https://hn.bfvvs.com/play/YaOypmYd/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第8集",
+                "source": "https://hn.bfvvs.com/play/QeZVEAwe/index.m3u8",
+                "id": 8
+            },
+            {
+                "title": "第9集",
+                "source": "https://hn.bfvvs.com/play/Rb4RnAVe/index.m3u8",
+                "id": 9
+            },
+            {
+                "title": "第10集",
+                "source": "https://hn.bfvvs.com/play/yb86rGge/index.m3u8",
+                "id": 10
+            },
+            {
+                "title": "第11集",
+                "source": "https://hn.bfvvs.com/play/lejqWXPd/index.m3u8",
+                "id": 11
+            },
+            {
+                "title": "第12集",
+                "source": "https://hn.bfvvs.com/play/penrW2We/index.m3u8",
+                "id": 12
+            },
+            {
+                "title": "第13集",
+                "source": "https://hn.bfvvs.com/play/YerRWj4e/index.m3u8",
+                "id": 13
+            },
+            {
+                "title": "第14集",
+                "source": "https://hn.bfvvs.com/play/PdyrWqEe/index.m3u8",
+                "id": 14
+            },
+            {
+                "title": "第15集",
+                "source": "https://hn.bfvvs.com/play/DbD9KXyd/index.m3u8",
+                "id": 15
+            },
+            {
+                "title": "第16集",
+                "source": "https://hn.bfvvs.com/play/1aKZlgMe/index.m3u8",
+                "id": 16
+            },
+            {
+                "title": "第17集",
+                "source": "https://hn.bfvvs.com/play/YaOypWYd/index.m3u8",
+                "id": 17
+            },
+            {
+                "title": "第18集",
+                "source": "https://hn.bfvvs.com/play/5eVPz4vb/index.m3u8",
+                "id": 18
+            },
+            {
+                "title": "第19集",
+                "source": "https://hn.bfvvs.com/play/QeZVEkwe/index.m3u8",
+                "id": 19
+            },
+            {
+                "title": "第20集",
+                "source": "https://hn.bfvvs.com/play/Rb4RnlVe/index.m3u8",
+                "id": 20
+            },
+            {
+                "title": "第21集",
+                "source": "https://hn.bfvvs.com/play/yb86rpge/index.m3u8",
+                "id": 21
+            },
+            {
+                "title": "第22集",
+                "source": "https://hn.bfvvs.com/play/lejqWEPd/index.m3u8",
+                "id": 22
+            },
+            {
+                "title": "第23集",
+                "source": "https://hn.bfvvs.com/play/penrWLWe/index.m3u8",
+                "id": 23
+            },
+            {
+                "title": "第24集",
+                "source": "https://hn.bfvvs.com/play/YerRWP4e/index.m3u8",
+                "id": 24
+            },
+            {
+                "title": "第25集",
+                "source": "https://hn.bfvvs.com/play/lejqWEld/index.m3u8",
+                "id": 25
+            },
+            {
+                "title": "第26集",
+                "source": "https://hn.bfvvs.com/play/penrWLEe/index.m3u8",
+                "id": 26
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 243,
         "title": "铁甲小宝 重制版 普通话",
         "originalTitle": "",
