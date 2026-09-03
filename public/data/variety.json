@@ -727,6 +727,11 @@
                 "title": "第3期下",
                 "source": "https://hn.bfvvs.com/play/e73XxPBe/index.m3u8",
                 "id": 27
+            },
+            {
+                "title": "二公小考",
+                "source": "https://hn.bfvvs.com/play/bYE58gOb/index.m3u8",
+                "id": 28
             }
         ],
         "episodes": "完结"
@@ -915,6 +920,11 @@
                 "title": "20260826汪子问问问",
                 "source": "https://hn.bfvvs.com/play/axk1M1Pe/index.m3u8",
                 "id": 34
+            },
+            {
+                "title": "20260901超长尊享版",
+                "source": "https://hn.bfvvs.com/play/av2Z1r0a/index.m3u8",
+                "id": 35
             }
         ],
         "episodes": "完结"
