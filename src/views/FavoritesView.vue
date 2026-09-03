@@ -11,7 +11,57 @@
       class="empty-state"
     />
 
-    <el-tabs v-else v-model="activeTab" class="fav-tabs">
+    <template v-else>
+      <div class="fav-search">
+        <el-input
+          v-model="searchKeyword"
+          placeholder="搜索我的爱看内容"
+          clearable
+          :prefix-icon="Search"
+        />
+      </div>
+
+      <!-- 搜索模式：不分栏，直接展示匹配结果 -->
+      <el-empty
+        v-if="searchKeyword && searchResults.length === 0"
+        :description="`没有找到与「${searchKeyword}」匹配的内容`"
+        class="empty-state"
+      />
+      <div v-else-if="searchKeyword" class="tab-grid">
+        <div
+          v-for="item in searchResults"
+          :key="`${item.sourceType}_${item.id}`"
+          class="fav-card"
+          @click="goPlay(item)"
+        >
+          <div class="fav-poster">
+            <img
+              v-if="item.poster"
+              :src="item.poster"
+              :alt="item.title"
+              loading="lazy"
+              @error="onImgError"
+            />
+            <div v-else class="poster-placeholder">🎬</div>
+            <span class="fav-type-tag">{{ TYPE_LABELS[item.sourceType] || item.sourceType }}</span>
+            <button class="fav-remove" @click.stop="onRemove(item)">
+              <el-icon><Close /></el-icon>
+            </button>
+          </div>
+          <div class="fav-info">
+            <h3 class="fav-title">{{ item.title }}</h3>
+            <div class="fav-meta">
+              <span v-if="item.year">{{ item.year }}</span>
+              <span v-if="item.rating" class="rating-text">
+                <el-icon><Star /></el-icon>{{ Number(item.rating).toFixed(1) }}
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 正常模式：按类型分栏 -->
+      <el-tabs v-else v-model="activeTab" class="fav-tabs">
       <el-tab-pane
         v-for="tab in tabs"
         :key="tab.key"
@@ -50,18 +100,30 @@
           </div>
         </div>
       </el-tab-pane>
-    </el-tabs>
+      </el-tabs>
+    </template>
   </div>
 </template>
 
 <script setup>
 import { computed, ref, watch } from 'vue'
 import { useRouter } from 'vue-router'
-import { Close, Star } from '@element-plus/icons-vue'
+import { Close, Star, Search } from '@element-plus/icons-vue'
 import { useFavorites, TYPE_LABELS } from '@/composables/useFavorites'
 
 const router = useRouter()
 const { favorites, grouped, count, removeFavorite } = useFavorites()
+
+const searchKeyword = ref('')
+
+// 搜索结果：跨所有类型按标题模糊匹配
+const searchResults = computed(() => {
+  const kw = searchKeyword.value.trim().toLowerCase()
+  if (!kw) return []
+  return favorites.value.filter((f) => {
+    return (f.title || '').toLowerCase().includes(kw)
+  })
+})
 
 // 有收藏的类型 tab 列表，按 TYPE_LABELS 中的顺序排列
 const tabs = computed(() => {
@@ -120,6 +182,23 @@ function onImgError(e) {
 
 .empty-state {
   padding: 80px 0;
+}
+
+.fav-search {
+  margin-bottom: $space-md;
+  max-width: 400px;
+}
+
+.fav-type-tag {
+  position: absolute;
+  bottom: $space-sm;
+  left: $space-sm;
+  padding: 1px 6px;
+  border-radius: 4px;
+  background: rgba(0, 0, 0, 0.65);
+  color: #ffb274;
+  font-size: 11px;
+  font-weight: 600;
 }
 
 .fav-tabs {

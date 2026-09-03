@@ -1,5 +1,63 @@
 [
     {
+        "id": 247,
+        "title": "李熊猫",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"齐璇\",\"小连杀\",\"魏一凡\"]",
+        "category": "tv",
+        "genre": "[\" 喜剧\",\"动作\",\"动画\",\"奇幻\",\"中国动漫\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/824f5671979d4b1c89d449ef80d78e89.jpg",
+        "summary": "《苍兰诀》导演王昕+《咒术回战》总作监西位辉实，联手打造国风武侠与星际科幻对撞的高燃新番！\n                                    \n                                　　改编自文舟创作的小说。\n                                    \n                                　　被妖族养大的人族少年李熊猫奉师命走出黑白山，去杀三个覆灭妖族的仇人，并在追查真相的过程中，逐步揭开人妖之争、王",
+        "type": "动漫",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/5KBCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "第1集",
+                "source": "https://hn.bfvvs.com/play/eXDrWYAe/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "第2集",
+                "source": "https://hn.bfvvs.com/play/aOYPKJLd/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第3集",
+                "source": "https://hn.bfvvs.com/play/dG6M0w8b/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "第4集",
+                "source": "https://hn.bfvvs.com/play/en5gEkRd/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "第5集",
+                "source": "https://hn.bfvvs.com/play/dNk09Eze/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "第6集",
+                "source": "https://hn.bfvvs.com/play/bo2y72La/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "第7集",
+                "source": "https://hn.bfvvs.com/play/azpXyAZd/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第8集",
+                "source": "https://hn.bfvvs.com/play/e9rgWxJa/index.m3u8",
+                "id": 8
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 246,
         "title": "有兽焉（2023）",
         "originalTitle": "",
