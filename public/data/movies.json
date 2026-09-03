@@ -1,5 +1,97 @@
 [
     {
+        "id": 221,
+        "title": "警察故事2013（国语版）",
+        "originalTitle": "",
+        "year": "2013",
+        "rating": "10.0",
+        "cast": "[\"成龙\",\"刘烨\",\"景甜\",\"殷桃\",\"那威\",\"刘仪伟\",\"柳海龙\",\"周晓鸥\",\"于荣光\",\"吴樾\",\"刘佩琦\",\"古力娜扎\"]",
+        "category": "movie",
+        "genre": "[\" 动作\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/55e2c9d06a7261846e96b8bb2d4e1fe5.jpg",
+        "summary": "夜幕降临，资深刑警钟文（成龙 饰）接到离家出走许久的女儿苗苗（景甜 饰）的电话，他暗怀喜悦准时来到了正进行三周年店庆的武吧。武吧老板武江（刘烨 饰）热情地接待了他，但是酒吧内光怪陆离和乌烟瘴气的景象让钟文心生不快。稍后，苗苗抵达，眼见得纹身染发并且桀骜不驯的女儿，钟文尽 量和颜悦色与女儿沟通，可当得知武江是女儿的男朋友时还是发了脾气。就在此时，一名民工为索要工钱带着炸弹入场，钟文出手不凡解决争端，可没过多久却被人用棒球棍打晕。",
+        "type": "电影",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/wosCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/PdyAV6dQ/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
+        "id": 220,
+        "title": "警察故事4：简单任务",
+        "originalTitle": "",
+        "year": "1996",
+        "rating": "7.0",
+        "cast": "[\"成龙\",\"董骠\",\"楼学贤\",\"吴辰君\",\"Elaine\",\"George\",\"黎强根\",\"卢惠光\"]",
+        "category": "movie",
+        "genre": "[\" 动作\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/ff12b08dbcd163de643a3f597b14c6e4.jpg",
+        "summary": "这次，国际警察陈家驹（成龙 饰）受到美国中央情报局的委托，调查一个国际核子武器的贩卖集团。上司与家驹开始都以为是天荒夜谈，他们根本不相信有什么组织能从黑市里搞来核子武器，认为调查的只是一群乌合之众。然而，当家驹跟踪疑犯徐杰进行交易，进而意外发现了乌克兰的核弹基地，他才意 识到事态严重。",
+        "type": "电影",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/gOsCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/YerNQ6eO/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
+        "id": 219,
+        "title": "警察故事3：超级警察（国语版）",
+        "originalTitle": "",
+        "year": "1992",
+        "rating": "1.0",
+        "cast": "[\"成龙\",\"杨紫琼\",\"张曼玉\",\"曾江\",\"元华\",\"董骠\"]",
+        "category": "movie",
+        "genre": "[\" 喜剧\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/3e62ca0e35314ff421d335f15170775e.jpg",
+        "summary": "这集，神勇干探陈家驹（成龙 饰）将远赴大陆，化身囚犯打入国际军火毒品走私集团的内部。在大陆美女公安杨建华（杨紫琼 饰）的帮助下，家驹顺利接近了正在服刑的集团成员豹强（元华 饰）。豹强视家驹为心腹，和他策划越狱行动。为了放长线，家驹爽快应承了。",
+        "type": "电影",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/gosCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/penmE5d7/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
+        "id": 218,
+        "title": "新警察故事 （国语版）",
+        "originalTitle": "",
+        "year": "2004",
+        "rating": "5.0",
+        "cast": "[\"成龙\",\"谢霆锋\",\"杨采妮\",\"蔡卓妍\",\"吴彦祖\"]",
+        "category": "movie",
+        "genre": "[\" 动作\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/972cda1e62b72640cb7ac702714a115f.jpg",
+        "summary": "陈国荣（成龙 饰）的所在那一组警察是警队精英，破案无数。阿祖（吴彦祖 饰）是总警师的儿子，却勾结了几个高官子弟( 蒋怡丶尹子维丶安志杰丶叶山豪)挑战警方。他们到银行抢劫，警钟敲响警察赶到时，就把阿荣及队员带进了一个早已设计好的空旷仓库里。警员都陷进了匪徒早已设计好的游戏程序里，残忍的被杀害，连阿荣女朋友可颐 （杨采妮 饰）的弟弟也被无法幸免。阿荣就此被停职，出于内疚也跟可颐分手了。 终日喝得烂醉的阿荣在酒吧遇到了阿锋（谢霆锋 饰），阿锋为了使阿荣振作起来，决定假扮警察告诉阿荣自己是上司派来要求得到阿荣协助翻案的新警员。 阿荣又遇到那群狠狠打击他的罪犯，与他们斗志斗勇，在警花莎莎（蔡卓妍 饰）的协助下知道匪徒当年的事件被编成了一部游戏，同时也知道了当年为何情报被泄漏的原因。",
+        "type": "电影",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/qsvCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/lejO2Baj/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 217,
         "title": "A计划续集（普通话版）",
         "originalTitle": "",
