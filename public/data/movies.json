@@ -1,12 +1,58 @@
 [
     {
+        "id": 217,
+        "title": "A计划续集（普通话版）",
+        "originalTitle": "",
+        "year": "1987",
+        "rating": "7.9",
+        "cast": "[\"成龙\",\"张曼玉\",\"关之琳\",\"刘嘉玲\",\"林威\",\"董骠\",\"关海山\",\"吕良伟\",\"何家劲\",\"钟镇涛\",\"许冠英\",\"陈友\",\"卢惠光\",\"陈惠敏\",\"吕方\",\"简慧真\",\"林德禄\",\"火星\",\"李健生\",\"林国斌\",\"黄新\",\"黄曼凝\",\"朱铁和\",\"刘兆铭\",\"韩义生\",\"博日达尔·斯米利亚尼奇\",\"太保\",\"王龙威\"]",
+        "category": "movie",
+        "genre": "[\" 喜剧\",\"动作\",\"犯罪\",\"喜剧片\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/5fd492776826631da3e2ef8ce0c115d1.jpg",
+        "summary": "清朝末年的香港，在上、中、西环有“镇三环”之称的帮办暗中勾结西环恶霸勾心虎，西环治安一时乌烟瘴气。警官马如龙（成龙）奉命接管西环后，迅速将勾心虎拘捕人狱，招来“镇三环”的怨恨。\n                                    \n                                　　彼时内地革命风云翻涌，革命党人来港宣传，并计划营救被捕同志。为将革命党人一网打尽，清廷派遣密使联络镇三环，马如龙结识白影红、莹莹、珊珊等革命党人（张曼玉、关之琳、刘嘉玲等）后也被卷入",
+        "type": "电影",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/TkeCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/dwpjA9ge/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
+        "id": 216,
+        "title": "A计划",
+        "originalTitle": "",
+        "year": "1983",
+        "rating": "8.0",
+        "cast": "[\"成龙\",\"洪金宝\",\"元彪\",\"黄曼凝\"]",
+        "category": "movie",
+        "genre": "[\" 喜剧\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/58c54802a9fb9526cd0923353a34a7ae.jpg",
+        "summary": "上世纪初，猖獗的香港海盗屡屡劫持商船，考虑到各国商家的投资信心会因此减少，继尔香港国际贸易中心的地位可能会不保，当局改编水师，成立了一支特警小队负责海上治安。\n队长马如龙（成龙）执行公务时遭人陷害，愤而辞职。海盗头目罗三炮（狄威）抓走官兵家眷做人质，当局决定利用内线周永龄从中调停。因为早知周永龄与海盗勾结，马如龙自告奋勇拯救人质，他重组水师，制定了A计划，期望通过与上司洪天赐（元彪）及好兄弟卓一飞（洪金宝）作里应外合，将海盗一网打尽。",
+        "type": "电影",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/FKRCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/lejR0Rej/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 215,
         "title": "夺冠",
         "originalTitle": "",
         "year": "2020",
         "rating": "0.0",
         "cast": "[\"巩俐\",\"黄渤\",\"吴刚\",\"彭昱畅\",\"白浪\",\"朱婷\",\"徐云丽\",\"张常宁\",\"姚迪\",\"林莉\",\"刘晓彤\",\"颜妮\",\"惠若琪\",\"丁霞\",\"袁心玥\",\"龚翔宇\",\"李现\",\"刘敏涛\",\"陈展\",\"罗慧\",\"毛雯\",\"李紫微\",\"李冬徐\",\"马雪纯\",\"刘畅\",\"刘贞宏\",\"凌敏\",\"李阳一\",\"刘晨曦\"]",
-        "category": "tv",
+        "category": "movie",
         "genre": "[\" 剧情\"]",
         "isEnd": "undefined",
         "poster": "https://hongniuzyimage.com/upload/vod/2021-07-17/202107171626492600.jpg",
