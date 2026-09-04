@@ -52,7 +52,7 @@ const { isFavorited, toggleFavorite } = useFavorites()
 
 const isFav = computed(() => {
   if (!props.sourceType) return false
-  return isFavorited(props.sourceType, props.item.id)
+  return isFavorited(props.sourceType, props.item.title)
 })
 
 function onFavClick() {

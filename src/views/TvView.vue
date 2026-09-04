@@ -1,6 +1,9 @@
 <template>
   <div class="container">
-    <h1 class="page-title">电视剧</h1>
+    <h1 class="page-title">
+      电视剧
+      <span v-if="!loading && !error" class="count-badge">{{ filtered.length }}</span>
+    </h1>
 
     <el-alert
       v-if="error"

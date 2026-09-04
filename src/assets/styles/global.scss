@@ -1,75 +1,86 @@
 @use './themes.scss';
-
 * {
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 html,
 body {
-  margin: 0;
-  padding: 0;
-  min-height: 100%;
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC',
-    'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
-  background-color: var(--bg-page);
-  color: var(--text-primary);
-  transition: background-color 0.3s ease, color 0.3s ease;
-  -webkit-font-smoothing: antialiased;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+    background-color: var(--bg-page);
+    color: var(--text-primary);
+    transition: background-color 0.3s ease, color 0.3s ease;
+    -webkit-font-smoothing: antialiased;
 }
 
 a {
-  color: inherit;
-  text-decoration: none;
+    color: inherit;
+    text-decoration: none;
 }
 
 img {
-  display: block;
-  max-width: 100%;
+    display: block;
+    max-width: 100%;
 }
 
 #app {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 .container {
-  width: 100%;
-  max-width: $content-max-width;
-  margin: 0 auto;
-  padding: 0 $space-lg;
-
-  @media (max-width: $bp-mobile) {
-    padding: 0 $space-md;
-  }
+    width: 100%;
+    max-width: $content-max-width;
+    margin: 0 auto;
+    padding: 0 $space-lg;
+    @media (max-width: $bp-mobile) {
+        padding: 0 $space-md;
+    }
 }
 
 .page-title {
-  font-size: 24px;
-  font-weight: 700;
-  margin: 0 0 $space-md;
-  color: var(--text-primary);
-  display: flex;
-  align-items: center;
-  gap: $space-sm;
+    font-size: 24px;
+    font-weight: 700;
+    margin: 0 0 $space-md;
+    color: var(--text-primary);
+    display: flex;
+    align-items: center;
+    gap: $space-sm;
+    &::before {
+        content: '';
+        width: 4px;
+        height: 22px;
+        background: var(--gradient-brand);
+        border-radius: 2px;
+    }
+}
 
-  &::before {
-    content: '';
-    width: 4px;
-    height: 22px;
+.count-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 24px;
+    height: 24px;
+    padding: 0 8px;
+    border-radius: 999px;
     background: var(--gradient-brand);
-    border-radius: 2px;
-  }
+    color: #fff;
+    font-size: 13px;
+    font-weight: 700;
 }
 
 .fade-enter-active,
 .fade-leave-active {
-  transition: opacity 0.25s ease;
+    transition: opacity 0.25s ease;
 }
+
 .fade-enter-from,
 .fade-leave-to {
-  opacity: 0;
+    opacity: 0;
 }

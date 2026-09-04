@@ -152,7 +152,7 @@ function goPlay(item) {
 }
 
 function onRemove(item) {
-  removeFavorite(item.sourceType, item.id)
+  removeFavorite(item.sourceType, item.title)
 }
 
 function onImgError(e) {
