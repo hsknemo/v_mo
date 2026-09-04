@@ -3828,6 +3828,16 @@
                 "title": "第7集",
                 "source": "https://hn.bfvvs.com/play/egJ23BZd/index.m3u8",
                 "id": 7
+            },
+            {
+                "title": "第8集",
+                "source": "https://hn.bfvvs.com/play/bqxZvg2a/index.m3u8",
+                "id": 8
+            },
+            {
+                "title": "第9集",
+                "source": "https://hn.bfvvs.com/play/bkR7mY5a/index.m3u8",
+                "id": 9
             }
         ],
         "episodes": "完结"
