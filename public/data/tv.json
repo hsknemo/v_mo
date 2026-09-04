@@ -1,4 +1,126 @@
 [{
+        "id": 273,
+        "title": "边水往事",
+        "originalTitle": "",
+        "year": "2024",
+        "rating": "0.0",
+        "cast": "[\"郭麒麟\",\"吴镇宇\",\"尤勇智\",\"王迅\",\"齐溪\",\"王玉雯\",\"姜珮瑶\",\"江奇霖\",\"蒋奇明\",\"赵润南\",\"周政杰\",\"甘昀宸\",\"宋家腾\",\"辛浩江\",\"王海涛\",\"王小木\",\"颜北\",\"刘洋\",\"魏伟\",\"付博文\",\"董博睿\",\"钱磊\",\"钱洁\",\"李晓川\",\"刘陆\",\"赵君\",\"陈松伶\",\"尹子维\"]",
+        "category": "tv",
+        "genre": "[\" 剧情\",\"冒险\",\"内地剧\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/744142c97370132a7713e04c33289f5f.jpg",
+        "summary": "三边坡，一处鱼龙混杂的热带异域，一个繁茂与衰败并生的斑驳之地。意外流落三边坡的打工小白沈星（郭麒麟 饰）遇到在多方势力间游走的三边坡和事佬猜叔（吴镇宇 饰），一场冒险，一段善良微光指引下的回归，在留与逃的挣扎中将如何上演。",
+        "type": "电视剧",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/T8aCCS.html?ac=detail",
+        "episodeList": [{
+                "title": "第01集",
+                "source": "https://hn.bfvvs.com/play/Pe95jP4e/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "第02集",
+                "source": "https://hn.bfvvs.com/play/vbmokgAe/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第03集",
+                "source": "https://hn.bfvvs.com/play/vbmokjEe/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "第04集",
+                "source": "https://hn.bfvvs.com/play/NbWD1XXd/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "第05集",
+                "source": "https://hn.bfvvs.com/play/Le353Pnb/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "第06集",
+                "source": "https://hn.bfvvs.com/play/9avAwvge/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "第07集",
+                "source": "https://hn.bfvvs.com/play/0dNqGyKb/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第08集",
+                "source": "https://hn.bfvvs.com/play/xe75MB8b/index.m3u8",
+                "id": 8
+            },
+            {
+                "title": "第09集",
+                "source": "https://hn.bfvvs.com/play/Qe18MN0d/index.m3u8",
+                "id": 9
+            },
+            {
+                "title": "第10集",
+                "source": "https://hn.bfvvs.com/play/PdRxXJza/index.m3u8",
+                "id": 10
+            },
+            {
+                "title": "第11集",
+                "source": "https://hn.bfvvs.com/play/wdLoGzpb/index.m3u8",
+                "id": 11
+            },
+            {
+                "title": "第12集",
+                "source": "https://hn.bfvvs.com/play/9avAwvLe/index.m3u8",
+                "id": 12
+            },
+            {
+                "title": "第13集",
+                "source": "https://hn.bfvvs.com/play/6dB5vm2b/index.m3u8",
+                "id": 13
+            },
+            {
+                "title": "第14集",
+                "source": "https://hn.bfvvs.com/play/QbYG0yMe/index.m3u8",
+                "id": 14
+            },
+            {
+                "title": "第15集",
+                "source": "https://hn.bfvvs.com/play/vbmo8ERe/index.m3u8",
+                "id": 15
+            },
+            {
+                "title": "第16集",
+                "source": "https://hn.bfvvs.com/play/9avAxxge/index.m3u8",
+                "id": 16
+            },
+            {
+                "title": "第17集",
+                "source": "https://hn.bfvvs.com/play/zbqvo9Rd/index.m3u8",
+                "id": 17
+            },
+            {
+                "title": "第18集",
+                "source": "https://hn.bfvvs.com/play/ZdPvGnWa/index.m3u8",
+                "id": 18
+            },
+            {
+                "title": "第19集",
+                "source": "https://hn.bfvvs.com/play/kazGAo7b/index.m3u8",
+                "id": 19
+            },
+            {
+                "title": "第20集",
+                "source": "https://hn.bfvvs.com/play/QdJm1Rlb/index.m3u8",
+                "id": 20
+            },
+            {
+                "title": "第21集完结",
+                "source": "https://hn.bfvvs.com/play/QdJm14Pb/index.m3u8",
+                "id": 21
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 272,
         "title": "悬案",
         "originalTitle": "",
