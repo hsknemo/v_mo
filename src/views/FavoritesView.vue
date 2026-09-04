@@ -110,6 +110,8 @@ import { computed, ref, watch } from 'vue'
 import { useRouter } from 'vue-router'
 import { Close, Star, Search } from '@element-plus/icons-vue'
 import { useFavorites, TYPE_LABELS } from '@/composables/useFavorites'
+import { findMediaByTitle } from '@/composables/useMediaData'
+import { ElMessage } from 'element-plus'
 
 const router = useRouter()
 const { favorites, grouped, count, removeFavorite } = useFavorites()
@@ -147,8 +149,14 @@ const stop = watch(tabs, (t) => {
   }
 }, { immediate: true })
 
-function goPlay(item) {
-  router.push(`/play/${item.sourceType}/${item.id}`)
+// id 会随数据增删漂移，跳转前按片名从源数据解析出最新 id 再播放
+async function goPlay(item) {
+  const found = await findMediaByTitle(item.sourceType, item.title)
+  if (!found) {
+    ElMessage.warning('未找到该内容，可能已被移除')
+    return
+  }
+  router.push(`/play/${item.sourceType}/${found.id}`)
 }
 
 function onRemove(item) {
