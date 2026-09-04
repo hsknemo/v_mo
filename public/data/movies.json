@@ -1,4 +1,67 @@
 [{
+        "id": 285,
+        "title": "唐人街探案3",
+        "originalTitle": "",
+        "year": "2021",
+        "rating": "0.0",
+        "cast": "[\"王宝强\",\"刘昊然\",\"妻夫木聪\",\"托尼·贾\",\"长泽雅美\",\"染谷将太\",\"铃木保奈美\",\"浅野忠信\",\"三浦友和\",\"尚语贤\",\"肖央\",\"张子枫\",\"邱泽\",\"张钧甯\",\"马伯骞\",\"程潇\",\"陈哲远\",\"李明轩\",\"崔雨鑫\",\"张一白\",\"文咏珊\",\"张熙然\",\"克拉拉\",\"树林伸\",\"刘德华\",\"陈思诚\",\"平山日和\",\"奥田瑛二\",\"六平直政\",\"酒向芳\",\"秋山成勋\",\"桥本爱实\",\"长井短\",\"宇治清高\",\"张国强\",\"大鹏\",\"陈祉希\",\"林沐然\",\"田代良德\"]",
+        "category": "movie",
+        "genre": "[\" 喜剧\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/upload/vod/2021-06-08/16231400992.jpg",
+        "summary": "继曼谷、纽约之后，东京再出大案。唐人街神探唐仁（王宝强 饰）、秦风（刘昊然 饰）受侦探野田昊（妻夫木聪 饰）的邀请前往破案。“CRIMASTER世界侦探排行榜”中的侦探们闻讯后也齐聚东京，加入挑战，而排名第一Q的现身，让这个大案更加扑朔迷离，一场亚洲最强神探之间的较量即将爆笑展开……",
+        "type": "电影",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/C9qCCS.html?ac=detail",
+        "episodeList": [{
+            "title": "正片",
+            "source": "https://hn.bfvvs.com/play/DbDR3Bne/index.m3u8",
+            "id": 1
+        }],
+        "episodes": "完结"
+    },
+    {
+        "id": 284,
+        "title": "唐人街探案2",
+        "originalTitle": "",
+        "year": "2018",
+        "rating": "3.0",
+        "cast": "[\"王宝强\",\"刘昊然\",\"肖央\",\"刘承羽\",\"尚语贤\"]",
+        "category": "movie",
+        "genre": "[\" 动作\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/926ffc0ca56636b9e73c565cf994ea5a.jpg",
+        "summary": "唐仁（王宝强 饰）为巨额奖金欺骗秦风（刘昊然 饰）到纽约参加世界名侦探大赛，然而随着和世界各国侦探们啼笑皆非的较量，两人却发现了隐藏在这次挑战背后的更大秘密...",
+        "type": "电影",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/BuvCCS.html?ac=detail",
+        "episodeList": [{
+            "title": "正片",
+            "source": "https://hn.bfvvs.com/play/Rb49BgdB/index.m3u8",
+            "id": 1
+        }],
+        "episodes": "完结"
+    },
+    {
+        "id": 283,
+        "title": "唐人街探案",
+        "originalTitle": "",
+        "year": "2015",
+        "rating": "7.7",
+        "cast": "[\"王宝强\",\"刘昊然\",\"佟丽娅\",\"陈赫\",\"肖央\",\"小沈阳\",\"潘粤明\",\"马浴柯\",\"张子枫\",\"赵英俊\",\"桑平\",\"金士杰\",\"大鹏\",\"张国强\",\"李叶青\",\"陈祉希\",\"戴墨\"]",
+        "category": "movie",
+        "genre": "[\" 喜剧\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/4218470a524ef1991202bb63abee5d72.jpg",
+        "summary": "天赋异禀的结巴少年秦风（刘昊然 饰）警校落榜，被姥姥遣送泰国找远房表舅——号称“唐人街第一神探”，实则猥琐的大叔唐仁（王宝强 饰）散心。不想一夜花天酒地后，唐仁沦为离奇凶案嫌疑人，不得不和秦风亡命天涯……穷追不舍的警探黄兰登（陈赫 饰）、无敌幸运的警察坤泰（肖央 饰）、穷凶极恶的匪帮三人组、高深莫测的唐人街教父、美艳风骚的老板娘阿香（佟丽娅 饰）等悉数登场！七天！唐仁、秦风必须取长补短、同仇敌忾！他们能否躲避警察追捕、匪帮追杀、黑帮围剿，在短短七天内，完成找到失落的黄金并查明真凶，为自己洗清罪名这些逆天的任务？",
+        "type": "电影",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/yGRCCS.html?ac=detail",
+        "episodeList": [{
+            "title": "正片",
+            "source": "https://hn.bfvvs.com/play/5eVOmyXa/index.m3u8",
+            "id": 1
+        }],
+        "episodes": "完结"
+    },
+    {
         "id": 282,
         "title": "加勒比海盗",
         "originalTitle": "",
