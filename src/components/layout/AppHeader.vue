@@ -164,7 +164,7 @@ watch(drawer, (open) => {
   position: fixed;
   top: 0;
   left: 0;
-  bottom: 0;
+  bottom: 40px;
   width: 70%;
   max-width: 320px;
   background: var(--bg-card);
@@ -227,6 +227,10 @@ watch(drawer, (open) => {
   display: flex;
   flex-direction: column;
   gap: $space-sm;
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
 
   .mobile-link {
     padding: 14px 16px;
