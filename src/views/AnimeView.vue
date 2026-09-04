@@ -1,6 +1,9 @@
 <template>
   <div class="container">
-    <h1 class="page-title">动漫</h1>
+    <h1 class="page-title">
+      动漫
+      <span v-if="!loading && !error" class="count-badge">{{ filtered.length }}</span>
+    </h1>
 
     <el-alert
       v-if="error"
