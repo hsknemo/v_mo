@@ -31,6 +31,8 @@
       source-type="tv"
       @select="goPlay"
     />
+
+    <GiscusComment v-if="!error" />
   </div>
 </template>
 
@@ -41,6 +43,7 @@ import { useMediaData } from '@/composables/useMediaData'
 import { useMediaFilter } from '@/composables/useMediaFilter'
 import MediaFilter from '@/components/media/MediaFilter.vue'
 import MediaGrid from '@/components/common/MediaGrid.vue'
+import GiscusComment from '@/components/common/GiscusComment.vue'
 
 const router = useRouter()
 const { list, loading, error, load } = useMediaData('tv')

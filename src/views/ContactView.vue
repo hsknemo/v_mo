@@ -57,14 +57,16 @@
       <div class="contact-tip">
         + 群 1101193338
       </div>
-
     </div>
+
+    <GiscusComment class="contact-giscus" />
   </div>
 </template>
 
 <script setup>
 import { ref, reactive } from 'vue'
 import { ChatDotRound } from '@element-plus/icons-vue'
+import GiscusComment from '@/components/common/GiscusComment.vue'
 
 const copied = ref(false)
 const qrFallback = reactive({ qq: false, wx: false })
@@ -259,6 +261,10 @@ async function copyQQ() {
   font-size: 15px;
   font-weight: 600;
   display: inline-block;
+}
+
+.contact-giscus {
+  margin-top: $space-lg;
 }
 
 @media (max-width: $bp-mobile) {
