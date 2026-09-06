@@ -3924,6 +3924,21 @@
                 "title": "第08集",
                 "source": "https://hn.bfvvs.com/play/e9rg4NPa/index.m3u8",
                 "id": 8
+            },
+            {
+                "title": "第09集",
+                "source": "https://hn.bfvvs.com/play/azpXM5yd/index.m3u8",
+                "id": 9
+            },
+            {
+                "title": "第10集",
+                "source": "https://hn.bfvvs.com/play/e5yLOOxe/index.m3u8",
+                "id": 10
+            },
+            {
+                "title": "第11集",
+                "source": "https://hn.bfvvs.com/play/axk1pvEe/index.m3u8",
+                "id": 11
             }
         ],
         "episodes": "完结"
