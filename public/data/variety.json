@@ -108,6 +108,16 @@
                 "title": "第6期上",
                 "source": "https://hn.bfvvs.com/play/e73X5Yje/index.m3u8",
                 "id": 19
+            },
+            {
+                "title": "第6期下",
+                "source": "https://hn.bfvvs.com/play/dNk0qQLe/index.m3u8",
+                "id": 20
+            },
+            {
+                "title": "260904直播回放",
+                "source": "https://hn.bfvvs.com/play/av2ZPB8a/index.m3u8",
+                "id": 21
             }
         ],
         "episodes": "完结"
@@ -574,6 +584,16 @@
                 "title": "第11期",
                 "source": "https://hn.bfvvs.com/play/e5yLwZ8e/index.m3u8",
                 "id": 24
+            },
+            {
+                "title": "第12期",
+                "source": "https://hn.bfvvs.com/play/dBB6kNNd/index.m3u8",
+                "id": 25
+            },
+            {
+                "title": "收官舞台合集",
+                "source": "https://hn.bfvvs.com/play/bmZyDPEd/index.m3u8",
+                "id": 26
             }
         ],
         "episodes": "完结"
@@ -604,134 +624,144 @@
                 "id": 2
             },
             {
-                "title": "预热直播",
-                "source": "https://hn.bfvvs.com/play/e73XAxBe/index.m3u8",
-                "id": 3
-            },
-            {
                 "title": "初舞台观演区",
                 "source": "https://hn.bfvvs.com/play/bkR7oxva/index.m3u8",
-                "id": 4
+                "id": 3
             },
             {
                 "title": "舞台纯享版",
                 "source": "https://hn.bfvvs.com/play/bo2yvXBa/index.m3u8",
-                "id": 5
+                "id": 4
             },
             {
                 "title": "初舞台观演区",
                 "source": "https://hn.bfvvs.com/play/axk1VWne/index.m3u8",
-                "id": 6
-            },
-            {
-                "title": "预热直播",
-                "source": "https://hn.bfvvs.com/play/eERxZLKa/index.m3u8",
-                "id": 7
+                "id": 5
             },
             {
                 "title": "加更备战篇",
                 "source": "https://hn.bfvvs.com/play/dJ6QYLPd/index.m3u8",
-                "id": 8
+                "id": 6
             },
             {
                 "title": "初舞台彩排全纪录",
                 "source": "https://hn.bfvvs.com/play/azpXxvmd/index.m3u8",
-                "id": 9
+                "id": 7
             },
             {
                 "title": "突袭云小考",
                 "source": "https://hn.bfvvs.com/play/dBB6OLWd/index.m3u8",
-                "id": 10
+                "id": 8
             },
             {
                 "title": "一公选歌组队（上）",
                 "source": "https://hn.bfvvs.com/play/dBB69oJd/index.m3u8",
-                "id": 11
+                "id": 9
             },
             {
                 "title": "一公选歌组队（下）",
                 "source": "https://hn.bfvvs.com/play/bqxZ6JGa/index.m3u8",
-                "id": 12
-            },
-            {
-                "title": "一公预热直播（上）",
-                "source": "https://hn.bfvvs.com/play/bkR7j46a/index.m3u8",
-                "id": 13
+                "id": 10
             },
             {
                 "title": "一公观演区上",
                 "source": "https://hn.bfvvs.com/play/e73XyK1e/index.m3u8",
-                "id": 14
+                "id": 11
             },
             {
                 "title": "一公舞台纯享版",
                 "source": "https://hn.bfvvs.com/play/dJ6Q1lJd/index.m3u8",
-                "id": 15
+                "id": 12
             },
             {
                 "title": "一公直拍张睿",
                 "source": "https://hn.bfvvs.com/play/bo2ym8Ba/index.m3u8",
-                "id": 16
+                "id": 13
             },
             {
                 "title": "一公直拍阿云嘎",
                 "source": "https://hn.bfvvs.com/play/egJ2y83d/index.m3u8",
-                "id": 17
+                "id": 14
             },
             {
                 "title": "一公直拍曹骏",
                 "source": "https://hn.bfvvs.com/play/bo2ym83a/index.m3u8",
-                "id": 18
-            },
-            {
-                "title": "260822预热直播",
-                "source": "https://hn.bfvvs.com/play/e5yLxVYe/index.m3u8",
-                "id": 19
+                "id": 15
             },
             {
                 "title": "一公观演区下",
                 "source": "https://hn.bfvvs.com/play/bW6qvoEa/index.m3u8",
-                "id": 20
+                "id": 16
             },
             {
                 "title": "一公挑战赛（下）",
                 "source": "https://hn.bfvvs.com/play/bmZy6XRd/index.m3u8",
-                "id": 21
+                "id": 17
             },
             {
                 "title": "一公直拍曹骏",
                 "source": "https://hn.bfvvs.com/play/bmZy6v3d/index.m3u8",
-                "id": 22
+                "id": 18
             },
             {
                 "title": "一公直拍张睿",
                 "source": "https://hn.bfvvs.com/play/av2Z5Gna/index.m3u8",
-                "id": 23
+                "id": 19
             },
             {
                 "title": "一公直拍阿云嘎",
                 "source": "https://hn.bfvvs.com/play/dBB6pkod/index.m3u8",
-                "id": 24
-            },
-            {
-                "title": " 一公舞台纯享版",
-                "source": "https://hn.bfvvs.com/play/dNk0n8Le/index.m3u8",
-                "id": 25
+                "id": 20
             },
             {
                 "title": "第3期上",
                 "source": "https://hn.bfvvs.com/play/bo2yWvBa/index.m3u8",
-                "id": 26
+                "id": 21
             },
             {
                 "title": "第3期下",
                 "source": "https://hn.bfvvs.com/play/e73XxPBe/index.m3u8",
-                "id": 27
+                "id": 22
             },
             {
                 "title": "二公小考",
                 "source": "https://hn.bfvvs.com/play/bYE58gOb/index.m3u8",
+                "id": 23
+            },
+            {
+                "title": "第4期上",
+                "source": "https://hn.bfvvs.com/play/egJ2mVGd/index.m3u8",
+                "id": 24
+            },
+            {
+                "title": "二公观演区上",
+                "source": "https://hn.bfvvs.com/play/egJ2mVkd/index.m3u8",
+                "id": 25
+            },
+            {
+                "title": "二公直拍阿云嘎",
+                "source": "https://hn.bfvvs.com/play/bqxZym7a/index.m3u8",
+                "id": 26
+            },
+            {
+                "title": " 二公直拍曹骏",
+                "source": "https://hn.bfvvs.com/play/bkR7pPJa/index.m3u8",
+                "id": 27
+            },
+            {
+                "title": "二公直拍张睿",
+                "source": "https://hn.bfvvs.com/play/e73XQkQe/index.m3u8",
                 "id": 28
+            },
+            {
+                "title": "第4期下",
+                "source": "https://hn.bfvvs.com/play/av2ZPZ0a/index.m3u8",
+                "id": 29
+            },
+            {
+                "title": "二公观演区下",
+                "source": "https://hn.bfvvs.com/play/bmZyDy9d/index.m3u8",
+                "id": 30
             }
         ],
         "episodes": "完结"
@@ -925,6 +955,16 @@
                 "title": "20260901超长尊享版",
                 "source": "https://hn.bfvvs.com/play/av2Z1r0a/index.m3u8",
                 "id": 35
+            },
+            {
+                "title": "20260902购物车",
+                "source": "https://hn.bfvvs.com/play/bmZyJnOd/index.m3u8",
+                "id": 36
+            },
+            {
+                "title": "20260902汪子问问问",
+                "source": "https://hn.bfvvs.com/play/av2ZVzma/index.m3u8",
+                "id": 37
             }
         ],
         "episodes": "完结"
@@ -1416,6 +1456,26 @@
                 "title": "年度演员Seven作品纯享",
                 "source": "https://hn.bfvvs.com/play/dL9JrYve/index.m3u8",
                 "id": 52
+            },
+            {
+                "title": "文化现象纯享小芳",
+                "source": "https://hn.bfvvs.com/play/bo2ywlXa/index.m3u8",
+                "id": 53
+            },
+            {
+                "title": "没文化现象纯享小夯",
+                "source": "https://hn.bfvvs.com/play/egJ2lEkd/index.m3u8",
+                "id": 54
+            },
+            {
+                "title": "封神文本纯享",
+                "source": "https://hn.bfvvs.com/play/e5yL2Z8e/index.m3u8",
+                "id": 55
+            },
+            {
+                "title": "炸场表演纯享",
+                "source": "https://hn.bfvvs.com/play/e1w406Gb/index.m3u8",
+                "id": 56
             }
         ],
         "episodes": "完结"
