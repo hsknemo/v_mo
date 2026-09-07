@@ -3518,6 +3518,11 @@
                 "title": "第7集",
                 "source": "https://hn.bfvvs.com/play/e5yLB8qe/index.m3u8",
                 "id": 7
+            },
+            {
+                "title": "第8集",
+                "source": "https://hn.bfvvs.com/play/eERxJyga/index.m3u8",
+                "id": 8
             }
         ],
         "episodes": "完结"
@@ -9354,6 +9359,11 @@
                 "title": "第18集",
                 "source": "https://hn.bfvvs.com/play/bkR7Ap5a/index.m3u8",
                 "id": 18
+            },
+            {
+                "title": "第19集",
+                "source": "https://hn.bfvvs.com/play/axk1YvJe/index.m3u8",
+                "id": 19
             }
         ],
         "episodes": "完结"
