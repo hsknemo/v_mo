@@ -1,5 +1,143 @@
 [
     {
+        "id": 307,
+        "title": "凰权之下，她即是我",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"李欢\",\"柳佳希\",\"书亚信\",\"冯荔军\"]",
+        "category": "tv",
+        "genre": "[\" 内地剧\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/f2e80723e6e75a6f8d93f51ea5890558.jpg",
+        "summary": "长陵国长公主熹和为固江山肃朝政，甘愿背负妖姬恶名。刺客乐滋滋受惑行刺未遂，被熹和所护，二人渐生情谊。乐滋滋恢复记忆，惊悉自己是其流落民间的妹妹，刺杀失忆是阴谋，熹和也曾利用她，二人决裂。外敌压境，二人放下隔阂联手退敌，战后熹和假死，与她浪迹天涯得偿圆满。 ",
+        "type": "电视剧",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/aQkCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "第1集",
+                "source": "https://hn.bfvvs.com/play/dBB6G9Xd/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "第2集",
+                "source": "https://hn.bfvvs.com/play/av2Z6RXa/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第3集",
+                "source": "https://hn.bfvvs.com/play/bmZyW8rd/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "第4集",
+                "source": "https://hn.bfvvs.com/play/bmZyWNOd/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "第5集",
+                "source": "https://hn.bfvvs.com/play/av2Z6Lma/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "第6集",
+                "source": "https://hn.bfvvs.com/play/dL9JmWwe/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "第7集",
+                "source": "https://hn.bfvvs.com/play/dL9JpDAe/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第8集",
+                "source": "https://hn.bfvvs.com/play/dR61ynKd/index.m3u8",
+                "id": 8
+            },
+            {
+                "title": "第9集",
+                "source": "https://hn.bfvvs.com/play/dPNQoEAa/index.m3u8",
+                "id": 9
+            },
+            {
+                "title": "第10集",
+                "source": "https://hn.bfvvs.com/play/dJ6QgxKd/index.m3u8",
+                "id": 10
+            },
+            {
+                "title": "第11集",
+                "source": "https://hn.bfvvs.com/play/eERxowga/index.m3u8",
+                "id": 11
+            },
+            {
+                "title": "第12集",
+                "source": "https://hn.bfvvs.com/play/dNk0AJve/index.m3u8",
+                "id": 12
+            },
+            {
+                "title": "第13集",
+                "source": "https://hn.bfvvs.com/play/av2Z1YLa/index.m3u8",
+                "id": 13
+            },
+            {
+                "title": "第14集",
+                "source": "https://hn.bfvvs.com/play/av2Z1Yga/index.m3u8",
+                "id": 14
+            },
+            {
+                "title": "第15集",
+                "source": "https://hn.bfvvs.com/play/bo2y52Ba/index.m3u8",
+                "id": 15
+            },
+            {
+                "title": "第16集",
+                "source": "https://hn.bfvvs.com/play/egJ23JGd/index.m3u8",
+                "id": 16
+            },
+            {
+                "title": "第17集",
+                "source": "https://hn.bfvvs.com/play/bmZyoVAd/index.m3u8",
+                "id": 17
+            },
+            {
+                "title": "第18集",
+                "source": "https://hn.bfvvs.com/play/e9rg574a/index.m3u8",
+                "id": 18
+            },
+            {
+                "title": "第19集",
+                "source": "https://hn.bfvvs.com/play/bkR7E1Ka/index.m3u8",
+                "id": 19
+            },
+            {
+                "title": "第20集",
+                "source": "https://hn.bfvvs.com/play/bqxZN1ka/index.m3u8",
+                "id": 20
+            },
+            {
+                "title": "第21集",
+                "source": "https://hn.bfvvs.com/play/av2ZGvXa/index.m3u8",
+                "id": 21
+            },
+            {
+                "title": "第22集",
+                "source": "https://hn.bfvvs.com/play/bmZyv9Od/index.m3u8",
+                "id": 22
+            },
+            {
+                "title": "第23集",
+                "source": "https://hn.bfvvs.com/play/dJ6Q0KDd/index.m3u8",
+                "id": 23
+            },
+            {
+                "title": "第24集",
+                "source": "https://hn.bfvvs.com/play/dPNQOKza/index.m3u8",
+                "id": 24
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 306,
         "title": "兴安岭老猎人",
         "originalTitle": "",
