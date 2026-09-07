@@ -1,5 +1,51 @@
 [
     {
+        "id": 305,
+        "title": "兴安岭猎人传说",
+        "originalTitle": "",
+        "year": "2021",
+        "rating": "0.0",
+        "cast": "[\"尚铁龙\",\"林枫烨\",\"付赫安琪\",\"王佳希\",\"柯国庆\"]",
+        "category": "movie",
+        "genre": "[\" 恐怖\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/upload/vod/2021-06-17/162392035015.jpg",
+        "summary": "东北民间流传着关于“皇围猎人”的神秘传说，他们世代生存于深山，为帝王守护兴安岭这片龙兴之地的气脉运转。 传闻猎人除了精通狩猎之法，更知晓驱鬼通神之术。在东北一处偏僻的山村里，悄然发生一起灭门惨案，在村民们的恳求下，最后一代皇围猎人刘二爷（尚铁龙 饰）决定出山调查真相，不想过程中怪事屡现，老林子里的秘密也被渐渐揭开....",
+        "type": "电影",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/mwxCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/penA7Dd7/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
+        "id": 304,
+        "title": "兴安岭猎人传说2",
+        "originalTitle": "",
+        "year": "2023",
+        "rating": "0.0",
+        "cast": "[\"\"]",
+        "category": "movie",
+        "genre": "[\" 剧情\",\"动作\",\"悬疑\",\"惊悚\",\"冒险\",\"剧情片\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/6644eaf8176718ed4e1656418ab3628a.jpg",
+        "summary": "暂无简介",
+        "type": "电影",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/uLuCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/DbDAKPKd/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 291,
         "title": "美国队长4",
         "originalTitle": "",

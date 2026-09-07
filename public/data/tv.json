@@ -1,5 +1,123 @@
 [
     {
+        "id": 306,
+        "title": "兴安岭老猎人",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"张浩\",\"陈叶玲\",\"岳训宇\",\"岳冬峰\"]",
+        "category": "tv",
+        "genre": "[\" 惊悚\",\"悬疑\",\"奇幻\",\"内地剧\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/97c685f9eaf4ff6114138b59e067c8b8.jpg",
+        "summary": "兴安岭深山，挖参人刘老栓与好友进山寻参，却遭遇离奇变故：一人横死，一人失踪。走投无路之际，他请来了被村里驱逐多年的老猎人马三爷。谁料马三爷刚入村，怪事便接连不断：引魂鸡暴毙，丧宴上众人陷入幻觉，深夜有人在废宅埋纸人，古井中更涌出让人命丧的毒鱼，百年村落人心惶惶。与此同时，一个声称知晓十年前往事真相的神秘人悄然现身，将陈年旧案与眼前怪事隐隐相连。马三爷携徐英子步步深入，层层抽丝剥茧，一个潜伏已久的惊天阴谋逐渐浮出水面",
+        "type": "电视剧",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/HqkCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "第1集",
+                "source": "https://hn.bfvvs.com/play/bmZyX50d/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "第2集",
+                "source": "https://hn.bfvvs.com/play/av2ZJ1ma/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第3集",
+                "source": "https://hn.bfvvs.com/play/av2ZJ1ra/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "第4集",
+                "source": "https://hn.bfvvs.com/play/e1w47yjb/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "第5集",
+                "source": "https://hn.bfvvs.com/play/e73XJGAe/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "第6集",
+                "source": "https://hn.bfvvs.com/play/dR61BNRd/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "第7集",
+                "source": "https://hn.bfvvs.com/play/dL9JBE4e/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第8集",
+                "source": "https://hn.bfvvs.com/play/dBB6EqJd/index.m3u8",
+                "id": 8
+            },
+            {
+                "title": "第9集",
+                "source": "https://hn.bfvvs.com/play/bqxZoVpa/index.m3u8",
+                "id": 9
+            },
+            {
+                "title": "第10集",
+                "source": "https://hn.bfvvs.com/play/dPNQGM4a/index.m3u8",
+                "id": 10
+            },
+            {
+                "title": "第11集",
+                "source": "https://hn.bfvvs.com/play/bYE5ZQ2b/index.m3u8",
+                "id": 11
+            },
+            {
+                "title": "第12集",
+                "source": "https://hn.bfvvs.com/play/azpXAByd/index.m3u8",
+                "id": 12
+            },
+            {
+                "title": "第13集",
+                "source": "https://hn.bfvvs.com/play/dJ6Q1Ygd/index.m3u8",
+                "id": 13
+            },
+            {
+                "title": "第14集",
+                "source": "https://hn.bfvvs.com/play/e5yLMA8e/index.m3u8",
+                "id": 14
+            },
+            {
+                "title": "第15集",
+                "source": "https://hn.bfvvs.com/play/axk15y3e/index.m3u8",
+                "id": 15
+            },
+            {
+                "title": "第16集",
+                "source": "https://hn.bfvvs.com/play/egJ2KyGd/index.m3u8",
+                "id": 16
+            },
+            {
+                "title": "第17集",
+                "source": "https://hn.bfvvs.com/play/dNk0jjDe/index.m3u8",
+                "id": 17
+            },
+            {
+                "title": "第18集",
+                "source": "https://hn.bfvvs.com/play/bo2yKmBa/index.m3u8",
+                "id": 18
+            },
+            {
+                "title": "第19集",
+                "source": "https://hn.bfvvs.com/play/eERxvyYa/index.m3u8",
+                "id": 19
+            },
+            {
+                "title": "第20集已完结",
+                "source": "https://hn.bfvvs.com/play/bW6qvvQa/index.m3u8",
+                "id": 20
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 303,
         "title": "神断狄仁杰",
         "originalTitle": "",
