@@ -1,5 +1,208 @@
 [
     {
+        "id": 308,
+        "title": "密室大逃脱第八季",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"\"]",
+        "category": "tv",
+        "genre": "[\" 悬疑\",\"密室\",\"综艺\",\"推理\",\"大陆综艺\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/4bd8575441a219bc600c27999928e8ed.jpg",
+        "summary": " 《密室大逃脱 第八季》全新升级，多元机制玩法+极致沉浸式体验，打造前所未有的无限流密室新范本。密逃团被强制卷入多重游戏世界，他们将在密逃基地与密室副本之间穿梭，寻找真正的逃生出口。此次密室副本均设有专属机制，玩家既需要协作破局，亦要博弈较量，最终谁能成功逃离？无限流世界的真相又将如何揭晓？这场充满未知的逃生之旅，将彻底颠覆你的想象…… ",
+        "type": "综艺",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/GcBCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "超前聚会上",
+                "source": "https://hn.bfvvs.com/play/b68BRDRe/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": " 超前聚会下",
+                "source": "https://hn.bfvvs.com/play/ejR0qXve/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "大神版超前聚会上",
+                "source": "https://hn.bfvvs.com/play/erkmRJ4a/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "大神版超前聚会下",
+                "source": "https://hn.bfvvs.com/play/elY25zra/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "超前彩蛋特调小队",
+                "source": "https://hn.bfvvs.com/play/aADMx51e/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "绝叫山庄Ⅰ上",
+                "source": "https://hn.bfvvs.com/play/bDkQl3na/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "绝叫山庄Ⅰ下",
+                "source": "https://hn.bfvvs.com/play/e0R0PGXb/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "绝叫山庄Ⅱ上",
+                "source": "https://hn.bfvvs.com/play/aOYPK8Yd/index.m3u8",
+                "id": 8
+            },
+            {
+                "title": "绝叫山庄Ⅱ下",
+                "source": "https://hn.bfvvs.com/play/b4xzOLVb/index.m3u8",
+                "id": 9
+            },
+            {
+                "title": "公馆离情Ⅰ上",
+                "source": "https://hn.bfvvs.com/play/b82Mjjre/index.m3u8",
+                "id": 10
+            },
+            {
+                "title": "公馆离情Ⅰ下",
+                "source": "https://hn.bfvvs.com/play/b2k7YYAd/index.m3u8",
+                "id": 11
+            },
+            {
+                "title": "公馆离情Ⅱ上",
+                "source": "https://hn.bfvvs.com/play/dNk09rve/index.m3u8",
+                "id": 12
+            },
+            {
+                "title": "公馆离情Ⅱ下",
+                "source": "https://hn.bfvvs.com/play/axk1v0Be/index.m3u8",
+                "id": 13
+            },
+            {
+                "title": "20260814Plus版",
+                "source": "https://hn.bfvvs.com/play/dJ6QNJyd/index.m3u8",
+                "id": 14
+            },
+            {
+                "title": "超前彩蛋全员寻物",
+                "source": "https://hn.bfvvs.com/play/axk1l7qe/index.m3u8",
+                "id": 15
+            },
+            {
+                "title": "大神260724Plus版",
+                "source": "https://hn.bfvvs.com/play/e31w9Kxb/index.m3u8",
+                "id": 16
+            },
+            {
+                "title": "超前彩蛋全员卧底",
+                "source": "https://hn.bfvvs.com/play/eERxP60a/index.m3u8",
+                "id": 17
+            },
+            {
+                "title": "大神260731Plus版",
+                "source": "https://hn.bfvvs.com/play/dNk085pe/index.m3u8",
+                "id": 18
+            },
+            {
+                "title": "20260803夏日派对",
+                "source": "https://hn.bfvvs.com/play/e1w49QRb/index.m3u8",
+                "id": 19
+            },
+            {
+                "title": "超前彩蛋复刻名场面",
+                "source": "https://hn.bfvvs.com/play/e5yLWAve/index.m3u8",
+                "id": 20
+            },
+            {
+                "title": "大神260807Plus版",
+                "source": "https://hn.bfvvs.com/play/egJ2k73d/index.m3u8",
+                "id": 21
+            },
+            {
+                "title": "超前彩蛋脑洞狂飙",
+                "source": "https://hn.bfvvs.com/play/bYE5MVnb/index.m3u8",
+                "id": 22
+            },
+            {
+                "title": "大神260814Plus版",
+                "source": "https://hn.bfvvs.com/play/bo2yOA3a/index.m3u8",
+                "id": 23
+            },
+            {
+                "title": "260818超前彩蛋",
+                "source": "https://hn.bfvvs.com/play/bkR7OZEa/index.m3u8",
+                "id": 24
+            },
+            {
+                "title": "禁忌学园Ⅰ上",
+                "source": "https://hn.bfvvs.com/play/e9rgOzza/index.m3u8",
+                "id": 25
+            },
+            {
+                "title": "禁忌学园Ⅰ下",
+                "source": "https://hn.bfvvs.com/play/bW6qmEoa/index.m3u8",
+                "id": 26
+            },
+            {
+                "title": "20260821Plus版",
+                "source": "https://hn.bfvvs.com/play/bo2yJwNa/index.m3u8",
+                "id": 27
+            },
+            {
+                "title": "大神260821plus版",
+                "source": "https://hn.bfvvs.com/play/bo2ynzXa/index.m3u8",
+                "id": 28
+            },
+            {
+                "title": "260825超前彩蛋",
+                "source": "https://hn.bfvvs.com/play/dPNQ844a/index.m3u8",
+                "id": 29
+            },
+            {
+                "title": "大神版260825超前彩蛋",
+                "source": "https://hn.bfvvs.com/play/dL9Jw8We/index.m3u8",
+                "id": 30
+            },
+            {
+                "title": "禁忌学园Ⅱ上",
+                "source": "https://hn.bfvvs.com/play/e73X2l1e/index.m3u8",
+                "id": 31
+            },
+            {
+                "title": "禁忌学园Ⅱ下",
+                "source": "https://hn.bfvvs.com/play/e1w4P2mb/index.m3u8",
+                "id": 32
+            },
+            {
+                "title": "260901超前彩蛋",
+                "source": "https://hn.bfvvs.com/play/eERxwBYa/index.m3u8",
+                "id": 33
+            },
+            {
+                "title": "大神版260901超前彩蛋",
+                "source": "https://hn.bfvvs.com/play/e5yLPYqe/index.m3u8",
+                "id": 34
+            },
+            {
+                "title": "云绮织梦Ⅰ上",
+                "source": "https://hn.bfvvs.com/play/bqxZvRya/index.m3u8",
+                "id": 35
+            },
+            {
+                "title": "云绮织梦Ⅰ下",
+                "source": "https://hn.bfvvs.com/play/e1w481Gb/index.m3u8",
+                "id": 36
+            },
+            {
+                "title": "20260904Plus版",
+                "source": "https://hn.bfvvs.com/play/av2ZGora/index.m3u8",
+                "id": 37
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 214,
         "title": "一饭封神第二季",
         "originalTitle": "",
