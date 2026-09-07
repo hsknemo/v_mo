@@ -1,5 +1,28 @@
 [
     {
+        "id": 291,
+        "title": "美国队长4",
+        "originalTitle": "",
+        "year": "2025",
+        "rating": "0.0",
+        "cast": "[\"安东尼·麦凯\",\"哈里森·福特\",\"丹尼·拉米雷斯\",\"茜拉·哈斯\",\"卡尔·鲁伯利\",\"蒂姆·布雷克·尼尔森\",\"吉安卡罗·埃斯波西托\",\"豪莎·罗克莫雷\",\"约翰内斯·豪克尔·约翰内森\",\"威廉·麦克·麦库洛\",\"平岳大\",\"赫许·纳亚\",\"里克·埃斯派耶\",\"托德·艾伦·德金\",\"达斯汀·刘易斯\",\"蕾切尔·马卡里兰\",\"蓬·库巴斯基\",\"阿兰·波尔\",\"阿娃·希尔\",\"玛丽莎·香奈儿·汉普顿\",\"塞巴斯蒂安·斯坦\"]",
+        "category": "movie",
+        "genre": "[\" 动作\",\"科幻\",\"冒险\",\"动作片\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/e993e3760e513a36c2582385c8afe392.jpg",
+        "summary": "能够展翅高飞的猎鹰山姆·威尔逊（安东尼·麦凯 Anthony Mackie 饰）受史蒂夫·罗杰斯的信任所托，接过盾牌，正式成为美国队长。在与美国总统塔迪厄斯·罗斯（哈里森·福特 Harrison Ford 饰）会面后，山姆发现自己被卷入了一场国际事件。他必须赶在真正的幕后黑手让全世界陷入混乱之前查明真相，揭露这起波及全球的阴谋。",
+        "type": "电影",
+        "fromWebUrl": "https://www.hongniuziyuan.com/index.php/vod/detail/id/h44CCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/mbkyOKJe/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 286,
         "title": "热辣滚烫",
         "originalTitle": "",
@@ -246,7 +269,7 @@
         "episodeList": [
             {
                 "title": "正片",
-                "source": "https://hn.bfvvs.com/play/YerG1BLa/index.m3u8",
+                "source": "https://hn.bfvvs.com/play/YaOvpXNe/index.m3u8",
                 "id": 1
             }
         ],
@@ -292,7 +315,7 @@
         "episodeList": [
             {
                 "title": "正片",
-                "source": "https://v1.ppqrrs.com/wjv1/202308/20/dBGECyvWVQ2/video/index.m3u8",
+                "source": "https://hn.bfvvs.com/play/yb81Lldv/index.m3u8",
                 "id": 1
             }
         ],
