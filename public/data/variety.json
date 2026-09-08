@@ -1,5 +1,93 @@
 [
     {
+        "id": 326,
+        "title": "中餐厅·南洋拾光季",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"\"]",
+        "category": "tv",
+        "genre": "[\" 模拟经营\",\"美食\",\"大陆综艺\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/312a7cf4372577188588e92e25706f5b.jpg",
+        "summary": " 《中餐厅》第十年，将在“南洋拾光”的氛围中，打造一家独具风格特色的田园餐厅。内容场景上，除餐厅本体外，还将设置家禽、鲜蔬、河鲜等不同餐厅区域，合伙人需要开拓经营思路，完成经营目标；此外，餐厅还将引入“主厨餐桌”、“大厨到家”等新颖模式，让中餐与世界、厨师与食客、文化与生活之间实现真正的彼此走进。 ",
+        "type": "综艺",
+        "fromWebUrl": "http://cj.hongniuzy1.com/index.php/vod/detail/id/2cBCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "EP00",
+                "source": "https://hn.bfvvs.com/play/eXDQ9Rve/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "第1期",
+                "source": "https://hn.bfvvs.com/play/elYRWX5a/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第2期",
+                "source": "https://hn.bfvvs.com/play/eXDQWlWe/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "第3期",
+                "source": "https://hn.bfvvs.com/play/b4x6ANVb/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "第4期",
+                "source": "https://hn.bfvvs.com/play/elY2R15a/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "第5期",
+                "source": "https://hn.bfvvs.com/play/b68BK9le/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "特别企划",
+                "source": "https://hn.bfvvs.com/play/erkmq9Wa/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第6期",
+                "source": "https://hn.bfvvs.com/play/bDkQKqBa/index.m3u8",
+                "id": 8
+            },
+            {
+                "title": "第7期",
+                "source": "https://hn.bfvvs.com/play/epYk0Bya/index.m3u8",
+                "id": 9
+            },
+            {
+                "title": "第8期",
+                "source": "https://hn.bfvvs.com/play/dG6MDYJb/index.m3u8",
+                "id": 10
+            },
+            {
+                "title": "第9期",
+                "source": "https://hn.bfvvs.com/play/bo2yjDLa/index.m3u8",
+                "id": 11
+            },
+            {
+                "title": "第10期",
+                "source": "https://hn.bfvvs.com/play/bkR7MGra/index.m3u8",
+                "id": 12
+            },
+            {
+                "title": "第11期",
+                "source": "https://hn.bfvvs.com/play/e31wmyAb/index.m3u8",
+                "id": 13
+            },
+            {
+                "title": "第12期",
+                "source": "https://hn.bfvvs.com/play/bYE5370b/index.m3u8",
+                "id": 14
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 308,
         "title": "密室大逃脱第八季",
         "originalTitle": "",
