@@ -321,6 +321,11 @@
                 "title": "260904直播回放",
                 "source": "https://hn.bfvvs.com/play/av2ZPB8a/index.m3u8",
                 "id": 21
+            },
+            {
+                "title": "特别加更",
+                "source": "https://hn.bfvvs.com/play/azpXrVYd/index.m3u8",
+                "id": 22
             }
         ],
         "episodes": "完结"
@@ -797,6 +802,11 @@
                 "title": "收官舞台合集",
                 "source": "https://hn.bfvvs.com/play/bmZyDPEd/index.m3u8",
                 "id": 26
+            },
+            {
+                "title": "金曲合集",
+                "source": "https://hn.bfvvs.com/play/eERxYzYa/index.m3u8",
+                "id": 27
             }
         ],
         "episodes": "完结"
@@ -1168,6 +1178,11 @@
                 "title": "20260902汪子问问问",
                 "source": "https://hn.bfvvs.com/play/av2ZVzma/index.m3u8",
                 "id": 37
+            },
+            {
+                "title": "20260903特辑",
+                "source": "https://hn.bfvvs.com/play/e1w40mRb/index.m3u8",
+                "id": 38
             }
         ],
         "episodes": "完结"
