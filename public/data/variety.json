@@ -1,5 +1,313 @@
 [
     {
+        "id": 337,
+        "title": "开始推理吧第四季",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"\"]",
+        "category": "tv",
+        "genre": "[\" 综艺\",\"大陆综艺\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/2784365897ee3eaead94ec72d1943cb7.jpg",
+        "summary": "《开始推理吧4》是一档开放式真人社交推理游戏综艺。由刘宇宁、金靖、张凌赫、时代少年团丁程鑫、周柯宇组成的玩家团将共同进入游戏世界《推门》，他们将沉浸式体验不同的角色人生、团结协作通关四大主题副本，探索“推门”背后的终极真相！",
+        "type": "综艺",
+        "fromWebUrl": "http://cj.hongniuzy1.com/index.php/vod/detail/id/AcBCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "序",
+                "source": "https://hn.bfvvs.com/play/bDk1GZAa/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "场面特辑第2期\t",
+                "source": "https://hn.bfvvs.com/play/eVOA42Ba/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "场面特辑第3期\t",
+                "source": "https://hn.bfvvs.com/play/b2kxjqjd/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "第1期",
+                "source": "https://hn.bfvvs.com/play/ejRYR04e/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "第1期上",
+                "source": "https://hn.bfvvs.com/play/epYZYkya/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "第1期下",
+                "source": "https://hn.bfvvs.com/play/dG6R6BLb/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "迷妹专访",
+                "source": "https://hn.bfvvs.com/play/aOYgYmYd/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第2期上",
+                "source": "https://hn.bfvvs.com/play/aM8Z9QGe/index.m3u8",
+                "id": 8
+            },
+            {
+                "title": "第2期下",
+                "source": "https://hn.bfvvs.com/play/dwp0kWRe/index.m3u8",
+                "id": 9
+            },
+            {
+                "title": "第3期上",
+                "source": "https://hn.bfvvs.com/play/eVOvngWa/index.m3u8",
+                "id": 10
+            },
+            {
+                "title": "第3期下",
+                "source": "https://hn.bfvvs.com/play/aM8ZKJ5e/index.m3u8",
+                "id": 11
+            },
+            {
+                "title": "第4期上",
+                "source": "https://hn.bfvvs.com/play/aOYgDRYd/index.m3u8",
+                "id": 12
+            },
+            {
+                "title": "第4期下",
+                "source": "https://hn.bfvvs.com/play/elYR9gMa/index.m3u8",
+                "id": 13
+            },
+            {
+                "title": "副本加更第1期下",
+                "source": "https://hn.bfvvs.com/play/eVOvGRoa/index.m3u8",
+                "id": 14
+            },
+            {
+                "title": "万事屋特别加更",
+                "source": "https://hn.bfvvs.com/play/eVOv4kMa/index.m3u8",
+                "id": 15
+            },
+            {
+                "title": "副本加更第2期下",
+                "source": "https://hn.bfvvs.com/play/b2k8joKd/index.m3u8",
+                "id": 16
+            },
+            {
+                "title": "惊喜连线全程回放",
+                "source": "https://hn.bfvvs.com/play/aAD6BxOe/index.m3u8",
+                "id": 17
+            },
+            {
+                "title": "第5期上",
+                "source": "https://hn.bfvvs.com/play/b82M1noe/index.m3u8",
+                "id": 18
+            },
+            {
+                "title": "第5期下",
+                "source": "https://hn.bfvvs.com/play/epYkk5Va/index.m3u8",
+                "id": 19
+            },
+            {
+                "title": "推门彩蛋可爱小厨娘",
+                "source": "https://hn.bfvvs.com/play/erkmYYBa/index.m3u8",
+                "id": 20
+            },
+            {
+                "title": "推门彩蛋少年师弟",
+                "source": "https://hn.bfvvs.com/play/aKrL66le/index.m3u8",
+                "id": 21
+            },
+            {
+                "title": "推门彩蛋侠客",
+                "source": "https://hn.bfvvs.com/play/elY2pp7a/index.m3u8",
+                "id": 22
+            },
+            {
+                "title": "推门彩蛋客栈小跑堂",
+                "source": "https://hn.bfvvs.com/play/aADMmm7e/index.m3u8",
+                "id": 23
+            },
+            {
+                "title": "推门彩蛋神算子",
+                "source": "https://hn.bfvvs.com/play/eZ6zWW2e/index.m3u8",
+                "id": 24
+            },
+            {
+                "title": "推门彩蛋客栈主理人",
+                "source": "https://hn.bfvvs.com/play/aQW6OOMd/index.m3u8",
+                "id": 25
+            },
+            {
+                "title": "第6期上",
+                "source": "https://hn.bfvvs.com/play/e0R0XY3b/index.m3u8",
+                "id": 26
+            },
+            {
+                "title": "第6期下",
+                "source": "https://hn.bfvvs.com/play/epYkLWQa/index.m3u8",
+                "id": 27
+            },
+            {
+                "title": "第7期上",
+                "source": "https://hn.bfvvs.com/play/en5gjMYd/index.m3u8",
+                "id": 28
+            },
+            {
+                "title": "第7期下",
+                "source": "https://hn.bfvvs.com/play/aQW6x7ld/index.m3u8",
+                "id": 29
+            },
+            {
+                "title": "推门彩蛋刘宇宁",
+                "source": "https://hn.bfvvs.com/play/aADMzrBe/index.m3u8",
+                "id": 30
+            },
+            {
+                "title": "推门彩蛋杨超越",
+                "source": "https://hn.bfvvs.com/play/aKrLNBre/index.m3u8",
+                "id": 31
+            },
+            {
+                "title": "推门彩蛋丁程鑫",
+                "source": "https://hn.bfvvs.com/play/aQW6lm7d/index.m3u8",
+                "id": 32
+            },
+            {
+                "title": "推门彩蛋金靖",
+                "source": "https://hn.bfvvs.com/play/b68Bly7e/index.m3u8",
+                "id": 33
+            },
+            {
+                "title": "推门彩蛋周柯宇",
+                "source": "https://hn.bfvvs.com/play/eZ6zxyve/index.m3u8",
+                "id": 34
+            },
+            {
+                "title": "推门彩蛋张凌赫",
+                "source": "https://hn.bfvvs.com/play/ejR0jMWe/index.m3u8",
+                "id": 35
+            },
+            {
+                "title": "推门彩蛋刘宇宁点评美食",
+                "source": "https://hn.bfvvs.com/play/epYkpK1a/index.m3u8",
+                "id": 36
+            },
+            {
+                "title": "推门彩蛋周柯宇吃御膳",
+                "source": "https://hn.bfvvs.com/play/epYkpKra/index.m3u8",
+                "id": 37
+            },
+            {
+                "title": "推门彩蛋受宠的小师妹",
+                "source": "https://hn.bfvvs.com/play/ejR0jMze/index.m3u8",
+                "id": 38
+            },
+            {
+                "title": "推门彩蛋丁程鑫锐评NPC",
+                "source": "https://hn.bfvvs.com/play/dG6MJ7Qb/index.m3u8",
+                "id": 39
+            },
+            {
+                "title": "张凌赫一口凤梨酥",
+                "source": "https://hn.bfvvs.com/play/dyP9BOwb/index.m3u8",
+                "id": 40
+            },
+            {
+                "title": "金靖化身捧哏",
+                "source": "https://hn.bfvvs.com/play/aOYPjoGd/index.m3u8",
+                "id": 41
+            },
+            {
+                "title": "第8期上",
+                "source": "https://hn.bfvvs.com/play/elY21D5a/index.m3u8",
+                "id": 42
+            },
+            {
+                "title": "第8期下",
+                "source": "https://hn.bfvvs.com/play/b4xzB21b/index.m3u8",
+                "id": 43
+            },
+            {
+                "title": "推门彩蛋章若楠",
+                "source": "https://hn.bfvvs.com/play/erkmAEKa/index.m3u8",
+                "id": 44
+            },
+            {
+                "title": "推门彩蛋赫皮巴拉",
+                "source": "https://hn.bfvvs.com/play/elY2rvra/index.m3u8",
+                "id": 45
+            },
+            {
+                "title": "推门彩蛋周柯宇",
+                "source": "https://hn.bfvvs.com/play/b82MQoLe/index.m3u8",
+                "id": 46
+            },
+            {
+                "title": "推门彩蛋丁程鑫",
+                "source": "https://hn.bfvvs.com/play/b2k7KgNd/index.m3u8",
+                "id": 47
+            },
+            {
+                "title": "推门彩蛋金靖",
+                "source": "https://hn.bfvvs.com/play/eVO735Wa/index.m3u8",
+                "id": 48
+            },
+            {
+                "title": "推门彩蛋狼王刘宇宁",
+                "source": "https://hn.bfvvs.com/play/elY2r85a/index.m3u8",
+                "id": 49
+            },
+            {
+                "title": "第9期上",
+                "source": "https://hn.bfvvs.com/play/b2k7yw1d/index.m3u8",
+                "id": 50
+            },
+            {
+                "title": "第9期下",
+                "source": "https://hn.bfvvs.com/play/bDkQG8qa/index.m3u8",
+                "id": 51
+            },
+            {
+                "title": "第10期上",
+                "source": "https://hn.bfvvs.com/play/dR61O3Od/index.m3u8",
+                "id": 52
+            },
+            {
+                "title": "收官宴",
+                "source": "https://hn.bfvvs.com/play/axk12q9e/index.m3u8",
+                "id": 53
+            },
+            {
+                "title": "悄悄话",
+                "source": "https://hn.bfvvs.com/play/eERx0Ova/index.m3u8",
+                "id": 54
+            },
+            {
+                "title": "收官特辑第1期上",
+                "source": "https://hn.bfvvs.com/play/dBB6jxYd/index.m3u8",
+                "id": 55
+            },
+            {
+                "title": "收官特辑第1期下",
+                "source": "https://hn.bfvvs.com/play/bmZy9RRd/index.m3u8",
+                "id": 56
+            },
+            {
+                "title": "收官特辑第2期上",
+                "source": "https://hn.bfvvs.com/play/dR619VLd/index.m3u8",
+                "id": 57
+            },
+            {
+                "title": "收官特辑第2期下",
+                "source": "https://hn.bfvvs.com/play/dL9J4Vge/index.m3u8",
+                "id": 58
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 326,
         "title": "中餐厅·南洋拾光季",
         "originalTitle": "",
