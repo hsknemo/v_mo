@@ -1,5 +1,28 @@
 [
     {
+        "id": 339,
+        "title": "凤仙花",
+        "originalTitle": "",
+        "year": "2025",
+        "rating": "7.4",
+        "cast": "[\"小林薰\",\"户塚纯贵\",\"满岛光\",\"宫崎美子\",\"泷正则\"]",
+        "category": "tv",
+        "genre": "[\" 动画\",\"动画片\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/dc4110a0062ce3bee77f59f565e9897b.jpg",
+        "summary": "孤独的牢房里，垂暮的老囚虚弱地等待死亡降临。“真是可悲的一生啊！”临终之际，一株凤仙花竟开口说话，唤醒了他深埋心底的过往。一切始于1986年夏天，小屋后院盛开着一片凤仙花。他曾是叱咤风云的黑帮人物，也曾与挚爱共筑片刻美好，却步步走上歧路，徒留来不及说出口的悔恨与遗憾。幸福如花火般闪现，短暂而灿烂。他是否能在生命的最后一刻，翻转命运的棋局？花，是否还能再次绽放？",
+        "type": "动漫",
+        "fromWebUrl": "http://cj.hongniuzy1.com/index.php/vod/detail/id/kskCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/egJ2j89d/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 338,
         "title": "杯雪",
         "originalTitle": "",
