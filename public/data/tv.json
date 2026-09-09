@@ -1,5 +1,63 @@
 [
     {
+        "id": 332,
+        "title": "猎罪现场",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"黄俊捷\",\"郑晓宁\"]",
+        "category": "tv",
+        "genre": "[\" 刑侦\",\"悬疑\",\"犯罪\",\"内地剧\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/94a17b32720e835ec9f9ff71445f2426.jpg",
+        "summary": "双亲早亡的韩宁因姐姐在离奇绑架案中遇难，立志成为一名刑警，用自己的侧写天赋守护正义。一桩离奇的命案发生，引起一连串命案，而每起案件都与七年前韩宁姐姐的失踪旧案有关……",
+        "type": "电视剧",
+        "fromWebUrl": "http://cj.hongniuzy1.com/index.php/vod/detail/id/zakCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "第1集",
+                "source": "https://hn.bfvvs.com/play/av2ZW2ra/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "第2集",
+                "source": "https://hn.bfvvs.com/play/bmZyKZ0d/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第3集",
+                "source": "https://hn.bfvvs.com/play/dBB6DBJd/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "第4集",
+                "source": "https://hn.bfvvs.com/play/e9rgqr3a/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "第5集",
+                "source": "https://hn.bfvvs.com/play/dL9JQ94e/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "第6集",
+                "source": "https://hn.bfvvs.com/play/dR61Z6Rd/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "第7集",
+                "source": "https://hn.bfvvs.com/play/dBB6xQnd/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第8集",
+                "source": "https://hn.bfvvs.com/play/dL9JLnWe/index.m3u8",
+                "id": 8
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 328,
         "title": "迎风的青春",
         "originalTitle": "",
