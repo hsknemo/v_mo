@@ -1,5 +1,74 @@
 [
     {
+        "id": 352,
+        "title": "去你的岛",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "7.9",
+        "cast": "[\"杨茜云\",\"张福正\"]",
+        "category": "tv",
+        "genre": "[\" 爱情\",\"动画\",\"奇幻\",\"动画片\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/923698894ed467828da8395f46da1b67.jpg",
+        "summary": "一只来自前男友的千纸鹤，一座由他记忆构成的奇幻岛屿，一只失忆的兔子，一些被蒙住，关于分离与相爱的痕迹。\n                                    \n                                　　影片改编自晋江文学城小说《去你的岛》。",
+        "type": "动漫",
+        "fromWebUrl": "http://cj.hongniuzy1.com/index.php/vod/detail/id/AghCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "抢先版",
+                "source": "https://hn.bfvvs.com/play/dPNQQKya/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
+        "id": 351,
+        "title": "蝙蝠侠：骑士陨落第一部：骑士陨落",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"安松·蒙特\",\"迈克尔·曼多\"]",
+        "category": "tv",
+        "genre": "[\" 动作\",\"动画\",\"冒险\",\"动画片\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/488c051af3c09185cf58987d56551094.jpg",
+        "summary": "DC、华纳兄弟动画公司和华纳兄弟家庭娱乐公司联合推出《蝙蝠侠：骑士陨落》，这部三部曲电影将蝙蝠侠漫画史上最具标志性和最受欢迎的传奇故事之一搬上银幕。三部曲的第一部《蝙蝠侠：骑士陨落（上）》已于2026年安纳西国际动画电影节首映，并正式发行……",
+        "type": "动漫",
+        "fromWebUrl": "http://cj.hongniuzy1.com/index.php/vod/detail/id/JbkCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/dPNQ8Rwa/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
+        "id": 350,
+        "title": "哆啦A梦，新大雄的海底鬼岩城 (2026)",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"水田山葵\",\"大原惠美\",\"嘉数由美\",\"木村昴\"]",
+        "category": "tv",
+        "genre": "[\" 喜剧\",\"科幻\",\"动画\",\"冒险\",\"动画片\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/4497c7e72bb59c84ad147d9639dfbd05.jpg",
+        "summary": "哆啦A梦』2026年新作电影『哆啦A梦 新·大雄的海底鬼岩城』正式公布 描绘哆啦A梦与大雄一行人在海底世界展开的全新大冒险 1983年的《大雄的海底鬼岩城》时隔40多年后焕然新生 监督由首次执导《电影哆啦A梦》系列的矢嶋哲生担任",
+        "type": "动漫",
+        "fromWebUrl": "http://cj.hongniuzy1.com/index.php/vod/detail/id/FaACCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/bYE5NkMb/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 349,
         "title": "乐高星球大战：曼达洛人",
         "originalTitle": "",
