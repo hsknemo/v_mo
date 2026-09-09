@@ -30,17 +30,7 @@
         <span v-if="item.type" class="play-type-tag">{{ item.type }}</span>
       </div>
 
-      <div class="player-wrap">
-        <iframe
-          :key="item.src"
-          class="player-iframe"
-          :src="item.src"
-          frameborder="0"
-          allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
-          allowfullscreen
-          scrolling="auto"
-        ></iframe>
-      </div>
+      <EmbedPlayer :source="item.src" />
 
       <div class="live-info">
         <div v-if="item.logo" class="logo-row">
@@ -68,11 +58,12 @@
 </template>
 
 <script setup>
-import { computed, onMounted, watch } from 'vue'
+import { computed, onMounted } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { ArrowLeft, Lock, CoffeeCup, Present } from '@element-plus/icons-vue'
 import { useMediaData } from '@/composables/useMediaData'
 import { usePagePassword } from '@/composables/usePagePassword'
+import EmbedPlayer from '@/components/media/EmbedPlayer.vue'
 
 const route = useRoute()
 const router = useRouter()
@@ -98,12 +89,7 @@ const item = computed(() => {
   return (list.value || []).find((it) => it.id === id.value) || null
 })
 
-// 兜底：直接通过 URL 进入播放页且 src 非 https 时，浏览器跳转
-watch(item, (v) => {
-  if (v && v.src && !/^https:\/\//i.test(v.src)) {
-    window.location.replace(v.src)
-  }
-})
+// 直播 m3u8 统一交给解析播放器，无需浏览器直接跳转兜底
 
 function goBack() {
   if (window.history.length > 1) {
@@ -168,24 +154,6 @@ onMounted(load)
   color: #fff;
   font-size: 12px;
   font-weight: 600;
-}
-
-.player-wrap {
-  width: 100%;
-  background: #000;
-  border-radius: $radius-md;
-  overflow: hidden;
-  box-shadow: var(--shadow-card);
-  position: relative;
-}
-
-.player-iframe {
-  display: block;
-  width: 100%;
-  height: 70vh;
-  min-height: 360px;
-  border: 0;
-  background: #000;
 }
 
 .live-info {
@@ -306,11 +274,6 @@ onMounted(load)
 @media (max-width: $bp-mobile) {
   .play-title {
     font-size: 20px;
-  }
-
-  .player-iframe {
-    height: 50vh;
-    min-height: 260px;
   }
 
   .reward-entry {

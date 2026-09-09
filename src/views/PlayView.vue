@@ -42,19 +42,7 @@
         </div>
         <p v-if="item.originalTitle" class="play-subtitle">{{ item.originalTitle }}</p>
 
-        <div class="player-wrap">
-          <video
-            :key="currentSource"
-            class="player"
-            :src="currentSource"
-            :poster="item.poster"
-            controls
-            autoplay
-            playsinline
-          >
-            您的浏览器不支持视频播放
-          </video>
-        </div>
+        <EmbedPlayer :source="currentSource" />
 
         <div class="play-body">
           <div class="play-info">
@@ -150,6 +138,7 @@ import { ArrowLeft, Star, Lock, CoffeeCup, Present } from '@element-plus/icons-v
 import { useMediaData } from '@/composables/useMediaData'
 import { usePagePassword } from '@/composables/usePagePassword'
 import EpisodeList from '@/components/media/EpisodeList.vue'
+import EmbedPlayer from '@/components/media/EmbedPlayer.vue'
 
 const route = useRoute()
 const router = useRouter()
@@ -399,20 +388,6 @@ onMounted(async () => {
   margin: 0 0 $space-md;
   color: var(--text-secondary);
   font-size: 14px;
-}
-
-.player-wrap {
-  width: 100%;
-  background: #000;
-  border-radius: $radius-md;
-  overflow: hidden;
-  box-shadow: var(--shadow-card);
-}
-
-.player {
-  width: 100%;
-  max-height: 70vh;
-  display: block;
 }
 
 .play-body {
