@@ -3743,6 +3743,16 @@
                 "title": "第06集",
                 "source": "https://hn.bfvvs.com/play/dL9JQDXe/index.m3u8",
                 "id": 6
+            },
+            {
+                "title": "第07集",
+                "source": "https://hn.bfvvs.com/play/e31w4nxb/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第08集",
+                "source": "https://hn.bfvvs.com/play/bYE52LKb/index.m3u8",
+                "id": 8
             }
         ],
         "episodes": "完结"
