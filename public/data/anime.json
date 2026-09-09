@@ -1,5 +1,51 @@
 [
     {
+        "id": 349,
+        "title": "乐高星球大战：曼达洛人",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"大卫·阿克德\",\"艾瑞克·鲍扎\"]",
+        "category": "tv",
+        "genre": "[\" 科幻\",\"动画\",\"动画片\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/6e3ec74b642fe6f160ef5bff93cd9e27.jpg",
+        "summary": "赏金猎人和孩子重逢。",
+        "type": "动漫",
+        "fromWebUrl": "http://cj.hongniuzy1.com/index.php/vod/detail/id/AdkCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/av2ZARma/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
+        "id": 348,
+        "title": "肖申卓",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"\"]",
+        "category": "tv",
+        "genre": "[\" 都市奇幻\",\"商界风云\",\"逆袭\",\"动画片\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/f1d1f342b720af1903d15eee6a582e3d.jpg",
+        "summary": "屡遭“剧情俗套”批评的编剧，在一场奇妙意外后意识坠入自己创作的小说世界，附身于本是工具人的男二号肖申卓。手握全剧“剧本”的他，决心打破既定命运，亲手改写所有陈腐桥段。面对原剧情里的情感勒索与刁难，肖申卓清醒止损，果断跳出无意义内耗；看穿主角宇龙的系统光环与背后的生态、商业隐患，他提前入局新能源材料赛道，扶持怀才不遇的科研人才，以实业担当推动环保科技发展。途中他救下本将走向悲剧黑化的少女菲琳，用真诚与尊重融化隔阂，弥补原著遗憾，收获势均力敌的真挚爱情。从被动接受剧情的配角，到主导人生的破局者，肖申卓以远见与",
+        "type": "动漫",
+        "fromWebUrl": "http://cj.hongniuzy1.com/index.php/vod/detail/id/XtkCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/dL9JNZXe/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 339,
         "title": "凤仙花",
         "originalTitle": "",
