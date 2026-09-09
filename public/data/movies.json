@@ -1,5 +1,97 @@
 [
     {
+        "id": 347,
+        "title": "犯罪都市4",
+        "originalTitle": "",
+        "year": "2024",
+        "rating": "7.3",
+        "cast": "[\"马东锡\",\"金武烈\",\"李东辉\",\"朴智焕\"]",
+        "category": "movie",
+        "genre": "[\" 犯罪\",\"犯罪片\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/fb042e7a5b7716fd0836e25316482bf9.jpg",
+        "summary": "暂无简介",
+        "type": "电影",
+        "fromWebUrl": "http://cj.hongniuzy1.com/index.php/vod/detail/id/v7PCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/PdRNZ1wd/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
+        "id": 346,
+        "title": "犯罪都市3",
+        "originalTitle": "",
+        "year": "2023",
+        "rating": "7.5",
+        "cast": "[\"马东锡\",\"李浚赫\",\"青木崇高\",\"李凡秀\",\"金敏载\",\"全锡浩\",\"高圭弼\"]",
+        "category": "movie",
+        "genre": "[\" 动作\",\"犯罪\",\"动作片\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/99d4eaef9991695d7ad94b83ad5c5223.jpg",
+        "summary": "无可替代的怪物刑警马锡道华丽回归！",
+        "type": "电影",
+        "fromWebUrl": "http://cj.hongniuzy1.com/index.php/vod/detail/id/kpDCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/9av00VLd/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
+        "id": 345,
+        "title": "犯罪都市2",
+        "originalTitle": "",
+        "year": "2022",
+        "rating": "0.0",
+        "cast": "[\"马东锡\",\"孙锡久\",\"崔奎华\",\"许栋元\",\"朴智焕\",\"河俊\",\"朴嘉熙\",\"尹炳熙\",\"朴恩宇\",\"全镇吾\",\"金相中\",\"音文硕\",\"南文哲\",\"郑在光\",\"Jaekwang\",\"Jeong\",\"李柱元\"]",
+        "category": "movie",
+        "genre": "[\" 动作\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/upload/vod/20220714-1/1d8c3efe95676bd03d1f9a34f89c8f1d.jpg",
+        "summary": "《犯罪都市》制作公司表示该片的续集将于2019年中旬开机，仍由前集导演姜允成执导，马东锡主演。目前续集正在进行剧本创作，特别值得注意的是，制片方表示续集将拍成能让更多人观看的15禁警匪动作片，同时还强调希望将马东锡饰演的警察角色打造成韩国的代表警察形象。",
+        "type": "电影",
+        "fromWebUrl": "http://cj.hongniuzy1.com/index.php/vod/detail/id/oujCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/vbmxxJEa/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
+        "id": 344,
+        "title": "犯罪都市",
+        "originalTitle": "",
+        "year": "2017",
+        "rating": "0.0",
+        "cast": "[\"马东锡\",\"尹启相\",\"赵在允\",\"崔奎华\",\"林炯俊\",\"陈善圭\",\"洪基俊\",\"许栋元\",\"河俊\",\"金成圭\",\"朴智焕\",\"许成泰\",\"闵庆珍\",\"尹炳熙\",\"李相元\",\"郑仁基\",\"严智星\",\"白仁权\",\"裴振雄\",\"韩成天\",\"金久澤\",\"金旲兴\",\"崔成宰\",\"赵震雄\",\"允珠\"]",
+        "category": "movie",
+        "genre": "[\" 动作\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/upload/vod/2021-08-14/202108141628932752.jpg",
+        "summary": "來自哈爾濱，惡名昭彰的「黑龍派」聚集了大量中國邊境朝鮮族出身的打工者、非法滯留者，在2004年大舉入侵韓國首爾，是以張晨（尹啟相 飾）為首的新興犯罪組織，張晨素以殘暴無良聞名，為錢無惡不作，快速威脅各區原有勢力，望制霸韓國。首爾一時間陷入黑幫恐慌之中，而此時以鐵拳聞名，一天就能處理一整區罪犯的怪物刑警察－馬錫道（馬東石 飾），錫道為了掃蕩被地下勢力入侵的首爾，展開特殊行動，誓言將黑龍派一網打盡，給他們最痛快的一擊.",
+        "type": "电影",
+        "fromWebUrl": "http://cj.hongniuzy1.com/index.php/vod/detail/id/A7ICCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/9av00Vgd/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 331,
         "title": "奇门遁甲：逢凶化吉",
         "originalTitle": "",
