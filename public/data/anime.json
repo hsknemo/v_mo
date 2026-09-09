@@ -1,5 +1,415 @@
 [
     {
+        "id": 358,
+        "title": "越狱兔 第五季",
+        "originalTitle": "",
+        "year": "2012",
+        "rating": "9.2",
+        "cast": "[\"\"]",
+        "category": "tv",
+        "genre": "[\" 剧情\",\"喜剧\",\"动画\",\"日本动漫\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/1b12b960e32d56ec997faccfaf6d9db3.jpg",
+        "summary": "基里连科与普京来到了一片森林，开始了隐居的日子。在森林里遇到一只白色的兔子（目前名称不明），因基里连科的手提箱可以变换出萝卜，于是开始用各种搞笑古怪的计谋偷窃或抢走手提箱，可惜一直没有成功，还被基里连科揍过多次。剧集的最后，白兔抢到了手提箱也未被基里连科捉住，两人追逐之时，一心想把基里连科弄走的机器兔汽车搬出木头成功把两只送上天空。而普京也将机器兔改造成飞行工具，决心寻找二人",
+        "type": "动漫",
+        "fromWebUrl": "http://cj.hongniuzy1.com/index.php/vod/detail/id/LGwCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "第1集",
+                "source": "https://hn.bfvvs.com/play/0dNlpyva/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "第2集",
+                "source": "https://hn.bfvvs.com/play/NbWxmXxd/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第3集",
+                "source": "https://hn.bfvvs.com/play/Le3zOXRd/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "第4集",
+                "source": "https://hn.bfvvs.com/play/Pe9JONDa/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "第5集",
+                "source": "https://hn.bfvvs.com/play/7e5B3gYa/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "第6集",
+                "source": "https://hn.bfvvs.com/play/7axp9wBa/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "第7集",
+                "source": "https://hn.bfvvs.com/play/xbo37kYb/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第8集",
+                "source": "https://hn.bfvvs.com/play/QbYz0RAd/index.m3u8",
+                "id": 8
+            },
+            {
+                "title": "第9集",
+                "source": "https://hn.bfvvs.com/play/ZdPnr8Aa/index.m3u8",
+                "id": 9
+            },
+            {
+                "title": "第10集",
+                "source": "https://hn.bfvvs.com/play/negR6Prd/index.m3u8",
+                "id": 10
+            },
+            {
+                "title": "第11集",
+                "source": "https://hn.bfvvs.com/play/oeEYGmge/index.m3u8",
+                "id": 11
+            },
+            {
+                "title": "第12集",
+                "source": "https://hn.bfvvs.com/play/xbo37kXb/index.m3u8",
+                "id": 12
+            },
+            {
+                "title": "第13集完结",
+                "source": "https://hn.bfvvs.com/play/negR6Nkd/index.m3u8",
+                "id": 13
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
+        "id": 357,
+        "title": "越狱兔 第四季",
+        "originalTitle": "",
+        "year": "2011",
+        "rating": "9.1",
+        "cast": "[\"上野大典\"]",
+        "category": "tv",
+        "genre": "[\" 喜剧\",\"动画\",\"短片\",\"日本动漫\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/03c20a504b131870a8100160e5e3c496.jpg",
+        "summary": "得到帆布鞋后，基里连科专注于新帆布鞋而无心旅行，于是一行人便居住在兹鲁宗洛夫家。讲述普京试图为机械列克1号添加各种机能以便利生活，但却不断弄巧成拙的日常生活故事。",
+        "type": "动漫",
+        "fromWebUrl": "http://cj.hongniuzy1.com/index.php/vod/detail/id/bGwCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "第1集",
+                "source": "https://hn.bfvvs.com/play/vbm1GjGb/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "第2集",
+                "source": "https://hn.bfvvs.com/play/9avnDv5a/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第3集",
+                "source": "https://hn.bfvvs.com/play/6dBVQmYd/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "第4集",
+                "source": "https://hn.bfvvs.com/play/wdLjnzra/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "第5集",
+                "source": "https://hn.bfvvs.com/play/PdRpwJEa/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "第6集",
+                "source": "https://hn.bfvvs.com/play/xe7EOB1b/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "第7集",
+                "source": "https://hn.bfvvs.com/play/Qe10QNmd/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第8集",
+                "source": "https://hn.bfvvs.com/play/mbkYD0Ne/index.m3u8",
+                "id": 8
+            },
+            {
+                "title": "第9集",
+                "source": "https://hn.bfvvs.com/play/zbqgDkpe/index.m3u8",
+                "id": 9
+            },
+            {
+                "title": "第10集",
+                "source": "https://hn.bfvvs.com/play/mbkYD06e/index.m3u8",
+                "id": 10
+            },
+            {
+                "title": "第11集",
+                "source": "https://hn.bfvvs.com/play/zbqgDk0e/index.m3u8",
+                "id": 11
+            },
+            {
+                "title": "第12集",
+                "source": "https://hn.bfvvs.com/play/kazr9wZa/index.m3u8",
+                "id": 12
+            },
+            {
+                "title": "第13集完结",
+                "source": "https://hn.bfvvs.com/play/QdJ4l9Ja/index.m3u8",
+                "id": 13
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
+        "id": 356,
+        "title": "越狱兔 第三季",
+        "originalTitle": "",
+        "year": "2008",
+        "rating": "9.4",
+        "cast": "[\"上野大典\"]",
+        "category": "tv",
+        "genre": "[\" 喜剧\",\"动画\",\"短片\",\"日本动漫\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/fb42cfc88e16f79a2b3cb9fbcc1ea8c5.jpg",
+        "summary": "讲述基里连科等人到达一座城市里，进入一所商店打算购买限量版帆布鞋，然而该商店的老板觊觎基里连科的金钱而打算除之为快，而基里连科为了得到被收走的帆布鞋逐层向上突破的故事。",
+        "type": "动漫",
+        "fromWebUrl": "http://cj.hongniuzy1.com/index.php/vod/detail/id/WGwCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "第1集",
+                "source": "https://hn.bfvvs.com/play/9avnR00a/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "第2集",
+                "source": "https://hn.bfvvs.com/play/Le3zE8Rd/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第4集",
+                "source": "https://hn.bfvvs.com/play/vbm18xGb/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "第5集",
+                "source": "https://hn.bfvvs.com/play/mbkYB1Ne/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "第6集",
+                "source": "https://hn.bfvvs.com/play/Pe9JGZDa/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "第7集",
+                "source": "https://hn.bfvvs.com/play/6dBVOZkd/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "第8集",
+                "source": "https://hn.bfvvs.com/play/wdLj0rXa/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第9集",
+                "source": "https://hn.bfvvs.com/play/Qe10ELVd/index.m3u8",
+                "id": 8
+            },
+            {
+                "title": "第10集",
+                "source": "https://hn.bfvvs.com/play/PdRpkNOa/index.m3u8",
+                "id": 9
+            },
+            {
+                "title": "第11集",
+                "source": "https://hn.bfvvs.com/play/vbm18x9b/index.m3u8",
+                "id": 10
+            },
+            {
+                "title": "第12集",
+                "source": "https://hn.bfvvs.com/play/9avnR05a/index.m3u8",
+                "id": 11
+            },
+            {
+                "title": "第13集完结",
+                "source": "https://hn.bfvvs.com/play/xe7EYRyb/index.m3u8",
+                "id": 12
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
+        "id": 355,
+        "title": "越狱兔 第二季",
+        "originalTitle": "",
+        "year": "2007",
+        "rating": "9.4",
+        "cast": "[\"上野大典\"]",
+        "category": "tv",
+        "genre": "[\" 喜剧\",\"动画\",\"短片\",\"日本动漫\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/ed936abf233af281ff9a6a93152fd9c6.jpg",
+        "summary": "10558423",
+        "type": "动漫",
+        "fromWebUrl": "http://cj.hongniuzy1.com/index.php/vod/detail/id/YGwCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "第1集",
+                "source": "https://hn.bfvvs.com/play/QdJ4zgga/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "第2集",
+                "source": "https://hn.bfvvs.com/play/ZdPngo4a/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第3集",
+                "source": "https://hn.bfvvs.com/play/xe7EYmQb/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "第4集",
+                "source": "https://hn.bfvvs.com/play/zbqg607e/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "第5集",
+                "source": "https://hn.bfvvs.com/play/7axp84Ba/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "第6集",
+                "source": "https://hn.bfvvs.com/play/xbo384Xb/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "第7集",
+                "source": "https://hn.bfvvs.com/play/mbkYBkJe/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第8集",
+                "source": "https://hn.bfvvs.com/play/mbkYBn6e/index.m3u8",
+                "id": 8
+            },
+            {
+                "title": "第9集",
+                "source": "https://hn.bfvvs.com/play/negR84kd/index.m3u8",
+                "id": 9
+            },
+            {
+                "title": "第10集",
+                "source": "https://hn.bfvvs.com/play/kazrQJya/index.m3u8",
+                "id": 10
+            },
+            {
+                "title": "第11集",
+                "source": "https://hn.bfvvs.com/play/zbqg60pe/index.m3u8",
+                "id": 11
+            },
+            {
+                "title": "第12集",
+                "source": "https://hn.bfvvs.com/play/QbYzrA2d/index.m3u8",
+                "id": 12
+            },
+            {
+                "title": "第13集完结",
+                "source": "https://hn.bfvvs.com/play/7e5BVG8a/index.m3u8",
+                "id": 13
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
+        "id": 354,
+        "title": "越狱兔 第一季",
+        "originalTitle": "",
+        "year": "2004",
+        "rating": "9.2",
+        "cast": "[\"上野大典\"]",
+        "category": "tv",
+        "genre": "[\" 喜剧\",\"动画\",\"短片\",\"日本动漫\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/b7469deed62387308d9fa1636e18db31.jpg",
+        "summary": "故事围绕着两只在1961年的苏联时于监狱服刑的兔子普京和基廉列克。第一季关于在监狱中发生的故事，在普京刑期满的前一天，基廉列克因在杂志里发现限量版帆布鞋即将发售而决定逃狱，普京也莫名其妙地跟上去。",
+        "type": "动漫",
+        "fromWebUrl": "http://cj.hongniuzy1.com/index.php/vod/detail/id/FGwCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "第1集",
+                "source": "https://hn.bfvvs.com/play/vbm1GV3b/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "第2集",
+                "source": "https://hn.bfvvs.com/play/9avnD7na/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第3集",
+                "source": "https://hn.bfvvs.com/play/QdJ4lRKa/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "第4集",
+                "source": "https://hn.bfvvs.com/play/9avnDz8a/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "第5集",
+                "source": "https://hn.bfvvs.com/play/vbm1GnRb/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "第6集",
+                "source": "https://hn.bfvvs.com/play/wdLjn2Da/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "第7集",
+                "source": "https://hn.bfvvs.com/play/6dBVQ2Qd/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第8集",
+                "source": "https://hn.bfvvs.com/play/PdRpw0Va/index.m3u8",
+                "id": 8
+            },
+            {
+                "title": "第9集",
+                "source": "https://hn.bfvvs.com/play/xe7EOwQb/index.m3u8",
+                "id": 9
+            },
+            {
+                "title": "第10集",
+                "source": "https://hn.bfvvs.com/play/Qe10QnZd/index.m3u8",
+                "id": 10
+            },
+            {
+                "title": "第11集",
+                "source": "https://hn.bfvvs.com/play/kazr9oqa/index.m3u8",
+                "id": 11
+            },
+            {
+                "title": "第12集",
+                "source": "https://hn.bfvvs.com/play/mbkYDlJe/index.m3u8",
+                "id": 12
+            },
+            {
+                "title": "第13集完结",
+                "source": "https://hn.bfvvs.com/play/zbqgD97e/index.m3u8",
+                "id": 13
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 353,
         "title": "钟馗",
         "originalTitle": "",
