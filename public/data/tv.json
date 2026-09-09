@@ -1,5 +1,73 @@
 [
     {
+        "id": 340,
+        "title": "济公之降龙除妖",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"陈浩民\",\"陈紫函\"]",
+        "category": "tv",
+        "genre": "[\" 神话传说\",\"古装\",\"喜剧\",\"内地剧\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/dd483b9b4964c66303908e32bce43481.jpg",
+        "summary": "济公游走凡尘渡化众生，却身陷宿命情劫。与旧识女子因缘重逢，二人在爱恨纠葛中直面妖邪祸乱。一边是灵隐寺嬉笑日常，一边是神魔殊死博弈。勘破贪嗔痴妄，于悲欢离合间，降妖除魔，守护世间安宁。",
+        "type": "电视剧",
+        "fromWebUrl": "http://cj.hongniuzy1.com/index.php/vod/detail/id/IakCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "第01集",
+                "source": "https://hn.bfvvs.com/play/bmZy1pnd/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "第02集",
+                "source": "https://hn.bfvvs.com/play/bkR7Y3Ja/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第03集",
+                "source": "https://hn.bfvvs.com/play/av2ZnBLa/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "第04集",
+                "source": "https://hn.bfvvs.com/play/bqxZg3ya/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "第05集",
+                "source": "https://hn.bfvvs.com/play/bkR7Y3va/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "第06集",
+                "source": "https://hn.bfvvs.com/play/e73XEGBe/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "第07集",
+                "source": "https://hn.bfvvs.com/play/eERxAWma/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第08集",
+                "source": "https://hn.bfvvs.com/play/dNk0NWme/index.m3u8",
+                "id": 8
+            },
+            {
+                "title": "第09集",
+                "source": "https://hn.bfvvs.com/play/bmZyBErd/index.m3u8",
+                "id": 9
+            },
+            {
+                "title": "第10集",
+                "source": "https://hn.bfvvs.com/play/e9rgn2Za/index.m3u8",
+                "id": 10
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 332,
         "title": "猎罪现场",
         "originalTitle": "",
