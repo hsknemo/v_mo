@@ -1,5 +1,28 @@
 [
     {
+        "id": 338,
+        "title": "杯雪",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"\"]",
+        "category": "tv",
+        "genre": "[\" 传统派\",\"武侠\",\"玄幻\",\"中国动漫\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/4c1c068158a961bf19695836e5853f20.jpg",
+        "summary": "大漠少年骆寒每三年入中原一次，只为给好友易敛送一枚药杯。而这一年的送杯之旅，为解易敛之困，骆寒以身入局，牵动起一桩巨额赃银失窃案，将各方江湖草莽、朝堂显贵纷纷卷入其中，搅动天下时局。",
+        "type": "动漫",
+        "fromWebUrl": "http://cj.hongniuzy1.com/index.php/vod/detail/id/DbkCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "全集完结",
+                "source": "https://hn.bfvvs.com/play/eERxBLma/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 336,
         "title": "沧元图3D动漫版",
         "originalTitle": "",
