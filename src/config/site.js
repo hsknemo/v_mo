@@ -1,6 +1,8 @@
 export default {
   name: "维默观影",
   menus: [
+    // 首页轮播暂时下线，保留 HomeView / BannerCarousel 组件，需要时恢复此菜单即可
+    // { name: "home", path: "/", label: "首页", component: "HomeView" },
     { name: "movie", path: "/movie", label: "电影", component: "MovieView" },
     { name: "tv", path: "/tv", label: "电视剧", component: "TvView" },
     { name: "ustv", path: "/ustv", label: "美剧", component: "UsView" },
@@ -29,6 +31,7 @@ export default {
     },
   ],
   dataSources: {
+    banners: "/data/banners.json",
     movie: "/data/movies.json",
     tv: "/data/tv.json",
     ustv: "/data/ustv.json",

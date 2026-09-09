@@ -22,6 +22,7 @@ routes.push({
   meta: { title: "直播" },
 });
 
+// 首页暂时下线，根路径进入第一个菜单页（电影）
 routes.push({
   path: "/",
   redirect: site.menus[0].path,

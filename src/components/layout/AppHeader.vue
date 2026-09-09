@@ -1,9 +1,8 @@
 <template>
   <header class="app-header">
     <div class="container header-inner">
-      <router-link to="/" class="logo">
-        <span class="logo-icon">🎬</span>
-        <span class="logo-text">维默观影</span>
+      <router-link to="/" class="logo" aria-label="维默观影">
+        <span class="logo-icon">🍦</span>
       </router-link>
 
       <nav class="nav-pc">
@@ -85,20 +84,12 @@ watch(drawer, (open) => {
 .logo {
   display: flex;
   align-items: center;
-  gap: $space-sm;
   font-size: 20px;
   font-weight: 800;
   color: var(--text-primary);
 
   .logo-icon {
     font-size: 24px;
-  }
-
-  .logo-text {
-    background: var(--gradient-brand);
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
   }
 }
 
@@ -261,9 +252,6 @@ watch(drawer, (open) => {
   }
   .header-inner {
     gap: $space-sm;
-  }
-  .logo-text {
-    font-size: 18px;
   }
 }
 </style>
