@@ -64,6 +64,7 @@ import { ArrowLeft, Lock, CoffeeCup, Present } from '@element-plus/icons-vue'
 import { useMediaData } from '@/composables/useMediaData'
 import { usePagePassword } from '@/composables/usePagePassword'
 import EmbedPlayer from '@/components/media/EmbedPlayer.vue'
+import CopyLinkButton from '@/components/common/CopyLinkButton.vue'
 
 const route = useRoute()
 const router = useRouter()
@@ -154,6 +155,10 @@ onMounted(load)
   color: #fff;
   font-size: 12px;
   font-weight: 600;
+}
+
+.title-copy {
+  margin-left: auto;
 }
 
 .live-info {

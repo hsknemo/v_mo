@@ -139,6 +139,7 @@ import { useMediaData } from '@/composables/useMediaData'
 import { usePagePassword } from '@/composables/usePagePassword'
 import EpisodeList from '@/components/media/EpisodeList.vue'
 import EmbedPlayer from '@/components/media/EmbedPlayer.vue'
+import CopyLinkButton from '@/components/common/CopyLinkButton.vue'
 
 const route = useRoute()
 const router = useRouter()
@@ -382,6 +383,10 @@ onMounted(async () => {
   font-weight: 600;
   white-space: nowrap;
   box-shadow: 0 2px 6px rgba(255, 140, 60, 0.25);
+}
+
+.title-copy {
+  margin-left: auto;
 }
 
 .play-subtitle {
