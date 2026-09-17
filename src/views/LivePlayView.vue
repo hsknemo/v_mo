@@ -28,6 +28,7 @@
       <div class="play-title-row">
         <h1 class="play-title">{{ item.title }}</h1>
         <span v-if="item.type" class="play-type-tag">{{ item.type }}</span>
+        <CopyLinkButton v-if="item.src" class="title-copy" :link="item.src" />
       </div>
 
       <EmbedPlayer :source="item.src" />

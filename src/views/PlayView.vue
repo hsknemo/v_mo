@@ -39,6 +39,11 @@
           <span v-if="isSeries && currentEpisode" class="play-episode-tag">
             {{ currentEpisode.title }}
           </span>
+          <CopyLinkButton
+            v-if="currentSource"
+            class="title-copy"
+            :link="currentSource"
+          />
         </div>
         <p v-if="item.originalTitle" class="play-subtitle">{{ item.originalTitle }}</p>
 
