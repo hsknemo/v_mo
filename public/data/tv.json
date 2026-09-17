@@ -1,5 +1,88 @@
 [
     {
+        "id": 372,
+        "title": "冬城猎凶",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"万茜\",\"王阳\"]",
+        "category": "tv",
+        "genre": "[\" 剧情\",\"犯罪\",\"内地剧\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/b80976c1c6ae15996f3251b74a73fc8d.jpg",
+        "summary": "刑警李豫京被借调协助女警岳晴川侦办一宗系列儿童拐卖案，竟意外在探查过程中发现了自己13年前经手的一起持械抢劫案的线索，两人携手跨越13年的时间间隔，上演了一段双时间线的硬核追凶故事。",
+        "type": "电视剧",
+        "fromWebUrl": "http://cj.hongniuzy1.com/index.php/vod/detail/id/k4kCCS.html?ac=detail????",
+        "episodeList": [
+            {
+                "title": "第1集",
+                "source": "https://hn.bfvvs.com/play/azpX20Yd/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "第2集",
+                "source": "https://hn.bfvvs.com/play/dL9JM1re/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第3集",
+                "source": "https://hn.bfvvs.com/play/dR612KEd/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "第4集",
+                "source": "https://hn.bfvvs.com/play/e9rgRPxa/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "第5集",
+                "source": "https://hn.bfvvs.com/play/bmZERjGd/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "第6集",
+                "source": "https://hn.bfvvs.com/play/av2jqv5a/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "第7集",
+                "source": "https://hn.bfvvs.com/play/e319lprb/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第8集",
+                "source": "https://hn.bfvvs.com/play/e73A6kwe/index.m3u8",
+                "id": 8
+            },
+            {
+                "title": "第9集",
+                "source": "https://hn.bfvvs.com/play/bo2OQ93a/index.m3u8",
+                "id": 9
+            },
+            {
+                "title": "第10集",
+                "source": "https://hn.bfvvs.com/play/azpnv1Od/index.m3u8",
+                "id": 10
+            },
+            {
+                "title": "第11集",
+                "source": "https://hn.bfvvs.com/play/e9r29B8a/index.m3u8",
+                "id": 11
+            },
+            {
+                "title": "第12集",
+                "source": "https://hn.bfvvs.com/play/bmZEYWEd/index.m3u8",
+                "id": 12
+            },
+            {
+                "title": "第13集",
+                "source": "https://hn.bfvvs.com/play/av2jZrra/index.m3u8",
+                "id": 13
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 370,
         "title": "兰香如故",
         "originalTitle": "",
