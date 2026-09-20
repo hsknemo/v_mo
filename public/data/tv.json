@@ -176,6 +176,26 @@
                 "title": "第16集",
                 "source": "https://hn.bfvvs.com/play/dJ6PQMld/index.m3u8",
                 "id": 16
+            },
+            {
+                "title": "第17集",
+                "source": "https://hn.bfvvs.com/play/e5yWly8e/index.m3u8",
+                "id": 17
+            },
+            {
+                "title": "第18集",
+                "source": "https://hn.bfvvs.com/play/dJ6PYqJd/index.m3u8",
+                "id": 18
+            },
+            {
+                "title": "第19集",
+                "source": "https://hn.bfvvs.com/play/bqx2AKGa/index.m3u8",
+                "id": 19
+            },
+            {
+                "title": "第20集",
+                "source": "https://hn.bfvvs.com/play/e5yWAqRe/index.m3u8",
+                "id": 20
             }
         ],
         "episodes": "完结"
