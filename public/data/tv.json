@@ -1,5 +1,93 @@
 [
     {
+        "id": 376,
+        "title": "一瓯春",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"许凯\",\"周也\"]",
+        "category": "tv",
+        "genre": "[\" 古装爱情\",\"复仇爽剧\",\"内地剧\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/fab55811525be3d6e53a950bf168117b.jpg",
+        "summary": "家破人亡的少年沈润和谢府落难庶女谢清圆，于灵魂暗夜中相遇相扶，离别时沈润以亡父的银币相赠，约好要一起活下去。成年后谢清圆回归谢府，智计过人，誓为亡母洗冤；沈润已成重臣，奉旨肃清横塘。两人重逢却不识，但在权谋交锋中再动真心。两人从后宅到朝堂共历风雨，为亲人昭雪沉冤，为民推行新政，终为眷侣。",
+        "type": "电视剧",
+        "fromWebUrl": "https://cj.hongniuzy1.com/index.php/vod/detail/id/yrkCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "第1集",
+                "source": "https://hn.bfvvs.com/play/e73AXnBe/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "第2集",
+                "source": "https://hn.bfvvs.com/play/bqx2ZVya/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第3集",
+                "source": "https://hn.bfvvs.com/play/e5yWLAXe/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "第4集",
+                "source": "https://hn.bfvvs.com/play/e1w94Yqb/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "第5集",
+                "source": "https://hn.bfvvs.com/play/azpnXB2d/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "第6集",
+                "source": "https://hn.bfvvs.com/play/bkRo7wva/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "第7集",
+                "source": "https://hn.bfvvs.com/play/dPNYMm4a/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第8集",
+                "source": "https://hn.bfvvs.com/play/bYEMQp2b/index.m3u8",
+                "id": 8
+            },
+            {
+                "title": "第9集",
+                "source": "https://hn.bfvvs.com/play/dJ6PE42d/index.m3u8",
+                "id": 9
+            },
+            {
+                "title": "第10集",
+                "source": "https://hn.bfvvs.com/play/azpnqrYd/index.m3u8",
+                "id": 10
+            },
+            {
+                "title": "第11集",
+                "source": "https://hn.bfvvs.com/play/dNk8pK2e/index.m3u8",
+                "id": 11
+            },
+            {
+                "title": "第12集",
+                "source": "https://hn.bfvvs.com/play/eERPGXWa/index.m3u8",
+                "id": 12
+            },
+            {
+                "title": "第13集",
+                "source": "https://hn.bfvvs.com/play/eERP1pWa/index.m3u8",
+                "id": 13
+            },
+            {
+                "title": "第14集",
+                "source": "https://hn.bfvvs.com/play/dNk8XB2e/index.m3u8",
+                "id": 14
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 372,
         "title": "冬城猎凶",
         "originalTitle": "",
@@ -78,6 +166,31 @@
                 "title": "第13集",
                 "source": "https://hn.bfvvs.com/play/av2jZrra/index.m3u8",
                 "id": 13
+            },
+            {
+                "title": "第14集",
+                "source": "https://hn.bfvvs.com/play/axklVkBe/index.m3u8",
+                "id": 14
+            },
+            {
+                "title": "第15集",
+                "source": "https://hn.bfvvs.com/play/av2jmNma/index.m3u8",
+                "id": 15
+            },
+            {
+                "title": "第16集",
+                "source": "https://hn.bfvvs.com/play/bmZE7AOd/index.m3u8",
+                "id": 16
+            },
+            {
+                "title": "第17集",
+                "source": "https://hn.bfvvs.com/play/bmZE7A0d/index.m3u8",
+                "id": 17
+            },
+            {
+                "title": "第18集已完结",
+                "source": "https://hn.bfvvs.com/play/av2jmNra/index.m3u8",
+                "id": 18
             }
         ],
         "episodes": "完结"
