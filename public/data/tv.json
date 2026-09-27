@@ -1,5 +1,216 @@
 [
     {
+        "id": 379,
+        "title": "云雀叫天录",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"张一山\",\"谭卓\",\"曹磊\",\"杨立新\"]",
+        "category": "tv",
+        "genre": "[\" 年代剧\",\"传记\",\"内地剧\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/238cded6b2966171e52be1ee183fb684.jpg",
+        "summary": " 故事讲述了18岁出科的孟金福，从武丑到武生再到老生，从前途渺茫的菊坛新人到梨园名角，一个天赋平平、家境贫寒的普通少年，在时代的变迁和生活的百般试炼中，他坚持自我，以纯粹的态度追求老生梦，最终不负自己，在艺术上取得很高成就，最终在竞争激烈的梨园中站稳脚跟，其经历成为一段广为流传的故事。 \n\n",
+        "type": "电视剧",
+        "fromWebUrl": "https://cj.hongniuzy1.com/index.php/vod/detail/id/NNkCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "第1集",
+                "source": "https://hn.bfvvs.com/play/bW687Zxa/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "第2集",
+                "source": "https://hn.bfvvs.com/play/e31927Rb/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第3集",
+                "source": "https://hn.bfvvs.com/play/axklvPBe/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "第4集",
+                "source": "https://hn.bfvvs.com/play/eERP9Aga/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "第5集",
+                "source": "https://hn.bfvvs.com/play/dNk89Nve/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "第6集",
+                "source": "https://hn.bfvvs.com/play/bkRo8GKa/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "第7集",
+                "source": "https://hn.bfvvs.com/play/bqx27Oka/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第8集",
+                "source": "https://hn.bfvvs.com/play/e5yWRVve/index.m3u8",
+                "id": 8
+            },
+            {
+                "title": "第9集",
+                "source": "https://hn.bfvvs.com/play/egJkn83d/index.m3u8",
+                "id": 9
+            },
+            {
+                "title": "第10集",
+                "source": "https://hn.bfvvs.com/play/dJ6PQEyd/index.m3u8",
+                "id": 10
+            },
+            {
+                "title": "第11集",
+                "source": "https://hn.bfvvs.com/play/dPNYQ66a/index.m3u8",
+                "id": 11
+            },
+            {
+                "title": "第12集",
+                "source": "https://hn.bfvvs.com/play/bW688yga/index.m3u8",
+                "id": 12
+            },
+            {
+                "title": "第13集",
+                "source": "https://hn.bfvvs.com/play/dR6L8KRd/index.m3u8",
+                "id": 13
+            },
+            {
+                "title": "第14集",
+                "source": "https://hn.bfvvs.com/play/e1w9VMjb/index.m3u8",
+                "id": 14
+            },
+            {
+                "title": "第15集",
+                "source": "https://hn.bfvvs.com/play/bqx2MNya/index.m3u8",
+                "id": 15
+            },
+            {
+                "title": "第16集",
+                "source": "https://hn.bfvvs.com/play/bkRoOEva/index.m3u8",
+                "id": 16
+            },
+            {
+                "title": "第17集",
+                "source": "https://hn.bfvvs.com/play/dR6LkYEd/index.m3u8",
+                "id": 17
+            },
+            {
+                "title": "第18集",
+                "source": "https://hn.bfvvs.com/play/dL9P06re/index.m3u8",
+                "id": 18
+            },
+            {
+                "title": "第19集",
+                "source": "https://hn.bfvvs.com/play/bkRoXWKa/index.m3u8",
+                "id": 19
+            },
+            {
+                "title": "第20集",
+                "source": "https://hn.bfvvs.com/play/e73AVqOe/index.m3u8",
+                "id": 20
+            },
+            {
+                "title": "第21集",
+                "source": "https://hn.bfvvs.com/play/bmZEXvRd/index.m3u8",
+                "id": 21
+            },
+            {
+                "title": "第22集",
+                "source": "https://hn.bfvvs.com/play/e9r2X4Ja/index.m3u8",
+                "id": 22
+            },
+            {
+                "title": "第23集",
+                "source": "https://hn.bfvvs.com/play/bYEMZvnb/index.m3u8",
+                "id": 23
+            },
+            {
+                "title": "第24集",
+                "source": "https://hn.bfvvs.com/play/av2jwjra/index.m3u8",
+                "id": 24
+            },
+            {
+                "title": "第25集",
+                "source": "https://hn.bfvvs.com/play/bkRoKxva/index.m3u8",
+                "id": 25
+            },
+            {
+                "title": "第26集",
+                "source": "https://hn.bfvvs.com/play/bo2O01Na/index.m3u8",
+                "id": 26
+            },
+            {
+                "title": "第27集",
+                "source": "https://hn.bfvvs.com/play/egJkG0ld/index.m3u8",
+                "id": 27
+            },
+            {
+                "title": "第28集",
+                "source": "https://hn.bfvvs.com/play/bqx2997a/index.m3u8",
+                "id": 28
+            },
+            {
+                "title": "第29集",
+                "source": "https://hn.bfvvs.com/play/bkRoPlJa/index.m3u8",
+                "id": 29
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
+        "id": 378,
+        "title": "征途",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"李健\",\"张宁江\",\"吴其江\",\"林江国\"]",
+        "category": "tv",
+        "genre": "[\" 历史\",\"内地剧\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/52a2eaa4181d764a87ee4761c15f5afc.jpg",
+        "summary": "1935年6月，川西高原的雪山脚下，红一、红四方面军历经千难万险在懋功胜利会师。会师之后，张国焘公然分裂中央，提出违背革命潮流的“南下”主张，将红军推向生死存亡的边缘。在这危急关头，毛泽东以非凡的政治智慧与战略眼光，毅然率领右路红军继续北上，旨在联合一切抗日力量，推动抗日民族统一战线的建立。左路军中，朱德、刘伯承等同志以钢铁般的意志，以大局为重，团结广大指战员和少数民族群众，让各民族团结的火焰在革命最艰难的时刻愈发炽烈。红军在复杂的历史环境下与少数民族群众团结抗敌、和睦共处，在长征中展现了民族团结的伟大力",
+        "type": "电视剧",
+        "fromWebUrl": "https://cj.hongniuzy1.com/index.php/vod/detail/id/wOkCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "第01集",
+                "source": "https://hn.bfvvs.com/play/egJkPpYd/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "第02集",
+                "source": "https://hn.bfvvs.com/play/bYEMRWKb/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第03集",
+                "source": "https://hn.bfvvs.com/play/dPNY87wa/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "第04集",
+                "source": "https://hn.bfvvs.com/play/e5yWgQBe/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "第5集",
+                "source": "https://hn.bfvvs.com/play/egJkPBDd/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "第6集",
+                "source": "https://hn.bfvvs.com/play/bo2OPNka/index.m3u8",
+                "id": 6
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 377,
         "title": "我不是大师",
         "originalTitle": "",
