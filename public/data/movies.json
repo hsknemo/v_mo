@@ -1,5 +1,51 @@
 [
     {
+        "id": 383,
+        "title": "熊猫计划",
+        "originalTitle": "",
+        "year": "2024",
+        "rating": "6.1",
+        "cast": "[\"成龙\",\"魏翔\",\"史策\",\"韩彦博\",\"贾冰\",\"安地\",\"马铁摩\",\"莎莎\",\"芮丹尼\",\"诺克\",\"图林\",\"伊万·波诺马连科\",\"奥梅尔·尤祖亚克\"]",
+        "category": "movie",
+        "genre": "[\" 喜剧\",\"动作\",\"动作片\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/8865522a87f300bac8a03a4ddcbc784b.jpg",
+        "summary": "超萌超可爱的熊猫幼崽呼呼被国际功夫巨星Jackie（成龙 饰）认养，满心期待开启新生活。然而，呼呼独有的“大小眼”特别基因却被国际犯罪组织盯上了，组织首领不惜悬赏雇佣兵一亿美金发起了一场熊猫抢夺战。面对突如其来的危机，新晋奶爸Jackie怎能袖手旁观？他联手金牌经纪人（魏翔 饰）与熊猫保育员（史策 饰）全力展开营救！万万没想到……这群反派好像不太聪明，一场惊险刺激却又荒诞可笑的守“呼”行动就此开启。",
+        "type": "电影",
+        "fromWebUrl": "https://cj.hongniuzy1.com/index.php/vod/detail/id/HniCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/vbmr2v0d/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
+        "id": 382,
+        "title": "熊猫计划之部落奇遇记",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"成龙\",\"马丽\",\"乔杉\",\"于洋\",\"王影璐\",\"张子栋\",\"王成思\",\"柯达\",\"宋木子\",\"冯满\",\"王星\",\"潘斌龙\",\"于荣光\",\"胡笑源\"]",
+        "category": "movie",
+        "genre": "[\" 喜剧\",\"奇幻\",\"喜剧片\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/8185bd5b4a127940d1717ad13dfb1ea7.jpg",
+        "summary": "神秘部落规矩离奇，怪事接连不断！？熊猫胡胡和国际巨星Jackie（成龙 饰）意外穿越进入与世隔绝的原始部落！拥有大小黑眼圈的憨萌熊猫胡胡竟被奉为“天降神兽”，还被族人们予以重任，坚信她能化解部落危机。为守护胡胡，Jackie只得与怪异的族人们斗智斗勇：偶尔御风飞翔的族长（马丽 饰）、偶尔萌猛反差的勇士强杉（乔杉 饰）、偶尔神力附体的王子图鲁（于洋 饰）和全程身手不凡的公主纱依（王影璐 饰），这场奇遇又会藏着怎样的爆笑冒险？胡胡能否化解部落的危机？神秘的部落背后又会隐藏着怎样的古老秘密？",
+        "type": "电影",
+        "fromWebUrl": "https://cj.hongniuzy1.com/index.php/vod/detail/id/X3eCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/bkR8o0xa/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 375,
         "title": "特立独行",
         "originalTitle": "",
