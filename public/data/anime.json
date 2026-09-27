@@ -1,5 +1,28 @@
 [
     {
+        "id": 380,
+        "title": "名侦探柯南：30号杀人事件",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"高山南\",\"冈村明美\",\"小山力也\",\"池田依来沙\"]",
+        "category": "tv",
+        "genre": "[\" 动画\",\"悬疑\",\"犯罪\",\"动画片\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/2011984a9847a2680ddfa49a73560225.jpg",
+        "summary": "印有“东都塔”图案的新版一万日元纸币正式发行，一时间引发社会热议。柯南与少年侦探团、阿笠博士、小兰、园子一同前往日本纸币印刷局长野工厂参观。\n　　与此同时，警视厅召集了黑田管理官、目暮、佐藤、高木等搜查一课警员，以及风见裕也等公安部人员。\n　　文书鉴定技官里见透子判定，佐藤与高木侦办的杀人案中查获的新版一万日元纸币为假钞，警方随即成立搜查本部。\n　　由于这是日本境内发现的第30种伪造纸币，本案被通称为“30号事件”，这批假钞也被命名为“Ultra 30”。\n　　新版纸币出现假钞流通——这一史无前例的消息曝",
+        "type": "动漫",
+        "fromWebUrl": "https://cj.hongniuzy1.com/index.php/vod/detail/id/5JkCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "正片",
+                "source": "https://hn.bfvvs.com/play/e1w9nnVb/index.m3u8",
+                "id": 1
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 369,
         "title": "赛车总动员3：极速挑战（国语版）",
         "originalTitle": "",
