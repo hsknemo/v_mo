@@ -1,5 +1,73 @@
 [
     {
+        "id": 377,
+        "title": "我不是大师",
+        "originalTitle": "",
+        "year": "2026",
+        "rating": "0.0",
+        "cast": "[\"李现\",\"李一桐\"]",
+        "category": "tv",
+        "genre": "[\" 男性传奇\",\"局中局\",\"反转\",\"内地剧\"]",
+        "isEnd": "undefined",
+        "poster": "https://hongniuzyimage.com/cover/df31a636d493b0e715a5978a1c873f64.jpg",
+        "summary": "神秘组织天相派以命理行骗，复仇者上官诚明再遇仇人江飞燕反向设局！以骗治骗，反转不断！",
+        "type": "电视剧",
+        "fromWebUrl": "https://cj.hongniuzy1.com/index.php/vod/detail/id/MEkCCS.html?ac=detail",
+        "episodeList": [
+            {
+                "title": "第01集",
+                "source": "https://hn.bfvvs.com/play/dNk8GlKe/index.m3u8",
+                "id": 1
+            },
+            {
+                "title": "第02集",
+                "source": "https://hn.bfvvs.com/play/e3193znb/index.m3u8",
+                "id": 2
+            },
+            {
+                "title": "第03集",
+                "source": "https://hn.bfvvs.com/play/e9r2jJ4a/index.m3u8",
+                "id": 3
+            },
+            {
+                "title": "第04集",
+                "source": "https://hn.bfvvs.com/play/bW681xXa/index.m3u8",
+                "id": 4
+            },
+            {
+                "title": "第05集",
+                "source": "https://hn.bfvvs.com/play/e9r2y83a/index.m3u8",
+                "id": 5
+            },
+            {
+                "title": "第06集",
+                "source": "https://hn.bfvvs.com/play/bmZEnw0d/index.m3u8",
+                "id": 6
+            },
+            {
+                "title": "第7集",
+                "source": "https://hn.bfvvs.com/play/bo2OP2Ba/index.m3u8",
+                "id": 7
+            },
+            {
+                "title": "第8集",
+                "source": "https://hn.bfvvs.com/play/egJkPJGd/index.m3u8",
+                "id": 8
+            },
+            {
+                "title": "第9集",
+                "source": "https://hn.bfvvs.com/play/bW68R54a/index.m3u8",
+                "id": 9
+            },
+            {
+                "title": "第10集",
+                "source": "https://hn.bfvvs.com/play/e319Gk4b/index.m3u8",
+                "id": 10
+            }
+        ],
+        "episodes": "完结"
+    },
+    {
         "id": 376,
         "title": "一瓯春",
         "originalTitle": "",
@@ -83,6 +151,51 @@
                 "title": "第14集",
                 "source": "https://hn.bfvvs.com/play/dNk8XB2e/index.m3u8",
                 "id": 14
+            },
+            {
+                "title": "第15集",
+                "source": "https://hn.bfvvs.com/play/e319VZMb/index.m3u8",
+                "id": 15
+            },
+            {
+                "title": "第16集",
+                "source": "https://hn.bfvvs.com/play/bYEMXoKb/index.m3u8",
+                "id": 16
+            },
+            {
+                "title": "第17集",
+                "source": "https://hn.bfvvs.com/play/bmZEk1Ad/index.m3u8",
+                "id": 17
+            },
+            {
+                "title": "第18集",
+                "source": "https://hn.bfvvs.com/play/eERP2Rka/index.m3u8",
+                "id": 18
+            },
+            {
+                "title": "第19集",
+                "source": "https://hn.bfvvs.com/play/dNk82kze/index.m3u8",
+                "id": 19
+            },
+            {
+                "title": "第20集",
+                "source": "https://hn.bfvvs.com/play/dJ6PRDJd/index.m3u8",
+                "id": 20
+            },
+            {
+                "title": "第21集",
+                "source": "https://hn.bfvvs.com/play/dPNY8N1a/index.m3u8",
+                "id": 21
+            },
+            {
+                "title": "第22集",
+                "source": "https://hn.bfvvs.com/play/e9r2ml8a/index.m3u8",
+                "id": 22
+            },
+            {
+                "title": "第23集",
+                "source": "https://hn.bfvvs.com/play/bmZEPAEd/index.m3u8",
+                "id": 23
             }
         ],
         "episodes": "完结"
@@ -329,6 +442,66 @@
                 "title": "第24集",
                 "source": "https://hn.bfvvs.com/play/e1w9Evmb/index.m3u8",
                 "id": 24
+            },
+            {
+                "title": "第25集",
+                "source": "https://hn.bfvvs.com/play/bo2OXw3a/index.m3u8",
+                "id": 25
+            },
+            {
+                "title": "第26集",
+                "source": "https://hn.bfvvs.com/play/dR6Ljpqd/index.m3u8",
+                "id": 26
+            },
+            {
+                "title": "第27集",
+                "source": "https://hn.bfvvs.com/play/e5yW0JBe/index.m3u8",
+                "id": 27
+            },
+            {
+                "title": "第28集",
+                "source": "https://hn.bfvvs.com/play/av2jx9Ma/index.m3u8",
+                "id": 28
+            },
+            {
+                "title": "第29集",
+                "source": "https://hn.bfvvs.com/play/av2jwWga/index.m3u8",
+                "id": 29
+            },
+            {
+                "title": "第30集",
+                "source": "https://hn.bfvvs.com/play/bW68v6oa/index.m3u8",
+                "id": 30
+            },
+            {
+                "title": "第31集",
+                "source": "https://hn.bfvvs.com/play/bW68l6ga/index.m3u8",
+                "id": 31
+            },
+            {
+                "title": "第32集",
+                "source": "https://hn.bfvvs.com/play/bkRolZxa/index.m3u8",
+                "id": 32
+            },
+            {
+                "title": "第33集",
+                "source": "https://hn.bfvvs.com/play/bYEMREMb/index.m3u8",
+                "id": 33
+            },
+            {
+                "title": "第34集",
+                "source": "https://hn.bfvvs.com/play/e73AkLre/index.m3u8",
+                "id": 34
+            },
+            {
+                "title": "第35集",
+                "source": "https://hn.bfvvs.com/play/dNk8RVme/index.m3u8",
+                "id": 35
+            },
+            {
+                "title": "第36集",
+                "source": "https://hn.bfvvs.com/play/bYEMRkWb/index.m3u8",
+                "id": 36
             }
         ],
         "episodes": "完结"
